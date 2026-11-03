@@ -1,0 +1,11 @@
+# Build local do Jekyll — o GitHub Pages reconstrói do fonte.
+_site/
+.jekyll-cache/
+.sass-cache/
+Gemfile.lock
+
+# Segredos: o .envrc é gerado por prj.sh -r em cada máquina, e nunca vai ao git.
+.envrc
+
+.DS_Store
+Thumbs.db

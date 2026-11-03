@@ -1,0 +1,45 @@
+title: Katatu
+description: "Manual do usuário do Katatu."
+lang: pt-BR
+permalink: pretty
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Voltar ao topo"
+
+# Callouts (admonitions) — mesmos nomes usados nos outros manuais da casa.
+callouts:
+  note:
+    title: Nota
+    color: blue
+  tip:
+    title: Dica
+    color: green
+  warning:
+    title: Atenção
+    color: yellow
+  important:
+    title: Importante
+    color: red
+  example:
+    title: Exemplo
+    color: purple
+
+# Excluir do build (não publicar no site)
+exclude:
+  - "*.sh"
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
