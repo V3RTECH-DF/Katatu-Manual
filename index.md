@@ -18,6 +18,7 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 - **Sou consultoria de RH atendendo várias empresas-clientes:** veja [4. Modo Consultoria e Passagem de Bastão Assinada](#4-consultoria-de-rh--carteiras-de-clientes-e-passagem-de-bastão).
 - **Preciso configurar organograma, filiais, chaves de IA (BYOK) ou retenção LGPD:** veja [5. Administrador da Organização — Estrutura, IA e Governança LGPD](#5-administrador-da-organização--estrutura-ia-e-governança-lgpd).
 - **Preciso gerir licenças `V3RLicense`, cópias cifradas externas ou ensaio de restauração:** veja [6. Administrador do Serviço — Licenças, Cópias Cifradas e Manutenção](#6-administrador-do-serviço--licenças-cópias-cifradas-e-manutenção).
+- **Quero enviar um relato, uma sugestão ou anexar um arquivo ao feedback:** veja [Enviar um relato ou sugestão, com anexos](#enviar-um-relato-ou-sugestão-com-anexos).
 
 ![Visão geral da tela de entrada do Katatu em desktop](assets/capturas/manual-01-entrar-desktop.png)
 ![Visão geral da tela de entrada do Katatu no celular (375px)](assets/capturas/manual-01-entrar-mobile.png)
@@ -201,7 +202,7 @@ Toda a operação crítica da plataforma — ativação do primeiro administrado
 3. **Cópias de segurança cifradas e Kit de Recuperação (`Sistema > Manutenção`):**
    - Antes de habilitar um destino externo (S3/R2, WebDAV, SFTP ou Google Drive), clique em **Baixar Kit de Recuperação Independente**, informe seu código MFA atual (*step-up*) e digite a frase de confirmação. O kit inclui o script autônomo de decifragem `AES-256-GCM + HMAC-SHA256`.
    - Para testar a integridade de uma cópia sem afetar os dados em produção, clique em **Executar Ensaio de Restauração**: o sistema valida a assinatura HMAC, decifra o snapshot em transação isolada de teste e exibe o certificado de integridade.
-4. **Caixa de sugestões e relatos (`Sistema > Feedbacks`):** filtre por tipo/status e, ao aplicar alteração de status em lote pela `ListaComAcoes`, confirme a contagem exata de itens selecionados (`confirmacaoContagem`).
+4. **Envios de feedback que não chegaram ao GitHub (`Início do serviço`):** a tela mostra quantos envios ficaram retidos. Toque em **Reenviar agora** para tentar na hora; o servidor também tenta sozinho. A tela não mostra o texto dos relatos: quem os lê é a issue no GitHub.
 
 ![Painel do Sistema e Administração em desktop](assets/capturas/manual-08-sistema-desktop.png)
 ![Painel do Sistema e Administração no celular (375px)](assets/capturas/manual-08-sistema-mobile.png)
@@ -217,6 +218,49 @@ Toda a operação crítica da plataforma — ativação do primeiro administrado
 - **Katatu Gap:** plano vivo dos primeiros 90 dias gerado na posse, combinando amortecedores obrigatórios, trilha formativa e abatimento de cursos equivalentes da Carteira Pessoal.
 - **Katatu Mapa:** visão organizacional contínua de cobertura de competências, prontidão de sucessão imediata, sucessão programada e alertas de sobrecarga estrutural.
 - **Retrato de Atuação:** devolutiva individual privativa entregue a toda pessoa avaliada, focada em pontos de força e desenvolvimento, sem rótulos de aprovação/reprovação.
+
+---
+
+## Enviar um relato ou sugestão, com anexos
+
+### Por que isto importa
+
+Um relato que diz em qual tela você estava, o que fez e o que aconteceu permite à equipe achar o problema sem perguntar de novo. Antes de enviar, veja se o Manual já responde à sua dúvida: a caixa de envio tem um link para ele. O cuidado que mais importa aqui é com o anexo, porque arquivos carregam dados que você não vê, e tudo o que é enviado passa a ser da equipe de suporte.
+
+### Passo a passo
+
+1. Toque em **Feedback**, no topo da tela. Se você não consegue passar da tela de entrada, use **Problemas para entrar? Envie um feedback**, no canto inferior esquerdo.
+2. Em **Categoria**, escolha **Sugestão**, **Problema**, **Elogio**, **Depoimento** ou **Dúvida**.
+3. Escreva o relato no campo de descrição: em qual tela você estava, o que fez e o que esperava que acontecesse.
+4. Se quiser anexar arquivos, toque em **Selecionar arquivos...** e escolha até 3, com no máximo 10 MB cada. São aceitos PNG, JPEG, WebP e PDF.
+   - **Imagens (PNG, JPEG, WebP):** o Katatu remove sozinho a localização onde a foto foi tirada e outros dados escondidos antes de enviar. Você não precisa fazer nada.
+   - **PDF:** o Katatu não consegue limpar os dados escondidos de um PDF. Ao anexá-lo, aparece uma caixa de confirmação de risco com este texto: "Este PDF pode conter dados pessoais escondidos (como nome do autor e datas) e será enviado à equipe de suporte. Se possível, envie uma captura de tela no lugar. Assumo a responsabilidade pelo envio." Leia e marque a caixa.
+5. Se você estiver fora do sistema, informe o seu **e-mail**, para receber a resposta.
+6. Toque em **Enviar Feedback**. Enquanto houver um PDF sem a caixa marcada, o botão fica desabilitado e nada é enviado.
+
+### Exemplo concreto
+
+**Marina Alves** não consegue passar da tela de entrada do convite pelo celular. Ela toca em **Problemas para entrar? Envie um feedback**, escolhe a categoria **Problema** e escreve: "Ao abrir o link pelo celular, a tela de entrada fica em branco." Anexa uma captura de tela dessa tela (PNG). A imagem sai sem a localização do celular. Como está fora do sistema, informa o e-mail e toca em **Enviar Feedback**. Se, em vez da captura, tivesse anexado o PDF do convite, teria de marcar a caixa de risco antes de o botão liberar.
+
+### Dicas e armadilhas
+
+- **Prefira captura de tela a PDF.** O PDF guarda o nome do autor, o programa usado e as datas, e nada disso aparece na tela. Uma captura mostra o mesmo conteúdo sem esses dados. Consequência de anexar o PDF inteiro: a equipe recebe esses dados junto com o seu relato, e não há como recolhê-los depois do envio.
+- **Anexe só o trecho que mostra o problema.** Um documento com CPF, salário ou dados de outras pessoas vai para a equipe de suporte. Recorte a parte que importa.
+- **Escreva o relato antes de anexar.** Um anexo sem texto não diz à equipe o que procurar.
+
+### Quando dá errado
+
+| Mensagem na tela | O que significa | O que fazer |
+| :--- | :--- | :--- |
+| `Máximo de 3 anexos permitidos.` | Você tentou anexar mais de três arquivos de uma vez. | Remova um arquivo e envie de novo. |
+| `O arquivo "…" excede o tamanho máximo de 10 MB.` | O arquivo é grande demais. | Envie uma captura de tela, que costuma ser menor, ou recorte a parte que importa. |
+| `Tipo de anexo não permitido` | O arquivo não é PNG, JPEG, WebP nem PDF. Arquivos de programa e de página da web não são aceitos. | Salve a imagem como PNG ou JPEG, ou envie só o texto. |
+| `Anexos desabilitados em repositório público sem e-mail configurado` | Esta instalação do Katatu não aceita anexos no feedback. | Envie o relato só com texto. |
+| Botão **Enviar Feedback** desabilitado | Há um PDF anexado e a caixa de confirmação de risco não está marcada. | Marque a caixa ou remova o PDF. |
+
+### Limites do papel
+
+Qualquer pessoa pode enviar feedback, dentro ou fora do sistema. O relato vai para a equipe de suporte. Quem administra o serviço vê apenas quantos envios não chegaram ao GitHub, sem o texto deles. Se você informou um e-mail, a resposta chega nele.
 
 ---
 
