@@ -1,0 +1,14 @@
+// Tipografia do produto (apps/web/src/index.css e index.html do app): Inter no texto, Exo 2 nos títulos.
+// As fontes são carregadas em _includes/head_custom.html, do mesmo Google Fonts que o app usa.
+h1, h2, h3, h4, h5, h6,
+.text-alpha, .text-beta, .text-gamma, .text-delta, .text-epsilon, .text-zeta,
+.site-title {
+  font-family: "Exo 2", "Inter", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, sans-serif;
+}
+
+h1, .text-alpha { font-weight: 700; }
+h2, h3, h4, .text-beta, .text-gamma, .text-delta { font-weight: 600; }
+
+// Destaque de marca (laranja-escuro do logotipo, Kit Visual --accent #9e2d02; 6,85:1 sobre #f6f6f2).
+a:not([class]):hover { color: #9e2d02; }
+.main-content blockquote { border-left-color: #9e2d02; }

@@ -1,0 +1,25 @@
+// Esquema de cor do manual do Katatu.
+// Origem: Kit Visual do produto (Katatu/Projeto/docs/kit-visual/index.html, tema claro)
+// e cores do logotipo (Code/apps/web/public/katatu-logo-simples.svg).
+// Contrastes (WCAG): texto #0b280b sobre #f6f6f2 = 14,66:1; link #005500 sobre #f6f6f2 = 8,43:1,
+// sobre branco = 9,13:1, sobre a barra lateral #f1f3ee = 8,17:1; texto branco sobre botão #005500 = 9,13:1.
+$color-scheme: light;
+$katatu-verde: #005500;
+$katatu-verde-escuro: #0b280b;
+$katatu-acento: #9e2d02;
+
+$body-font-family: "Inter", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, sans-serif;
+$body-background-color: #f6f6f2;
+$body-heading-color: $katatu-verde-escuro;
+$body-text-color: $katatu-verde-escuro;
+$link-color: $katatu-verde;
+$nav-child-link-color: #435244;
+$sidebar-color: #f1f3ee;
+$border-color: #dce2d9;
+$base-button-color: #ffffff;
+$btn-primary-color: $katatu-verde;
+$code-background-color: #ffffff;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: #ffffff;
+$search-background-color: #ffffff;
+$search-result-preview-color: #435244;
