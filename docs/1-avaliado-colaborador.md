@@ -17,6 +17,8 @@ No Katatu, você não perde tempo criando login e senha antes de participar de u
    - Tudo o que o assistente extrair do seu arquivo aparece destacado com o selo **A confirmar**. Revise cada linha antes de tocar em **Confirmar dados**.
 3. Na etapa de **Conversa Situacional e Entrevista (Camadas 1 e 2)**, responda digitando ou usando o botão **Gravar resposta por voz**.
    - Ao usar voz, o áudio é transcrito na hora em memória temporária e **descartado imediatamente**: você sempre revisa e edita o texto transcrito na tela antes de tocar em **Salvar resposta**.
+   - Se a organização não tiver transcrição configurada, o botão de voz aparece desabilitado com o motivo; você digita a resposta normalmente.
+   - Se você tocar em **Confirmar e seguir** com um texto falado ainda não usado, o app pergunta se você quer **usar** ou **descartar** esse texto; nada se perde sem a sua decisão.
 4. Ao concluir a coleta, acesse **Meu Retrato de Atuação** para consultar e exportar em `PDF` sua devolutiva construtiva (pontos de força observados e recomendações práticas de desenvolvimento, sem rótulos de "aprovado/reprovado" nem comparação com terceiros).
 5. Para guardar sua conta para usos futuros, acesse **Carteira Pessoal > Promover conta**, defina seu e-mail/senha ou vincule sua conta Google.
 
