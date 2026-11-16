@@ -32,6 +32,17 @@ Na aba **Meu desenvolvimento**, a partir da data da sua posse, você pode regist
 
 Ao completar 90 dias, o Katatu convida você a deixar um **complemento final**. Responder é voluntário. O balanço de 90 dias é do seu gestor e só fica disponível para leitura depois de concluído.
 
+### Responder campanhas de avaliação e ver suas avaliações
+
+Quando a sua organização abre uma campanha de avaliação 90º, 180º ou 360º, você recebe pedidos para responder, como gestor imediato, mentor, par, liderado ou na sua própria autoavaliação. Eles aparecem em **Campanhas**, na seção **Para você responder**.
+
+- Cada pedido tem até **3 perguntas**, por texto ou por voz revisada, e um prazo para responder. Responder é voluntário, mas a sua resposta entra no resultado da pessoa avaliada.
+- Se preferir não responder, toque em **Prefiro não responder** e confirme. Você não precisa dar motivo. Por **30 dias** você não recebe novo pedido sobre a mesma pessoa avaliada. Essa opção não aparece na autoavaliação.
+- Se a sua organização ainda não tem acesso seu ao app, o pedido aparece como **aguardando envio por e-mail**, e a campanha segue sem essa resposta.
+- Respostas enviadas depois do prazo são recusadas.
+
+Quando você é a pessoa avaliada, a campanha aparece em **Suas avaliações** só depois que o seu gestor imediato ou o seu mentor registra a conversa sobre o resultado. Antes disso, nada aparece para você. Depois, o resultado mostra as respostas agrupadas por grupo (gestor, mentor, autoavaliação, pares e liderados), embaralhadas, sem nome de quem respondeu nem data. Se um grupo tiver menos de 3 respostas, ele não aparece, e o resultado é marcado como **360º parcial**.
+
 ## Exemplo concreto
 
 **Marina Alves** recebe o convite para a posição de *Coordenadora Pedagógica* na **Rede Educacional Horizonte**. Ela abre o link no celular (`375px`), envia seu certificado de pós-graduação em Gestão Escolar (`PDF`) e grava por voz o relato de como conduziu uma mediação com famílias num conselho de classe crítico. O texto transcrito aparece na caixa de revisão; ela corrige a sigla de um projeto e toca em **Salvar resposta**. Mais tarde, convidada pela **Consultoria Prisma**, seu certificado aparece em **Quarentena de compartilhamento**: ela decide com 1 clique se deseja ou não compartilhá-lo com a segunda organização.
@@ -52,4 +63,4 @@ Ao completar 90 dias, o Katatu convida você a deixar um **complemento final**. 
 
 ## Limites do papel
 
-O avaliado/colaborador enxerga exclusivamente seus próprios dados, sua Carteira Pessoal, seu *Retrato de Atuação* e seu próprio plano *Katatu Gap*. Ele nunca vê outros candidatos, notas de corte internas nem o painel comparativo *Katatu Fit*.
+O avaliado/colaborador enxerga exclusivamente seus próprios dados, sua Carteira Pessoal, seu *Retrato de Atuação*, seu próprio plano *Katatu Gap* e, depois que a conversa é registrada, o seu resultado de campanha de avaliação. Ele nunca vê outros candidatos, quem respondeu cada avaliação, notas de corte internas nem o painel comparativo *Katatu Fit*.

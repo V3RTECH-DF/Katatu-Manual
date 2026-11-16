@@ -69,6 +69,21 @@ A tela tem três abas:
 
 **Dica:** confirme as etapas logo depois que a pessoa aponta, e não espere o dia 90. Assim o balanço já encontra o plano atualizado.
 
+## 2.5 Criar, disparar, encerrar e conversar sobre campanhas de avaliação
+
+Uma campanha de avaliação acontece dentro de uma **janela do calendário institucional** (90º, 180º ou 360º), cadastrada pela administração da organização, e vale para uma unidade. Em **Campanhas**, você vê os pedidos para responder, as conversas que precisa mediar e, se cuida das campanhas, a lista das campanhas da unidade.
+
+1. **Criar:** em **Nova campanha**, escolha a janela do calendário e a unidade, e escreva até **3 perguntas**. A campanha cria uma avaliação para cada ocupante de posição de cargo da unidade e das unidades abaixo dela. Quem ocupa dois cargos é avaliado uma vez em cada um. Nada é enviado ainda.
+2. **Quem responde** vem do organograma. Em todas as campanhas, o gestor imediato e o mentor (na linha pontilhada) respondem. No 180º entram também a autoavaliação. No 360º entram ainda os **pares** (cargos com o mesmo chefe imediato, mais as outras posições do mesmo cargo) e os **liderados** (cargos logo abaixo).
+3. **Disparar:** abre os pedidos para quem responde no app. Só é possível dentro da janela vigente e com a licença da organização em dia. Disparar uma campanha que já foi disparada não cria uma segunda rodada. Você pode disparar uma pessoa ou um lote, sempre com confirmação. Se o cargo não tem gestor imediato ocupado no organograma, a pessoa não pode ser disparada: indique quem ocupa o cargo de cima.
+4. **Acompanhar:** cada pessoa avaliada mostra quantos pedidos foram respondidos, recusados ou ainda aguardam. Quem não tem acesso ao app fica com o pedido **aguardando envio por e-mail**, e a campanha segue sem essa resposta.
+5. **Recusas:** quem prefere não responder não precisa dar motivo. Essa pessoa não recebe novo pedido sobre a mesma avaliada por 30 dias, e a recusa conta como resposta que falta.
+6. **Encerrar:** você encerra uma pessoa ou um lote. O que ainda estiver aberto fecha sozinho no fim da janela; a verificação acontece quando alguém da organização abre a área de Campanhas. Depois de encerrada, a avaliação não reabre e o resultado não muda. Respostas atrasadas são recusadas.
+7. **Resultado e conversa:** o resultado junta as respostas por grupo (gestor, mentor, autoavaliação, pares e liderados), embaralhadas, sem nome nem data. Pares e liderados só aparecem com pelo menos 3 respostas; abaixo disso, esse grupo some e o resultado aparece como **360º parcial**.
+8. **Antes de a pessoa ver:** a pessoa avaliada só vê o resultado depois que você (gestor imediato) ou o mentor conversa com ela e registra a conversa em **Registrar a conversa**. Essa confirmação não se desfaz. Depois dela, o resultado aparece em "Suas avaliações" da pessoa.
+
+**Dica:** leia o resultado antes da conversa. As respostas de pares e liderados aparecem só agrupadas; não tente descobrir quem escreveu cada uma.
+
 ## Quando dá errado
 
 | Mensagem na tela | O que significa | O que fazer |
