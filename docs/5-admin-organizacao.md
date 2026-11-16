@@ -21,7 +21,9 @@ Cada organização tem sua própria topologia (diretorias, regionais, filiais, e
 3. **Publicar vagas e integrar canais (`Divulgação`):**
    - Gere versões do *Perfil da Vaga* adaptadas aos 5 estilos e 5 canais (sempre sobre a projeção pública fechada que nunca vaza campos internos da Matriz Situada).
    - Ative o mural incorporável ou publique direto no **WordPress** via REST API nativa (`wp/v2`) com *Application Password*, sem instalar plugin no site.
-4. **Governança LGPD e Retenção (`Governança LGPD`):**
+4. **Acompanhar o Katatu Mapa (`/mapa`):**
+   - Veja cada cargo com a cobertura de sucessão, a sobrecarga e a última avaliação, somados **por unidade**. Você vê números consolidados, sem nomes. Unidades com menos de 3 pessoas entram na soma da unidade de cima. A exportação em PDF, XLSX ou CSV segue o mesmo nível, sem nomes.
+5. **Governança LGPD e Retenção (`Governança LGPD`):**
    - Configure os prazos de retenção de candidaturas não selecionadas (padrão: 365 dias) e logs de auditoria.
    - Antes de ativar um novo prazo, clique em **Simular Retenção (Modo de Ensaio)** para visualizar exatamente quantos registros seriam avisados (30 e 7 dias antes) ou eliminados, sem apagar nenhum dado real.
 

@@ -78,11 +78,32 @@ Uma campanha de avaliação acontece dentro de uma **janela do calendário insti
 3. **Disparar:** abre os pedidos para quem responde no app. Só é possível dentro da janela vigente e com a licença da organização em dia. Disparar uma campanha que já foi disparada não cria uma segunda rodada. Você pode disparar uma pessoa ou um lote, sempre com confirmação. Se o cargo não tem gestor imediato ocupado no organograma, a pessoa não pode ser disparada: indique quem ocupa o cargo de cima.
 4. **Acompanhar:** cada pessoa avaliada mostra quantos pedidos foram respondidos, recusados ou ainda aguardam. Quem não tem acesso ao app fica com o pedido **aguardando envio por e-mail**, e a campanha segue sem essa resposta.
 5. **Recusas:** quem prefere não responder não precisa dar motivo. Essa pessoa não recebe novo pedido sobre a mesma avaliada por 30 dias, e a recusa conta como resposta que falta.
-6. **Encerrar:** você encerra uma pessoa ou um lote. O que ainda estiver aberto fecha sozinho no fim da janela; a verificação acontece quando alguém da organização abre a área de Campanhas. Depois de encerrada, a avaliação não reabre e o resultado não muda. Respostas atrasadas são recusadas.
+6. **Encerrar:** você encerra uma pessoa ou um lote. O que ainda estiver aberto fecha sozinho no fim da janela; a verificação acontece quando alguém da organização abre a área de Campanhas ou consulta o *Mapa*, que nunca mostra uma campanha vencida como aberta. Depois de encerrada, a avaliação não reabre e o resultado não muda. Respostas atrasadas são recusadas.
 7. **Resultado e conversa:** o resultado junta as respostas por grupo (gestor, mentor, autoavaliação, pares e liderados), embaralhadas, sem nome nem data. Pares e liderados só aparecem com pelo menos 3 respostas; abaixo disso, esse grupo some e o resultado aparece como **360º parcial**.
 8. **Antes de a pessoa ver:** a pessoa avaliada só vê o resultado depois que você (gestor imediato) ou o mentor conversa com ela e registra a conversa em **Registrar a conversa**. Essa confirmação não se desfaz. Depois dela, o resultado aparece em "Suas avaliações" da pessoa.
 
 **Dica:** leia o resultado antes da conversa. As respostas de pares e liderados aparecem só agrupadas; não tente descobrir quem escreveu cada uma.
+
+## 2.6 Ler o *Katatu Mapa* e a sucessão de cada cargo
+
+O **Katatu Mapa** (em **Mapa**, no menu) mostra, para cada cargo da sua unidade, quem pode assumir. Ele é calculado na hora, a partir das avaliações e dos processos da própria unidade, por isso sempre reflete o estado atual.
+
+A lista de cargos mostra quatro colunas:
+
+- **Cobertura:** sucessão imediata (um candidato na Faixa 1 ou 2), programada (candidato com estilo compatível cuja trilha cabe no prazo até o fim do ciclo) ou ninguém, ou sem dados.
+- **Sucessores:** quem aparece como candidato a cada cargo.
+- **Sobrecarga:** aparece quando, em dois processos seletivos seguidos, um candidato capaz foi recusado por causa da carga, ou o balanço de 90 dias ficou acima do previsto.
+- **Última avaliação:** a data e o tipo da última campanha encerrada do ocupante.
+
+Use o filtro por unidade para ver uma parte da organização. No detalhe de cada cargo aparecem os candidatos de baixo no organograma, com a faixa, os meses de preparo e o que falta a cada um.
+
+- **Sem dados:** a faixa só aparece para quem concluiu a coleta na Matriz daquele cargo. Quem não concluiu aparece como "sem dados: falta coleta para esta cadeira", com a ação **Convidar para a coleta**. Não é zero: é falta de registro.
+- **Não selecionado:** quem levou "não" na escolha do Fit para um cargo fica fora do Mapa desse cargo até abrir um novo processo seletivo.
+- **Pessoas que sinalizaram "Aberto a outras posições":** aparecem como candidatas, mas você só as vê no Mapa de cargos da sua unidade.
+
+Para levar a lista a uma reunião, selecione os cargos e exporte em **PDF**, **XLSX** ou **CSV**. A exportação traz os nomes, porque você é o gestor da unidade.
+
+**Dica:** o Mapa não é uma nota. Ele mostra quem está pronto e o que falta; a decisão de sucessão continua sendo sua.
 
 ## Quando dá errado
 

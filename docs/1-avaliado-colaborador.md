@@ -43,6 +43,16 @@ Quando a sua organização abre uma campanha de avaliação 90º, 180º ou 360º
 
 Quando você é a pessoa avaliada, a campanha aparece em **Suas avaliações** só depois que o seu gestor imediato ou o seu mentor registra a conversa sobre o resultado. Antes disso, nada aparece para você. Depois, o resultado mostra as respostas agrupadas por grupo (gestor, mentor, autoavaliação, pares e liderados), embaralhadas, sem nome de quem respondeu nem data. Se um grupo tiver menos de 3 respostas, ele não aparece, e o resultado é marcado como **360º parcial**.
 
+### Dizer se está aberto a outras posições
+
+Na aba **Outras posições** do **Meu Perfil** você pode ligar **Aberto a outras posições**. Antes de ligar, o app mostra um aviso explicando o que muda. Ligado, você passa a aparecer como candidata no **Katatu Mapa** das posições de outras unidades, e só para o gestor da unidade da posição.
+
+- Você pode desligar na hora, quando quiser. Desligado, você volta a aparecer apenas no Mapa da sua unidade e das unidades abaixo dela.
+- Seu gestor imediato, a linha acima dele e quem gere a sua unidade **não veem** esse sinal, e ele não aparece em exportações nem em totais.
+- O app guarda cada vez que você liga ou desliga, com a versão do aviso que você leu. Isso serve como registro do seu consentimento.
+
+**Dica:** ligar o sinal não garante nenhuma vaga. Ele só permite que o gestor da outra unidade veja você como candidata na avaliação de sucessão.
+
 ## Exemplo concreto
 
 **Marina Alves** recebe o convite para a posição de *Coordenadora Pedagógica* na **Rede Educacional Horizonte**. Ela abre o link no celular (`375px`), envia seu certificado de pós-graduação em Gestão Escolar (`PDF`) e grava por voz o relato de como conduziu uma mediação com famílias num conselho de classe crítico. O texto transcrito aparece na caixa de revisão; ela corrige a sigla de um projeto e toca em **Salvar resposta**. Mais tarde, convidada pela **Consultoria Prisma**, seu certificado aparece em **Quarentena de compartilhamento**: ela decide com 1 clique se deseja ou não compartilhá-lo com a segunda organização.
