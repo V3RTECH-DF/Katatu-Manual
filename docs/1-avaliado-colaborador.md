@@ -26,6 +26,12 @@ No Katatu, você não perde tempo criando login e senha antes de participar de u
 ![Fluxo de convite e coleta na Camada 0 em desktop](../assets/capturas/manual-02-coleta-desktop.png)
 ![Fluxo de convite e coleta na Camada 0 no celular (375px)](../assets/capturas/manual-02-coleta-mobile.png)
 
+### Registrar notas de realidade depois da posse
+
+Na aba **Meu desenvolvimento**, a partir da data da sua posse, você pode registrar quantas notas quiser sobre o que está vivendo no cargo: por texto ou por voz, com as horas da semana, se quiser. Uma nota gravada não muda; só pode ser apagada, uma vez, por você. Seu gestor imediato também registra notas, e você as lê com o nome de quem escreveu.
+
+Ao completar 90 dias, o Katatu convida você a deixar um **complemento final**. Responder é voluntário. O balanço de 90 dias é do seu gestor e só fica disponível para leitura depois de concluído.
+
 ## Exemplo concreto
 
 **Marina Alves** recebe o convite para a posição de *Coordenadora Pedagógica* na **Rede Educacional Horizonte**. Ela abre o link no celular (`375px`), envia seu certificado de pós-graduação em Gestão Escolar (`PDF`) e grava por voz o relato de como conduziu uma mediação com famílias num conselho de classe crítico. O texto transcrito aparece na caixa de revisão; ela corrige a sigla de um projeto e toca em **Salvar resposta**. Mais tarde, convidada pela **Consultoria Prisma**, seu certificado aparece em **Quarentena de compartilhamento**: ela decide com 1 clique se deseja ou não compartilhá-lo com a segunda organização.
