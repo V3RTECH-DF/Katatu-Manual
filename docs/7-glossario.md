@@ -13,3 +13,4 @@ permalink: /7-glossario/
 - **Katatu Gap:** plano vivo dos primeiros 90 dias gerado na posse, combinando amortecedores obrigatórios, trilha formativa e abatimento de cursos equivalentes da Carteira Pessoal.
 - **Katatu Mapa:** visão organizacional contínua de cobertura de competências, prontidão de sucessão imediata, sucessão programada e alertas de sobrecarga estrutural.
 - **Retrato de Atuação:** devolutiva individual privativa entregue a toda pessoa avaliada, focada em pontos de força e desenvolvimento, sem rótulos de aprovação/reprovação.
+- **Lixeira:** lugar onde fica, por 30 dias, o que foi apagado no Katatu. Dali o item volta igual com um clique; depois dos 30 dias, a rotina de retenção da organização exclui de vez.

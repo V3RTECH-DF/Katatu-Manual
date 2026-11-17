@@ -117,9 +117,45 @@ Em **Vagas**, o botão **Vagas no site** leva à página onde você publica as v
 
 **Dica:** antes de publicar, confira no mural se o texto da vaga está como você quer. Depois de publicado, qualquer edição na vaga é refletida no site.
 
+## 2.8 Lixeira: apagar e restaurar
+
+Apagar no Katatu não é para sempre. O que você apaga sai na hora de todas as listas, telas e cálculos, inclusive do *Katatu Mapa*, e vai para a **Lixeira**. Lá ele fica 30 dias e pode voltar com um clique, igual a como estava.
+
+**O que vai para a lixeira:** vagas, rascunhos de anúncio, coletas, campanhas de avaliação (com as avaliações delas), avaliações de campanha e notas de realidade do acompanhamento.
+
+**O que vai junto com a vaga:** os anúncios, os interessados, o post do site e os convites da vaga. As coletas e as decisões do *Katatu Fit* **não** vão junto, porque são da Matriz Situada e podem servir a outra vaga da mesma Matriz e ao *Mapa*. Para tirar uma coleta, apague a coleta.
+
+**Vaga com posse registrada:** não vai para a lixeira. A pessoa já está no cargo, e o acompanhamento dela nasce da posse. Para tirar a vaga da lista, **encerre** a vaga.
+
+**Para restaurar:**
+
+1. Abra **Lixeira** no menu.
+2. Encontre o item. A lista mostra o que é, quem apagou, quando e a data a partir da qual ele pode ser excluído de vez.
+3. Clique em **Restaurar** na linha, ou marque vários itens e restaure em lote. O resultado separa o que voltou, o que foi recusado (com o motivo) e o que falhou.
+
+**Quem restaura:** quem apagou, se ainda tiver o direito de apagar aquele item na unidade dele, e a Administração da organização. Se você mudou de função e perdeu esse direito, peça à Administração.
+
+**O que volta e o que não volta:**
+
+- O item volta igual, com os vínculos e o histórico.
+- A vaga restaurada volta sozinha ao mural do site da organização. No WordPress, publique de novo em **Vagas no site**.
+- Os convites não são reenviados: se a pessoa precisa voltar a responder, convide de novo.
+- A campanha volta com as avaliações que estavam valendo quando ela foi apagada. Uma avaliação apagada antes da campanha continua na lixeira e volta sozinha, depois da campanha.
+- Uma avaliação só volta com a campanha dela fora da lixeira, e um rascunho de anúncio só volta com a vaga dele fora da lixeira.
+
+**Exclusão de vez:** não existe botão para excluir de vez. Depois dos 30 dias, quem exclui é a rotina de retenção dos dados da organização; até ela rodar, o item continua na lixeira com o aviso "exclusão pendente". Um item com retenção legal mostra o motivo e não é excluído.
+
+**Seus próprios dados:** o que você apaga no **Meu Perfil** sobre você mesmo sai na hora e não passa pela lixeira.
+
+**Dica:** antes de apagar uma vaga que já preencheu, prefira **encerrar**. A vaga encerrada continua no histórico, sem aparecer nas listas de vagas abertas.
+
 ## Quando dá errado
 
 | Mensagem na tela | O que significa | O que fazer |
 | :--- | :--- | :--- |
 | `422 amortecedor_obrigatorio_pendente` | Tentativa de dar posse a uma pessoa na Faixa 3 sem preencher amortecedor, responsável e prazo para cada item abaixo do Piso. | Preencha os três campos obrigatórios em todas as lacunas listadas antes de confirmar a posse. |
 | `402 licenca_expirada_novos_ciclos_bloqueados` | A licença da instalação venceu após os 14 dias de carência. | Vagas abertas, *Katatu Gap*, *Mapa* e exportações continuam funcionando; peça ao `admin_servico` para renovar a chave `V3RLicense`. |
+| "Esta vaga já tem posse registrada: encerre a vaga em vez de apagá-la." | A vaga já tem uma pessoa empossada; apagar faria sumir o acompanhamento dela. | Use **Encerrar** na vaga. |
+| "Só quem apagou, ainda com o direito de apagar este item, ou a Administração restaura." | Você não apagou o item, ou não tem mais o direito de apagá-lo na unidade dele. | Peça à Administração da organização para restaurar. |
+| "Esta pessoa já tem outra coleta ativa nesta Matriz." | A coleta apagada não volta por cima de outra coleta valendo da mesma pessoa. | Use a coleta que está valendo, ou cancele-a antes de restaurar a antiga. |
+| "A campanha desta avaliação está na lixeira: restaure a campanha antes." | A avaliação só volta com a campanha dela fora da lixeira. | Restaure a campanha primeiro. |
