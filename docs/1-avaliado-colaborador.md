@@ -53,6 +53,20 @@ Na aba **Outras posições** do **Meu Perfil** você pode ligar **Aberto a outra
 
 **Dica:** ligar o sinal não garante nenhuma vaga. Ele só permite que o gestor da outra unidade veja você como candidata na avaliação de sucessão.
 
+### Vagas internas e "Quero participar"
+
+Algumas vagas são **internas**: aparecem só para quem é da organização. Quando há uma vaga interna aberta para você, aparecem o cartão **Vagas internas abertas** no Início e o item **Vagas internas** no menu. Você não vê essa lista se não houver vaga interna aberta.
+
+- Na lista, você vê as vagas abertas, menos a do cargo que você ocupa hoje.
+- Toque em **Quero participar** para pedir. Você não precisa confirmar e-mail nem resolver verificação, porque já está logado. Depois do pedido, a vaga mostra **Pedido enviado em dd/mm**.
+- Quem decide a vaga recebe o seu pedido e pode chamar você para a coleta. Nesse caso, você recebe o convite de coleta normal.
+- Se o pedido não for aceito, o app não avisa. Para você, o pedido continua como **enviado**.
+- Sua chefia imediata e a linha acima dela não são avisadas do seu pedido, nem veem que você pediu.
+
+**Vaga pelo mural público:** a página de candidatura pública, aberta pelo botão **Quero participar** do mural da organização, pede nome e e-mail. Nesta versão, esse botão aparece desligado, porque a confirmação do e-mail ainda não está pronta. Ele será ligado em uma versão futura.
+
+**Dica:** o pedido não garante vaga. Ele só permite que quem decide veja o seu interesse e avalie você.
+
 ## Exemplo concreto
 
 **Marina Alves** recebe o convite para a posição de *Coordenadora Pedagógica* na **Rede Educacional Horizonte**. Ela abre o link no celular (`375px`), envia seu certificado de pós-graduação em Gestão Escolar (`PDF`) e grava por voz o relato de como conduziu uma mediação com famílias num conselho de classe crítico. O texto transcrito aparece na caixa de revisão; ela corrige a sigla de um projeto e toca em **Salvar resposta**. Mais tarde, convidada pela **Consultoria Prisma**, seu certificado aparece em **Quarentena de compartilhamento**: ela decide com 1 clique se deseja ou não compartilhá-lo com a segunda organização.

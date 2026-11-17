@@ -105,6 +105,18 @@ Para levar a lista a uma reunião, selecione os cargos e exporte em **PDF**, **X
 
 **Dica:** o Mapa não é uma nota. Ele mostra quem está pronto e o que falta; a decisão de sucessão continua sendo sua.
 
+## 2.7 Vagas no site da organização e no WordPress
+
+Em **Vagas**, o botão **Vagas no site** leva à página onde você publica as vagas no site da organização. Só vagas que estão prontas aparecem para publicar: a vaga precisa estar oficializada, aberta e com o anúncio aprovado no canal **página da vaga**. Sem esse anúncio, a vaga não vai ao site.
+
+- **Mural:** cada organização tem uma página pública com as vagas prontas. A página **Vagas no site** traz o trecho para colar no site da organização; você pode filtrar o trecho por unidade.
+- **WordPress:** publique a vaga no WordPress da organização. Cada vaga vira um post que já sai publicado. Quando você edita a vaga ou aprova um anúncio novo, o post é atualizado. Ao encerrar, suspender, apagar ou marcar a vaga como confidencial ou interna, o post sai do ar.
+- **Em lote:** você pode publicar, atualizar ou retirar várias vagas de uma vez. Cada vaga é tratada sozinha: se uma falhar, as outras seguem, e o resultado mostra quais deram certo e quais falharam.
+- **Vaga confidencial:** por enquanto, ela não aparece no mural nem vai ao WordPress. Ao tentar publicar, o app explica o motivo.
+- **Vaga interna:** também não vai ao mural nem ao WordPress. Ela só aparece para as pessoas da organização (veja o capítulo 1).
+
+**Dica:** antes de publicar, confira no mural se o texto da vaga está como você quer. Depois de publicado, qualquer edição na vaga é refletida no site.
+
 ## Quando dá errado
 
 | Mensagem na tela | O que significa | O que fazer |
