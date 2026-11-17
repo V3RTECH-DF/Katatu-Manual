@@ -63,9 +63,17 @@ Algumas vagas são **internas**: aparecem só para quem é da organização. Qua
 - Se o pedido não for aceito, o app não avisa. Para você, o pedido continua como **enviado**.
 - Sua chefia imediata e a linha acima dela não são avisadas do seu pedido, nem veem que você pediu.
 
-**Vaga pelo mural público:** a página de candidatura pública, aberta pelo botão **Quero participar** do mural da organização, pede nome e e-mail. Nesta versão, esse botão aparece desligado, porque a confirmação do e-mail ainda não está pronta. Ele será ligado em uma versão futura.
+**Quero participar pelo mural público (para quem é de fora da organização):** o mural mostra as vagas abertas da organização, no site dela ou numa página pública. Em cada vaga há o botão **Quero participar**. Ao tocar nele, abre-se uma página nova com o título da vaga e o nome da organização.
 
-**Dica:** o pedido não garante vaga. Ele só permite que quem decide veja o seu interesse e avalie você.
+- **O que você preenche:** seu nome e seu e-mail. Antes do envio, há uma verificação para confirmar que é uma pessoa. Ela roda sozinha, e o botão **Quero participar** só fica ativo depois que ela termina.
+- **O código por e-mail:** ao enviar, a tela avisa que, se o e-mail puder receber, um código de 6 dígitos foi enviado. Na mesma página aparece o campo para digitar o código. Digite os 6 dígitos e toque em **Confirmar**. Você não cria senha e não troca de página.
+- **Depois da confirmação:** a tela mostra **Pedido confirmado** e informa que quem decide a vaga já vê o seu pedido. Confirmar o e-mail não cria conta, não gera vínculo com a organização e não dá acesso ao Katatu. O app usa seus dados só para esta candidatura.
+- **Se o código não chegar:** confira a caixa de spam e espere 15 minutos antes de pedir de novo. Um novo pedido para a mesma vaga, depois desse prazo e sem confirmação, manda um código novo. Antes disso, o código anterior continua valendo e nada novo é enviado. Depois de confirmado, o pedido não gera novo código.
+- **Código incorreto ou vencido:** a tela pede que você confira o e-mail mais recente ou peça um código novo mais tarde.
+- **Quando o pedido não é aceito:** vagas confidenciais e internas não recebem pedido pelo mural. Se a vaga já não estiver aberta, a página diz que ela não está mais aberta no site da organização. Se a organização já recebeu o limite de pedidos do dia para aquela vaga, a tela responde do mesmo jeito, mas nenhum e-mail sai. Tente outro dia.
+- **Depois do pedido:** quem decide a vaga pode liberar você para a coleta. Nesse caso, você recebe o convite normal da coleta no seu e-mail. Se você não for escolhido, o app não avisa.
+
+**Dica:** use um e-mail que você consulta com frequência, porque é nele que chegam o código e, se for o caso, o convite da coleta. O pedido não garante vaga: ele só permite que quem decide veja o seu interesse e avalie você.
 
 ## Exemplo concreto
 
