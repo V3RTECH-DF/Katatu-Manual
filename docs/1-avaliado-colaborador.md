@@ -21,7 +21,7 @@ No Katatu, você não perde tempo criando login e senha antes de participar de u
    - Se a franquia de IA da organização tiver acabado no mês, o botão de voz também aparece desabilitado, com o aviso de que a IA está pausada até o próximo mês; o trabalho manual segue normalmente e você digita a resposta.
    - Se você tocar em **Confirmar e seguir** com um texto falado ainda não usado, o app pergunta se você quer **usar** ou **descartar** esse texto; nada se perde sem a sua decisão.
 4. Ao concluir a coleta, acesse **Meu Retrato de Atuação** para consultar e exportar em `PDF` sua devolutiva construtiva (pontos de força observados e recomendações práticas de desenvolvimento, sem rótulos de "aprovado/reprovado" nem comparação com terceiros).
-5. Para guardar sua conta para usos futuros, acesse **Carteira Pessoal > Promover conta**, defina seu e-mail/senha ou vincule sua conta Google.
+5. Seus dados civis e o seu acervo de cursos e certificados ficam na aba **Meus dados** do **Meu Perfil** (veja a seção abaixo).
 
 ![Fluxo de convite e coleta na Camada 0 em desktop](../assets/capturas/manual-02-coleta-desktop.png)
 ![Fluxo de convite e coleta na Camada 0 no celular (375px)](../assets/capturas/manual-02-coleta-mobile.png)
@@ -75,6 +75,37 @@ Algumas vagas são **internas**: aparecem só para quem é da organização. Qua
 
 **Dica:** use um e-mail que você consulta com frequência, porque é nele que chegam o código e, se for o caso, o convite da coleta. O pedido não garante vaga: ele só permite que quem decide veja o seu interesse e avalie você.
 
+### Meus dados e acervo (carteira pessoal)
+
+No **Meu Perfil**, na aba **Meus dados**, fica a sua carteira pessoal. Só você lê e altera.
+
+- **Dados civis:** nome civil, CPF, data de nascimento e telefone com DDD. O app não pede endereço. O CPF é opcional; quando você informa, ele aparece mascarado e não serve para procurar ninguém. Um CPF com dígito errado é recusado.
+- **Acervo:** cursos, formações e certificados. Em cada certificado você guarda o tipo, o título, a instituição, a carga horária, a data de conclusão e o arquivo, em PDF ou imagem de até 5 MB.
+- **Entra sozinho:** o curso que você aponta em **Meu desenvolvimento** aparece no acervo sem precisar digitar de novo.
+- **Apagar:** apagar um item também apaga o arquivo do certificado, na hora. Não existe lixeira para isso.
+- **Exportar:** você exporta tudo ou só os itens escolhidos, em planilha (XLSX ou CSV).
+
+### Aceitar, recusar ou não reconhecer um convite
+
+Quando uma organização convida você, o convite aparece com três escolhas:
+
+- **Aceitar o convite de (nome da organização):** antes de confirmar, o app mostra um aviso com exatamente o que aquela organização passa a ver: seus dados pessoais e o acervo, com os arquivos. Depois que você confirma, quem lê as pessoas da organização vê a sua carteira, com o CPF mascarado. Sem esse vínculo, a organização não vê nada.
+- **Recusar:** apaga o convite. A organização vê só "recusado". Ela pode convidar você de novo depois, sem bloqueio.
+- **Não reconheço:** use quando você não sabe quem é a organização. Apaga o convite e a ficha que ela criou para você, na hora e sem lixeira. A organização fica bloqueada por **30 dias** de convidar esse mesmo e-mail. Para ela, o convite aparece só como "recusado".
+
+**Dica:** se você conhece a organização e só não quer entrar, use **Recusar**. Use **Não reconheço** quando não sabe quem ela é.
+
+### Excluir a sua conta
+
+Na aba **Conta** do **Meu Perfil**, no fim da página, está o botão **Excluir minha conta**. O app pede confirmação e, depois dela, apaga na hora:
+
+- a sua carteira, o acervo e os arquivos;
+- o seu acesso e os seus vínculos com todas as organizações.
+
+Não há como desfazer. Para entrar de novo, você precisa receber um novo convite.
+
+O que você registrou para as organizações, como notas, balanços, campanhas e marcações, continua com elas, mas sem o seu nome. As certidões exigidas pelo ECA ficam com a organização até vencerem. Se você é o único administrador de uma organização inteira, passe a função para outra pessoa antes de excluir a conta.
+
 ## Exemplo concreto
 
 **Marina Alves** recebe o convite para a posição de *Coordenadora Pedagógica* na **Rede Educacional Horizonte**. Ela abre o link no celular (`375px`), envia seu certificado de pós-graduação em Gestão Escolar (`PDF`) e grava por voz o relato de como conduziu uma mediação com famílias num conselho de classe crítico. O texto transcrito aparece na caixa de revisão; ela corrige a sigla de um projeto e toca em **Salvar resposta**. Mais tarde, convidada pela **Consultoria Prisma**, seu certificado aparece em **Quarentena de compartilhamento**: ela decide com 1 clique se deseja ou não compartilhá-lo com a segunda organização.
@@ -83,7 +114,7 @@ Algumas vagas são **internas**: aparecem só para quem é da organização. Qua
 
 - **O que funciona bem:** revisar sempre os itens marcados como **A confirmar** logo após o upload do currículo — isso garante que datas no formato brasileiro (`dd/mm/aaaa`) e cargas horárias entrem exatas no abatimento do seu plano de 90 dias.
 - **O que evitar (e a consequência):** não cole link de perfil fechado (como página do LinkedIn que exige login) esperando importação automática. O Katatu não usa robôs furtivos nem credenciais alheias; quando o link é fechado, o sistema exibe o aviso amigável para que você envie o PDF exportado do perfil ou preencha os campos manualmente.
-- **Proteção contra convite indevido:** recebeu um e-mail de convite que não reconhece? Toque em **Não reconheço este convite**. A organização remetente fica bloqueada por **30 dias** de enviar novos convites para o seu endereço.
+- **Proteção contra convite indevido:** recebeu um convite de uma organização que não reconhece? Toque em **Não reconheço**. A organização fica bloqueada por **30 dias** de enviar novos convites para o seu endereço (veja a seção Aceitar, recusar ou não reconhecer um convite).
 
 ## Quando dá errado
 
