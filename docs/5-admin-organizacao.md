@@ -10,6 +10,28 @@ permalink: /5-admin-organizacao/
 
 Cada organização tem sua própria topologia (diretorias, regionais, filiais, escolas ou unidades operacionais), sua política de uso de inteligência artificial e seus prazos de retenção de dados pessoais. O Katatu permite desenhar níveis livres sem limite de profundidade, proteger equipes pequenas contra identificação indireta e operar 100% funcional mesmo sem IA ativada.
 
+## Configurar a organização
+
+O assistente **Configurar a organização** é o caminho guiado para deixar a organização pronta para uso. Ele tem oito passos, em ordem:
+
+1. **Identidade visual:** nome, logo e cores que aparecem nas telas e nos e-mails.
+2. **Unidades da estrutura:** diretorias, escolas ou setores. Você digita uma a uma, lê a estrutura de um documento com a IA ou importa uma planilha.
+3. **Cargos e posições:** cada cargo do organograma fica numa unidade e tem as posições que alguém ocupa.
+4. **Catálogo:** competências, modelos de cargo e trilhas, e como cada um se liga aos cargos.
+5. **Pessoas:** cadastrar pessoas sem acesso, por planilha, ou convidá-las.
+6. **Papéis:** quem administra e quem gere cada unidade.
+7. **IA (opcional):** chave própria ou franquia da plataforma. Pode ficar para depois.
+8. **Calendário de ciclos:** a programação das campanhas de avaliação. Também pode ficar para depois.
+
+Cada passo mostra para que serve, o que você vai precisar e o caminho mais curto até onde se resolve. Um passo se libera quando os passos de que depende estão feitos. Por exemplo, o Catálogo espera os Cargos, e os Papéis esperam as Pessoas e as Unidades. A IA e o Calendário podem ser feitos a qualquer momento.
+
+- **Como um passo fica feito:** sozinho, quando o mínimo está cadastrado. Por exemplo, o passo de Unidades fica feito com a primeira unidade. Também dá para marcar um passo como feito à mão, desde que os passos de que ele depende estejam feitos.
+- **Como pular:** qualquer passo pode ser pulado. Pular um passo não libera os passos que dependem dele. Marcar e pular podem ser desfeitos.
+- **Quem vê:** só a Administração da organização vê o assistente.
+- **Onde fica:** ao entrar pela primeira vez como Administração de uma organização nova, o assistente abre sozinho uma vez. Depois, a lista **Primeiros passos** aparece no Início, com o que falta e um link para cada passo; ela pode ser recolhida. O assistente também tem entrada fixa em **Configurações da Organização**.
+
+**Dica:** o "?" ao lado de termos como cadeira, cargo, posição, referencial, modelo de cargo e trilha explica o significado do termo nas telas de Cargos, Catálogo e Mapa.
+
 ## Passo a passo
 
 1. **Desenhar unidades e organograma (`Estrutura`):**
