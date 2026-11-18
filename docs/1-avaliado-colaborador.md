@@ -26,6 +26,17 @@ No Katatu, você não perde tempo criando login e senha antes de participar de u
 ![Fluxo de convite e coleta na Camada 0 em desktop](../assets/capturas/manual-02-coleta-desktop.png)
 ![Fluxo de convite e coleta na Camada 0 no celular (375px)](../assets/capturas/manual-02-coleta-mobile.png)
 
+### Aceitar os Termos de Uso e a Política de Privacidade
+
+Os Termos de Uso e a Política de Privacidade valem em duas partes: a da plataforma Katatu e a da sua organização. Quando uma delas ganha versão nova, o app mostra a tela de aceite antes de qualquer outra coisa.
+
+- A tela mostra os termos da plataforma e os da organização juntos. Marque **Li e aceito os Termos de Uso** e **Li e aceito a Política de Privacidade**. O botão **Aceitar e continuar** só fica ativo depois que os dois documentos foram marcados.
+- Enquanto houver uma versão nova pendente, nenhuma outra tela do app abre.
+- Se não concordar, toque em **Recusar e sair**. A recusa encerra a sua sessão, e você só volta a usar o app depois de aceitar.
+- Uma organização pode marcar uma versão como correção, que não muda o conteúdo de fato. Nesse caso você não precisa aceitar de novo.
+
+**Dica:** o aceite fica registrado. Se o texto mudar e você quiser rever antes de aceitar, a tela mostra os documentos com a versão que está valendo.
+
 ### Registrar notas de realidade depois da posse
 
 Na aba **Meu desenvolvimento**, a partir da data da sua posse, você pode registrar quantas notas quiser sobre o que está vivendo no cargo: por texto ou por voz, com as horas da semana, se quiser. Uma nota gravada não muda; só pode ser apagada, uma vez, por você. Seu gestor imediato também registra notas, e você as lê com o nome de quem escreveu.
@@ -75,6 +86,14 @@ Algumas vagas são **internas**: aparecem só para quem é da organização. Qua
 
 **Dica:** use um e-mail que você consulta com frequência, porque é nele que chegam o código e, se for o caso, o convite da coleta. O pedido não garante vaga: ele só permite que quem decide veja o seu interesse e avalie você.
 
+### Banco de talentos
+
+Na candidatura pelo mural e no convite para a coleta aparece a opção **Quero entrar no banco de talentos desta organização**.
+
+- Com a marca, a organização guarda o seu nome, o seu e-mail e o que você respondeu, para chamar você em outras vagas. Quem decide a vaga vê que você está no banco.
+- Sem a marca, esses dados saem 180 dias depois da última movimentação na vaga.
+- Você pode sair quando quiser. Se já tem acesso ao app pelo convite de coleta, o cartão **Banco de talentos (opcional)** em **Minha coleta** mostra a sua situação e permite entrar ou sair.
+
 ### Meus dados e acervo (carteira pessoal)
 
 No **Meu Perfil**, na aba **Meus dados**, fica a sua carteira pessoal. Só você lê e altera.
@@ -94,6 +113,18 @@ Quando uma organização convida você, o convite aparece com três escolhas:
 - **Não reconheço:** use quando você não sabe quem é a organização. Apaga o convite e a ficha que ela criou para você, na hora e sem lixeira. A organização fica bloqueada por **30 dias** de convidar esse mesmo e-mail. Para ela, o convite aparece só como "recusado".
 
 **Dica:** se você conhece a organização e só não quer entrar, use **Recusar**. Use **Não reconheço** quando não sabe quem ela é.
+
+### Pedir a exclusão dos seus dados em uma organização
+
+Na aba **Excluir meus dados** do **Meu Perfil** aparece, para cada organização em que você tem dados, o botão **Pedir a exclusão dos meus dados em (nome da organização)**.
+
+- O pedido é atendido na hora. Você perde o acesso àquela organização, e os seus dados nela são apagados, menos o que a lei manda guardar.
+- Sua conta e as suas outras organizações não mudam.
+- Antes de confirmar, o app pede a confirmação. Sem a verificação em duas etapas ativa, ele pede para ativá-la antes.
+- Se você é o único administrador da organização inteira, o app recusa o pedido e pede que você passe a função para outra pessoa antes.
+- O que a lei manda guardar fica fora das telas e não entra em cálculos. Depois do pedido, o app mostra a lista do que ficou, com o motivo e até quando. Por exemplo: aceites e registros de auditoria ficam por 5 anos; o registro da posse e do acordo de desenvolvimento de quem foi contratado fica enquanto durar o vínculo, mais 2 anos; as certidões exigidas pelo ECA ficam até vencerem.
+
+Isto não se desfaz. Para voltar a essa organização, você precisa receber um novo convite.
 
 ### Excluir a sua conta
 

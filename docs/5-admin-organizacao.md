@@ -8,7 +8,7 @@ permalink: /5-admin-organizacao/
 
 ## Por que isto importa
 
-Cada organização tem sua própria topologia (diretorias, regionais, filiais, escolas ou unidades operacionais), sua política de uso de inteligência artificial e seus prazos de retenção de dados pessoais. O Katatu permite desenhar níveis livres sem limite de profundidade, proteger equipes pequenas contra identificação indireta e operar 100% funcional mesmo sem IA ativada.
+Cada organização tem sua própria topologia (diretorias, regionais, filiais, escolas ou unidades operacionais), sua política de uso de inteligência artificial, os dados do controlador dos dados pessoais e os termos que as pessoas aceitam. Os prazos de retenção são definidos pela plataforma (capítulo 6). O Katatu permite desenhar níveis livres sem limite de profundidade, proteger equipes pequenas contra identificação indireta e operar 100% funcional mesmo sem IA ativada.
 
 ## Configurar a organização
 
@@ -62,9 +62,10 @@ Quem administra a organização conecta o WordPress em **Vagas no site**, na se�
 **Dica:** se a conexão não for conferida, a vaga não é publicada e o app mostra o motivo. Não há um post "fantasma" no site.
 4. **Acompanhar o Katatu Mapa (`/mapa`):**
    - Veja cada cargo com a cobertura de sucessão, a sobrecarga e a última avaliação, somados **por unidade**. Você vê números consolidados, sem nomes. Unidades com menos de 3 pessoas entram na soma da unidade de cima. A exportação em PDF, XLSX ou CSV segue o mesmo nível, sem nomes.
-5. **Governança LGPD e Retenção (`Governança LGPD`):**
-   - Configure os prazos de retenção de candidaturas não selecionadas (padrão: 365 dias) e logs de auditoria.
-   - Antes de ativar um novo prazo, clique em **Simular Retenção (Modo de Ensaio)** para visualizar exatamente quantos registros seriam avisados (30 e 7 dias antes) ou eliminados, sem apagar nenhum dado real.
+5. **Governança LGPD (`/governanca`, em Configurações da Organização):**
+   - **Controlador dos dados pessoais:** informe o endereço completo e o canal de atendimento ao titular, que são obrigatórios. O encarregado de dados (DPO), com nome, e-mail e telefone, é opcional. Os dados passam a valer para as pessoas da organização ao salvar, e cada mudança fica registrada na auditoria.
+   - **Termos e Política da organização:** publique a versão de cada documento. Quando uma versão nova muda o conteúdo, as pessoas da organização aceitam de novo no acesso seguinte. Uma versão pode ser marcada como correção, que não pede novo aceite. Quem publica vê quem ainda não aceitou.
+   - **Prazos de retenção:** a organização não configura prazos. Eles são iguais para todas as organizações da plataforma e definidos pela Administração do Serviço.
 
 ![Tela de Estrutura Organizacional e Organograma em desktop](../assets/capturas/manual-06-estrutura-desktop.png)
 ![Tela de Assistência e Ingestão Multimodal em desktop](../assets/capturas/manual-07-assistencia-desktop.png)
