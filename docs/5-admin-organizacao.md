@@ -168,7 +168,7 @@ O que uma unidade cria fica nela e nas unidades abaixo. Não aparece nas irmãs.
 - **Prazo da etapa vem vazio.** O "30" que aparece apagado dentro do campo é só exemplo. O prazo é obrigatório, e o Katatu não supõe nenhum valor no lugar: sem prazo, a etapa é recusada.
 - **Competência não escolhida.** Uma linha que fica em "Escolha…" é recusada com a mensagem de identificador inválido. Escolha a competência de cada linha.
 - **Nomes repetidos.** O sistema não impede dois referenciais com o mesmo nome, e na lista de escolha eles aparecem repetidos. Procure antes de cadastrar.
-- **Modelo vindo da planilha.** O modelo criado pela importação da Estrutura nasce sem competências. Complete-o antes de criar a Matriz. Se a planilha for importada de novo, confira as competências dos modelos depois, porque a importação grava de novo os modelos que criou.
+- **Modelo vindo da planilha.** O modelo criado pela importação da Estrutura nasce sem competências. Complete-o antes de criar a Matriz. Importar a planilha de novo não apaga as competências que você ligou: ela só atualiza o nome e a descrição do modelo, se tiverem mudado.
 - **Endereço de site.** Não cole endereço de site nos textos. O sistema recusa.
 
 ### Quando dá errado
