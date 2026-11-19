@@ -156,14 +156,16 @@ O que uma unidade cria fica nela e nas unidades abaixo. Não aparece nas irmãs.
 - **Editar** cria uma versão nova, com número. Vale para qualquer mudança no item: nome, descrição, âncoras, competências ou etapas. Salvar sem mudar nada não cria versão.
 - **Vaga ou ciclo já aberto** continua na versão em que começou. A **Matriz oficializada** também não muda. A **Matriz em rascunho** não recebe a mudança sozinha, porque copiou as competências quando nasceu.
 - **Arquivar** tira o item das ofertas. Ele deixa de aparecer para escolha em novos modelos, trilhas e Matrizes, mas continua guardado e nas vagas que já o usam. **Desarquivar** volta a oferecê-lo.
-- **Apagar** só funciona se nenhuma vaga, ciclo ou outro item usa o item. Apagar é definitivo: o item não vai para a lixeira e não volta. Na dúvida, arquive.
+- **Apagar** só funciona se nenhuma vaga, ciclo ou outro item usa o item. O item apagado vai para a **Lixeira**: some na hora das listas e das escolhas, fica lá 30 dias e pode ser restaurado igual a como estava, com as versões. Depois dos 30 dias, a rotina de retenção o exclui de vez. A Lixeira está explicada no capítulo do Gestor.
+- **Arquivar ou apagar?** Arquive o item que já foi usado e não deve ser oferecido de novo. Apague o item que nasceu por engano ou nunca serviu.
 
 ### Dicas e armadilhas
 
 - **Lista de competências vazia.** O formulário de modelo e de trilha só mostra os referenciais que valem para a unidade escolhida. Antes de procurar outro erro, confira a coluna **Nível** e se há referencial cadastrado nesse nível ou acima. A pergunta sobre a lista vazia está nas Perguntas Frequentes.
 - **Etapa fora da sugestão.** A Matriz só recebe a etapa se o grau alvo estiver acima do piso e até o pleno da competência naquela Matriz. Grau igual ao piso, ou acima do pleno, fica de fora. A sugestão não explica por que cada etapa ficou de fora, então confira os graus antes.
 - **Código repetido.** Se duas trilhas visíveis para a mesma Matriz usam o mesmo código de etapa, a sugestão fica só com a primeira, e a outra some sem aviso. Use códigos diferentes entre trilhas: por exemplo, INT para a integração e LID para a liderança.
-- **Valores que já vêm preenchidos.** Uma nova linha de competência começa com piso 1 e pleno 2. Uma nova etapa começa com grau alvo 2 e prazo de 30 dias. Eles aparecem na tela, mas são padrão, não resposta. Confira cada linha antes de salvar.
+- **Valores que já vêm preenchidos.** Uma nova linha de competência começa com piso 1 e pleno 2. Uma nova etapa começa com grau alvo 2. Eles aparecem na tela, mas são padrão, não resposta. Confira cada linha antes de salvar.
+- **Prazo da etapa vem vazio.** O "30" que aparece apagado dentro do campo é só exemplo. O prazo é obrigatório, e o Katatu não supõe nenhum valor no lugar: sem prazo, a etapa é recusada.
 - **Competência não escolhida.** Uma linha que fica em "Escolha…" é recusada com a mensagem de identificador inválido. Escolha a competência de cada linha.
 - **Nomes repetidos.** O sistema não impede dois referenciais com o mesmo nome, e na lista de escolha eles aparecem repetidos. Procure antes de cadastrar.
 - **Modelo vindo da planilha.** O modelo criado pela importação da Estrutura nasce sem competências. Complete-o antes de criar a Matriz. Se a planilha for importada de novo, confira as competências dos modelos depois, porque a importação grava de novo os modelos que criou.
@@ -185,6 +187,9 @@ O que uma unidade cria fica nela e nas unidades abaixo. Não aparece nas irmãs.
 | Código repetido na trilha: já existe outra etapa com o mesmo código. | Duas etapas da trilha têm o mesmo código. | Dê um código diferente a cada etapa. |
 | Prazo sugerido: inteiro de 1 a 3650 dias. | Prazo vazio, zero, com decimal ou acima de 3650. | Informe um número inteiro de dias. |
 | O item está em uso por vagas, ciclos ou outros itens e não pode ser apagado. | Tentativa de apagar um item que outro item usa. | Arquive o item. A mensagem mostra o que o usa. |
+| O item "…" está na lixeira: restaure-o ou espere a exclusão definitiva. | A planilha importada traz um item com o mesmo identificador de origem de um item que está na Lixeira. | Restaure o item pela Lixeira e importe de novo, ou espere os 30 dias. Nada da planilha é gravado enquanto houver uma linha recusada. |
+| Uma competência deste item está na lixeira: restaure-a antes. | Na Lixeira, o modelo de cargo ou a trilha usa um referencial que também está lá. | Restaure antes o referencial e depois o modelo ou a trilha. |
+| Uma competência deste item foi excluída de vez: ele não pode mais voltar como estava. | O referencial que o modelo ou a trilha usava passou dos 30 dias e foi excluído. | Cadastre o modelo ou a trilha de novo, com um referencial que exista. |
 | O modelo de cargo não existe, está arquivado ou não vale para esta unidade. | Ao criar a Matriz, o modelo escolhido não está disponível. | Escolha outro modelo, ou desarquive o existente. |
 | Não foi possível carregar os referenciais para escolha. | A lista de competências não carregou. | Atualize a tela. Se continuar, tente mais tarde. |
 | Não foi possível salvar agora. Tente de novo. | Falha de conexão ou erro inesperado. | Tente de novo. Os dados digitados continuam na tela. |

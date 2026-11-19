@@ -126,7 +126,7 @@ Em **Vagas**, o botão **Vagas no site** leva à página onde você publica as v
 
 Apagar no Katatu não é para sempre. O que você apaga sai na hora de todas as listas, telas e cálculos, inclusive do *Katatu Mapa*, e vai para a **Lixeira**. Lá ele fica 30 dias e pode voltar com um clique, igual a como estava.
 
-**O que vai para a lixeira:** vagas, rascunhos de anúncio, coletas, campanhas de avaliação (com as avaliações delas), avaliações de campanha e notas de realidade do acompanhamento.
+**O que vai para a lixeira:** vagas, rascunhos de anúncio, coletas, campanhas de avaliação (com as avaliações delas), avaliações de campanha, notas de realidade do acompanhamento e os itens do catálogo (referenciais, modelos de cargo e trilhas).
 
 **O que vai junto com a vaga:** os anúncios, os interessados, o post do site e os convites da vaga. As coletas e as decisões do *Katatu Fit* **não** vão junto, porque são da Matriz Situada e podem servir a outra vaga da mesma Matriz e ao *Mapa*. Para tirar uma coleta, apague a coleta.
 
