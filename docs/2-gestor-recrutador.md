@@ -8,7 +8,7 @@ permalink: /2-gestor-recrutador/
 
 ## Por que isto importa
 
-Avaliações tradicionais falham porque usam descrições genéricas de cargo ("boa comunicação", "proatividade") e tiram uma média que esconde lacunas graves. No Katatu, você desenha a **Matriz Situada da Função** nos **4 eixos reais de trabalho** e define dois marcos separados para cada competência (`0` a `3`): o **Piso (Dia 1)** — abaixo do qual a pessoa não consegue operar com segurança no primeiro dia — e o **Pleno (Dia 90)** — o patamar esperado após três meses com suporte. O motor *Katatu Fit* é **100% determinístico**: nenhum desvio abaixo do piso é mascarado por nota alta em outra competência.
+Avaliações tradicionais falham porque usam descrições genéricas de cargo ("boa comunicação", "proatividade") e tiram uma média que esconde lacunas graves. No Katatu, você desenha a **Matriz Situada da Função** nos **4 eixos reais de trabalho** e define dois marcos separados para cada competência (`0` a `3`): o **Piso (Dia 1)** — abaixo do qual a pessoa não consegue operar com segurança no primeiro dia — e o **Pleno** — o patamar esperado da pessoa já madura na função, que a trilha de desenvolvimento leva até lá. O motor *Katatu Fit* é **100% determinístico**: nenhum desvio abaixo do piso é mascarado por nota alta em outra competência.
 
 ## 2.1 Construir a Matriz Situada nos 4 eixos e coletar perspectivas
 
@@ -23,6 +23,8 @@ Avaliações tradicionais falham porque usam descrições genéricas de cargo ("
    - **Eixo 4 — Carga semanal realista, picos sazonais e janelas fixas.**
 4. Para calibrar a matriz sem viés de uma única pessoa, clique em **Convidar perspectiva** (`/p/<token>`) e envie o link para pares, ocupantes atuais ou especialistas responderem em até 10 minutos no celular ou desktop.
 5. Defina para cada competência o **Piso (`0..3`)**, o **Pleno (`0..3`)**, os critérios de **Elegibilidade** (`atendido`, `compensavel` ou `impedido`) e os **Amortecedores disponíveis** na equipe (dupla titularidade nos primeiros 30 dias, mentoria semanal, alçada assistida).
+6. **Trilha de aprendizagem:** clique em **Sugerir do catálogo**. A sugestão traz uma etapa por competência e grau, do piso ao pleno, e não repete a mesma etapa de trilhas parecidas da cascata. Quando há mais de uma trilha que serve à unidade, escolha em **Trilha para sugerir** qual usar. Sem escolha, para cada competência e grau vale a trilha mais próxima da unidade e, no mesmo nível, a que cobre mais competências da Matriz. Depois, ajuste os prazos, acrescente etapas ou tire uma com o ícone de lixeira na linha. Tirar uma etapa só é possível enquanto a Matriz está em rascunho.
+7. **Oficializar:** quando a Matriz estiver pronta, clique em **Oficializar**. Antes de confirmar, a janela lista o que será congelado: as competências com piso e pleno, os requisitos de elegibilidade, as etapas da trilha e as versões do catálogo em uso. Depois de oficializada, a Matriz não muda. Para corrigir, a revisão nasce como rascunho, e a oficializada continua valendo até lá.
 
 ![Tela de Matrizes Situadas nos 4 eixos em desktop](../assets/capturas/manual-03-matrizes-desktop.png)
 ![Tela de Matrizes Situadas nos 4 eixos no celular (375px)](../assets/capturas/manual-03-matrizes-mobile.png)
@@ -31,10 +33,10 @@ Avaliações tradicionais falham porque usam descrições genéricas de cargo ("
 
 Abra **Decisão > Katatu Fit** na vaga desejada. O motor classifica cada pessoa de forma determinística em uma das quatro faixas:
 
-- **Faixa 1 — Prontidão Plena:** zero competências abaixo do Piso (`delta_piso < 0`), maioria das competências já no nível Pleno (`delta_pleno >= 0`), estilo convergente e viabilidade de carga sustentável.
-- **Faixa 2 — Prontidão de Piso com Trilha de 90 Dias:** zero competências abaixo do Piso (`delta_piso < 0`), mas com competências ainda entre o Piso e o Pleno (`delta_pleno < 0`), que viram itens de desenvolvimento no *Katatu Gap*.
-- **Faixa 3 — Alocação Condicionada a Amortecedores:** possui desvio abaixo do Piso (`delta_piso < 0`) ou carga limítrofe, **exigindo amortecedor formal, responsável nominal e prazo** para cada lacuna antes da posse.
-- **Faixa 4 — Impedimento Objetivo no Momento:** requisito inegociável de elegibilidade no estado `impedido` ou carga `incompativel`.
+- **Faixa 1 — Pronto para o pleno:** zero competências abaixo do Piso (`delta_piso < 0`), maioria das competências já no nível Pleno (`delta_pleno >= 0`), estilo convergente e viabilidade de carga sustentável.
+- **Faixa 2 — Apto em desenvolvimento:** zero competências abaixo do Piso (`delta_piso < 0`), mas com competências ainda entre o Piso e o Pleno (`delta_pleno < 0`), que viram itens de desenvolvimento no *Katatu Gap*.
+- **Faixa 3 — Alocação compensada:** possui desvio abaixo do Piso (`delta_piso < 0`) ou carga limítrofe, **exigindo amortecedor formal, responsável nominal e prazo** para cada lacuna antes da posse.
+- **Faixa 4 — Impedido ou inviável no momento:** requisito inegociável de elegibilidade no estado `impedido` ou carga `incompativel`.
 
 ## 2.3 Aprovar posse na Faixa 3 e gerar o *Katatu Gap*
 

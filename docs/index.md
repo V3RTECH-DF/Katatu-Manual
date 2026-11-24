@@ -28,6 +28,14 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 ---
 
+## Novidades da Versão 1.3.0
+
+- **Catálogo em JSON:** a importação de referenciais, modelos de cargo e trilhas mostra o formato e baixa um exemplo. Veja [5. Administrador da Organização](5-admin-organizacao/#importar-em-json).
+- **Funções ligadas a modelos de cargo:** dá para ligar uma função a um modelo pela tela da Estrutura, uma a uma ou em lote. Veja [5. Administrador da Organização](5-admin-organizacao/).
+- **Matriz:** a sugestão de trilha traz uma etapa por competência e grau, dá para tirar etapas em rascunho, e a oficialização mostra o que será congelado. Veja [2. Gestor ou Recrutador](2-gestor-recrutador/#21-construir-a-matriz-situada-nos-4-eixos-e-coletar-perspectivas).
+- **Pessoas:** a prévia da importação mostra o cargo, aceita duas funções para a mesma pessoa e pode abrir as posições que faltam. Veja [5. Administrador da Organização](5-admin-organizacao/#pessoas-importar-uma-planilha).
+- **Calendário de ciclos:** "Abranger todas" cobre a organização inteira, e o aviso informa a próxima janela. Veja [5. Administrador da Organização](5-admin-organizacao/).
+
 ## Novidades da Versão 1.0
 
 - **Lançamento da versão 1.0 do Katatu:** fluxo completo da estrutura organizacional em níveis livres à Matriz Situada nos 4 eixos, coleta conversacional com transcrição volátil de voz, motor determinístico *Katatu Fit* (Faixas 1 a 4), plano vivo *Katatu Gap* com trava de amortecedores na Faixa 3, Cofre de Conformidade segregado, modo consultoria com Passagem de Bastão Assinada, *Katatu Mapa* de sucessão e painel completo de manutenção com cópias externas cifradas e ensaio de restauração na tela.

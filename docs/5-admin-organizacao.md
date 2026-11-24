@@ -45,10 +45,18 @@ O catálogo é onde a organização descreve o que se espera de cada função. E
 Esses itens chegam ao restante do Katatu desta forma:
 
 1. Ao criar a **Matriz** de um cargo, ela copia as competências, o piso e o pleno do modelo escolhido. O modelo vem marcado quando o cargo tem um. Se o cargo não tem modelo e você não escolhe outro, a Matriz começa sem competências.
-2. Na Matriz em rascunho, o botão **Sugerir do catálogo**, na seção **Trilha de aprendizagem**, propõe as etapas das trilhas que servem às competências dela.
+2. Na Matriz em rascunho, o botão **Sugerir do catálogo**, na seção **Trilha de aprendizagem**, propõe uma etapa por competência e grau, tirada das trilhas que servem às competências dela. O capítulo 2 explica como escolher a trilha e ajustar a sugestão.
 3. Depois de **oficializada**, a Matriz é a base do **Katatu Fit**, que avalia as pessoas; do **Katatu Mapa**, que mostra a cobertura de cada cargo e as lacunas por competência; e do **Katatu Gap**, o plano dos primeiros 90 dias de quem toma posse, montado com a trilha da Matriz.
 
-O cargo do organograma pode ter um modelo ligado por padrão. Hoje essa ligação chega pela **importação da planilha da Estrutura**: a importação cria, para cada cargo da planilha, um modelo com o mesmo nome e sem competências, e liga o cargo a ele. Pela tela de Catálogo não há como ligar um cargo a um modelo. Ao criar a Matriz, você mantém o modelo marcado ou escolhe outro.
+O cargo do organograma pode ter um modelo ligado. Essa ligação nasce de três formas: pela **importação da planilha da Estrutura**, que cria para cada cargo um modelo com o mesmo nome e sem competências, e liga o cargo a ele; pela **leitura de documento** com a IA, quando você marca a ligação na prévia; ou pela própria tela de Estrutura, como mostrado a seguir. Ao criar a Matriz, você mantém o modelo marcado ou escolhe outro.
+
+### Ligar uma função a um modelo de cargo
+
+1. Abra **Estrutura e rede**, escolha a unidade e veja a lista de **Cargos** dela.
+2. Para uma função só, abra a função e preencha o campo **Modelo de cargo** (busque pelo nome). Ou use **Ligar ao modelo…** no menu **Mais** da linha.
+3. Para várias funções de uma vez, marque as linhas e use **Ligar ao modelo…** na ação em lote. Por exemplo: o Chefe de Alcateia das três alcateias. A janela diz quantas funções serão ligadas e pede o modelo, ou a opção **Sem modelo (desligar)**.
+
+Ligar não muda as Matrizes que já existem: a Matriz criada depois é que nasce com as competências do modelo. Só aparecem os modelos que valem para a unidade.
 
 ### Ordem certa
 
@@ -58,6 +66,86 @@ O cargo do organograma pode ter um modelo ligado por padrão. Hoje essa ligaçã
 4. **Matrizes**, por último, porque copiam o que já está no catálogo.
 
 **Dica:** a lista de competências mostra os referenciais da unidade escolhida na coluna **Nível** e os das unidades acima dela. Os referenciais de uma unidade não aparecem nas unidades irmãs. Se você está em **Organização inteira**, só aparecem os referenciais da organização.
+
+### Importar em JSON
+
+Para cadastrar muitos itens de uma vez, use o botão **Importar** na tela de Catálogo, em **Estrutura e rede**, no tipo que você quer: referenciais, modelos de cargo ou trilhas. A janela mostra o formato, os campos, os limites e o botão **Baixar o exemplo**, um arquivo pronto para preencher.
+
+| Tipo | Campos | Limites |
+|---|---|---|
+| Referenciais | `origemId`, `nome`, `descricao` (opcional), `ancoras` com os graus `"0"`, `"1"`, `"2"` e `"3"` | nome até 200 caracteres; cada âncora até 600; descrição até 2.000 |
+| Modelos de cargo | `origemId`, `titulo`, `descricao` (opcional), `competencias`: lista com `competenciaId`, `pisoDia1` e `plenoEsperado` | até 100 competências; piso e pleno de 0 a 3, com o piso não maior que o pleno |
+| Trilhas | `origemId`, `titulo`, `descricao` (opcional), `etapas`: lista com `codigo`, `titulo`, `competenciaId`, `grauAlvo`, `prazoSugeridoDias` e `cargaHorariaHoras` (opcional) | até 100 etapas; código até 60 caracteres; grau de 0 a 3; prazo de 1 a 3650 dias |
+
+**Como funciona:**
+
+- O `origemId` é um identificador seu. Importar de novo com o mesmo `origemId` atualiza o item em vez de duplicar. Reimportar o mesmo conteúdo não cria versão nova.
+- Nada é apagado pela importação. Se alguma linha tiver erro, nada é gravado, e a mensagem diz qual.
+- O `competenciaId` tem de ser de uma competência já cadastrada e visível na unidade. Os exemplos trazem um identificador fictício, que você troca pelo da sua competência.
+- O código de cada etapa é único dentro da trilha e também entre as trilhas da mesma cascata.
+
+**Exemplo de referenciais:**
+
+```json
+[
+  {
+    "origemId": "comunicacao",
+    "nome": "Comunicação",
+    "descricao": "Como a pessoa se expressa e escuta.",
+    "ancoras": {
+      "0": "Não comunica o que precisa.",
+      "1": "Comunica com apoio.",
+      "2": "Comunica com clareza, sozinha.",
+      "3": "Ensina outras pessoas a se comunicar."
+    }
+  }
+]
+```
+
+**Exemplo de modelos de cargo:**
+
+```json
+[
+  {
+    "origemId": "chefe-de-alcateia",
+    "titulo": "Chefe de Alcateia",
+    "descricao": "Conduz a alcateia e responde por ela.",
+    "competencias": [
+      { "competenciaId": "11111111-1111-4111-8111-111111111111", "pisoDia1": 1, "plenoEsperado": 3 }
+    ]
+  }
+]
+```
+
+**Exemplo de trilhas:**
+
+```json
+[
+  {
+    "origemId": "trilha-preliminar",
+    "titulo": "Trilha Preliminar",
+    "descricao": "Primeiros passos da função.",
+    "etapas": [
+      { "codigo": "PRE-01", "titulo": "Conversa de acolhimento", "competenciaId": "11111111-1111-4111-8111-111111111111", "grauAlvo": 1, "prazoSugeridoDias": 30, "cargaHorariaHoras": 4 }
+    ]
+  }
+]
+```
+
+**Dica:** baixe o exemplo, troque os dados pelos seus e importe. Um arquivo com erro não grava nada, então corrija a linha indicada e importe de novo.
+
+### Ler de um documento
+
+Em **Referenciais**, **Modelos de cargo** e **Trilhas**, o botão **Ler de um documento** lê com a IA um PDF, DOCX, TXT ou imagem, ou um texto colado, e propõe os itens numa prévia. Nada é criado antes de você marcar e confirmar. Nomes que já existem vêm sinalizados e desmarcados. A importação da Estrutura por documento usa a mesma leitura.
+
+- **Texto com formatação:** negrito, títulos e marcadores não fazem mais os itens sumirem. Antes, um TXT assim podia voltar sem nenhum item.
+- **Itens descartados:** a prévia diz o motivo. "Trecho citado não encontrado no documento" quer dizer que o trecho que a IA citou não aparece no arquivo. "Fora do formato" quer dizer que o item não cabe nas regras, por exemplo uma nota fora da escala de 0 a 3. No primeiro caso, o documento pode ter sido lido de outra forma; no segundo, o que está escrito não cabe no formato.
+- **Documentos longos:** o arquivo é lido por inteiro, em partes cortadas de preferência nos títulos e nas linhas em branco. Os itens são juntados sem repetir números. Uma competência que atravessa duas partes aparece uma vez só, com os graus de todas. A contagem do botão **Aplicar** é a mesma da lista.
+- **Queda de conexão:** se a rede cai durante a leitura, a tela tenta de novo sozinha, uma vez. Se a leitura não der certo, a mensagem diz se a IA não conseguiu ler aquele trecho.
+- **Ler de novo:** uma leitura que teve itens descartados não fica guardada. Ler o mesmo arquivo outra vez chama a IA de novo.
+- **Descrição:** a IA não usa o tipo nem o número da página do documento como descrição da competência. Confira o texto da descrição antes de aplicar.
+
+**Dica:** se a leitura descartou um item por "fora do formato", ajuste o texto do documento e leia de novo. Ler de novo custa nova leitura da IA, então confira antes o motivo que a prévia mostra.
 
 ### Referencial: como cadastrar, com exemplo completo
 
@@ -99,7 +187,7 @@ Passo a passo:
 | Acompanhamento de professores | 2 | 3 |
 | Planejamento pedagógico | 1 | 2 |
 
-Um coordenador novo precisa conduzir sozinho o contato com as famílias já no primeiro dia (piso 2) e, ao fim de 90 dias, deve chegar ao grau 3. Em planejamento pedagógico, basta o grau 1 no dia 1: ele entende a lógica e executa com apoio. Ao fim de 90 dias, deve conduzir sozinho (grau 2). As outras duas competências precisam existir como referenciais antes, cadastrados como no exemplo anterior.
+Um coordenador novo precisa conduzir sozinho o contato com as famílias já no primeiro dia (piso 2) e, já maduro no cargo, deve chegar ao grau 3. Em planejamento pedagógico, basta o grau 1 no dia 1: ele entende a lógica e executa com apoio. Maduro no cargo, deve conduzir sozinho (grau 2). As outras duas competências precisam existir como referenciais antes, cadastrados como no exemplo anterior.
 
 ### Trilha: como cadastrar, com exemplo completo
 
@@ -138,7 +226,7 @@ Cada competência é avaliada numa escala de quatro pontos, de 0 a 3. O Katatu n
 ### Piso do dia 1 e pleno esperado
 
 - **Piso do dia 1:** o grau mínimo para começar a atuar com segurança no primeiro dia. Abaixo dele, a pessoa não consegue começar sem comprometer entregas, expor pessoas a risco ou depender de terceiros para a rotina básica.
-- **Pleno esperado:** o grau que se espera ao fim dos primeiros 90 dias, depois do amadurecimento normal do cargo.
+- **Pleno esperado:** o grau que se espera da pessoa já madura no cargo. Não é a meta dos primeiros 90 dias: o plano dos 90 dias (Katatu Gap) aponta para o pleno como horizonte.
 - O piso não pode ser maior que o pleno. Os dois podem ser iguais, quando o mínimo já é o nível esperado.
 
 **Atenção:** a lacuna abaixo do piso pesa mais do que a lacuna entre piso e pleno. Se a pessoa está abaixo do piso em alguma competência, o Katatu a coloca na Faixa 3 do Fit, e a posse fica travada até a organização cadastrar um amortecedor para aquela competência: alguém que a cubra, com prazo. Uma lacuna entre piso e pleno não trava nada. Ela vira item de desenvolvimento no plano dos 90 dias.
@@ -163,7 +251,7 @@ O que uma unidade cria fica nela e nas unidades abaixo. Não aparece nas irmãs.
 
 - **Lista de competências vazia.** O formulário de modelo e de trilha só mostra os referenciais que valem para a unidade escolhida. Antes de procurar outro erro, confira a coluna **Nível** e se há referencial cadastrado nesse nível ou acima. A pergunta sobre a lista vazia está nas Perguntas Frequentes.
 - **Etapa fora da sugestão.** A Matriz só recebe a etapa se o grau alvo estiver acima do piso e até o pleno da competência naquela Matriz. Grau igual ao piso, ou acima do pleno, fica de fora. A sugestão não explica por que cada etapa ficou de fora, então confira os graus antes.
-- **Código repetido.** Se duas trilhas visíveis para a mesma Matriz usam o mesmo código de etapa, a sugestão fica só com a primeira, e a outra some sem aviso. Use códigos diferentes entre trilhas: por exemplo, INT para a integração e LID para a liderança.
+- **Código repetido.** O código de cada etapa precisa ser único na trilha e também entre as trilhas que a mesma unidade enxerga. A importação de trilhas recusa o arquivo que repete um código e diz em que linha e em qual trilha ele já aparece. Use códigos diferentes entre trilhas: por exemplo, INT para a integração e LID para a liderança.
 - **Valores que já vêm preenchidos.** Uma nova linha de competência começa com piso 1 e pleno 2. Uma nova etapa começa com grau alvo 2. Eles aparecem na tela, mas são padrão, não resposta. Confira cada linha antes de salvar.
 - **Prazo da etapa vem vazio.** O "30" que aparece apagado dentro do campo é só exemplo. O prazo é obrigatório, e o Katatu não supõe nenhum valor no lugar: sem prazo, a etapa é recusada.
 - **Competência não escolhida.** Uma linha que fica em "Escolha…" é recusada com a mensagem de identificador inválido. Escolha a competência de cada linha.
@@ -200,11 +288,40 @@ O que uma unidade cria fica nela e nas unidades abaixo. Não aparece nas irmãs.
 - **Sessão de suporte** só consulta o catálogo.
 - **Organização inteira:** só quem tem permissão nesse nível cria ou altera itens ali.
 
+## Pessoas: importar uma planilha
+
+Em **Pessoas**, o botão **Importar planilha** cadastra várias pessoas de uma vez. A prévia mostra cada linha antes de qualquer gravação. Se alguma linha tiver erro, nada é gravado.
+
+No passo 1, escolha o modo:
+
+- **Convidar:** cada pessoa recebe um e-mail para entrar e usar o Katatu. Nome, unidade e papel inicial são opcionais. O papel inicial só vale para quem administra os papéis e nunca dá mais poder do que o seu.
+- **Cadastrar sem acesso:** nenhum e-mail sai. Nome e e-mail são obrigatórios. Unidade, cargo e papel inicial são opcionais. O papel de quem foi cadastrado sem acesso só passa a valer no convite, depois.
+
+A unidade e o cargo são procurados pelo nome exato. Se você cadastra só na sua unidade, a coluna Unidade é obrigatória, e vale a sua unidade ou as que estão abaixo dela.
+
+**Cargo na prévia (cadastro sem acesso):**
+
+- A prévia mostra a coluna **Cargo** e não corta o nome nem a unidade. Confira a função de cada pessoa antes de confirmar.
+- O cargo ocupa uma posição vaga. Se ele não tem vaga para todas as pessoas da planilha, a prévia avisa quantas posições faltam.
+- Marque a opção **Abrir N posições que faltam** para o Katatu abrir essas posições no cargo, e a pessoa ocupar uma delas. Sem marcar, essas pessoas são cadastradas sem a função.
+
+**Duas funções:** quem tem duas funções entra em duas linhas, com o mesmo e-mail e um cargo diferente em cada. Uma linha repetida com o mesmo cargo é ignorada.
+
+**Dica:** use o mesmo e-mail nas duas linhas só quando for a mesma pessoa. O texto do passo 2 mostra quais colunas são obrigatórias no modo que você escolheu.
+
+## Calendário de ciclos
+
+As campanhas de avaliação (90º, 180º e 360º) só são disparadas dentro de uma janela do calendário, em **Campanhas › Calendário de ciclos**. Cada janela tem uma unidade de origem e as unidades que ela abrange.
+
+- **Unidades abrangidas:** marque quantas quiser na lista. Marcar uma unidade abrange também as de baixo. Para valer para a organização inteira, use o botão **Abranger todas**, em vez de marcar uma a uma.
+- **Próxima janela:** quando não há janela vigente hoje, mas há uma futura, o aviso informa quando a próxima começa, o tipo dela e a unidade. Por exemplo: "Nenhuma janela vigente hoje. A próxima começa em 27/11/2026 (180º, organização inteira)." É só um aviso, não um erro. O convite para cadastrar uma janela aparece só quando não há janela vigente nem futura.
+
 ## Passo a passo
 
 1. **Desenhar unidades e organograma (`Estrutura`):**
    - Crie unidades em qualquer profundidade (`unidades_fecho`) ou importe planilhas `CSV/XLSX` e imagens/PDFs de organograma pela **Ingestão Assistida** (tudo entra como **A confirmar**).
    - Configure o **Piso mínimo de agregação** (padrão: `3` ocupantes, mínimo irredutível: `2`): abaixo desse número, painéis agregados e campanhas 90º/180º/360º ocultam quebras nominais, incidentes críticos, amortecedores e nomes em Faixa 3.
+   - A árvore de unidades segue a ordem em que as unidades foram criadas ou importadas. As buscas e os seletores continuam em ordem alfabética. Por enquanto não é possível reordenar à mão: para ter uma ordem, crie ou importe as unidades nela. Unidades que entraram num só lote antes dessa mudança seguem em ordem alfabética até serem recriadas.
 2. **Configurar Assistência de IA e chaves próprias (`Assistência > Configuração e Consumo`):**
    - Escolha entre a franquia da assinatura V3RTECH, chaves próprias cifradas (**BYOK**: Google Gemini, OpenAI ou Anthropic Claude) ou modo **100% manual sem IA**.
    - Acompanhe o painel transparente de consumo filtrado por unidade, empresa-cliente, usuário e operação.
@@ -229,7 +346,7 @@ Quem administra a organização conecta o WordPress em **Vagas no site**, na se�
 
 **Dica:** se a conexão não for conferida, a vaga não é publicada e o app mostra o motivo. Não há um post "fantasma" no site.
 4. **Acompanhar o Katatu Mapa (`/mapa`):**
-   - Veja cada cargo com a cobertura de sucessão, a sobrecarga e a última avaliação, somados **por unidade**. Você vê números consolidados, sem nomes. Unidades com menos de 3 pessoas entram na soma da unidade de cima. A exportação em PDF, XLSX ou CSV segue o mesmo nível, sem nomes.
+   - Veja cada cargo com a cobertura de sucessão, a sobrecarga e a última avaliação, somados **por unidade**. Você vê números consolidados, sem nomes. Unidades com menos de 3 pessoas entram na soma da unidade de cima. Na linha de cada unidade, as áreas somadas aparecem uma vez cada, sem nomes repetidos. A exportação em PDF, XLSX ou CSV segue o mesmo nível, sem nomes.
 5. **Governança LGPD (`/governanca`, em Configurações da Organização):**
    - **Controlador dos dados pessoais:** informe o endereço completo e o canal de atendimento ao titular, que são obrigatórios. O encarregado de dados (DPO), com nome, e-mail e telefone, é opcional. Os dados passam a valer para as pessoas da organização ao salvar, e cada mudança fica registrada na auditoria.
    - **Termos e Política da organização:** publique a versão de cada documento. Quando uma versão nova muda o conteúdo, as pessoas da organização aceitam de novo no acesso seguinte. Uma versão pode ser marcada como correção, que não pede novo aceite. Quem publica vê quem ainda não aceitou.

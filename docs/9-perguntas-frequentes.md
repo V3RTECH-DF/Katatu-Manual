@@ -31,7 +31,7 @@ Hoje, sim. A importação cria um modelo de cargo para cada cargo da planilha, s
 A trilha não entra sozinha. Na Matriz em rascunho, use **Sugerir do catálogo**, na seção **Trilha de aprendizagem**. Confira se a trilha vale para a unidade da Matriz: uma trilha de unidade irmã não aparece. Se a sugestão veio vazia ou com menos etapas do que você esperava, veja se o grau alvo de cada etapa está acima do piso e até o pleno da competência no modelo.
 
 ## 9. Posso apagar um referencial, modelo ou trilha que já está em uso?
-Não. O sistema recusa e mostra o que usa o item. Arquive-o: ele deixa de ser oferecido, mas continua nas vagas, nos ciclos e nas Matrizes que já o usam. Só se apaga o que ninguém usa, e apagar é definitivo: o item não vai para a lixeira.
+Não. O sistema recusa e mostra o que usa o item. Arquive-o: ele deixa de ser oferecido, mas continua nas vagas, nos ciclos e nas Matrizes que já o usam. Só se apaga o que ninguém usa. O item apagado vai para a Lixeira, por 30 dias, e volta igual se for restaurado.
 
 ## 10. Mudei uma trilha ou um modelo. As vagas que já estão abertas mudam também?
 Não. Uma vaga ou ciclo aberto continua na versão em que começou, e uma Matriz oficializada também não muda. A mudança vale para o que for aberto ou criado depois. Em cada item, **Ver as versões** mostra o histórico e qual versão está vigente.
