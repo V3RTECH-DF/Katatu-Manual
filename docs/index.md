@@ -34,6 +34,10 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 - **Funções ligadas a modelos de cargo:** dá para ligar uma função a um modelo pela tela da Estrutura, uma a uma ou em lote. Veja [5. Administrador da Organização](5-admin-organizacao/).
 - **Matriz:** a sugestão de trilha traz uma etapa por competência e grau, dá para tirar etapas em rascunho, e a oficialização mostra o que será congelado. Veja [2. Gestor ou Recrutador](2-gestor-recrutador/#21-construir-a-matriz-situada-nos-4-eixos-e-coletar-perspectivas).
 - **Pessoas:** a prévia da importação mostra o cargo, aceita duas funções para a mesma pessoa e pode abrir as posições que faltam. Veja [5. Administrador da Organização](5-admin-organizacao/#pessoas-importar-uma-planilha).
+- **Vocabulário da organização nas telas:** os nomes escolhidos em Identidade visual (por exemplo, Área no lugar de Unidade e Função no lugar de Cargo) passam a valer nos textos das telas da organização, não só no menu. A importação por planilha, os e-mails e as telas públicas seguem com os nomes padrão. Veja [5. Administrador da Organização](5-admin-organizacao/).
+- **Matriz mais compacta:** cada competência fica numa linha, com Referencial, Piso do Dia 1 e Pleno esperado lado a lado, e a seção Avaliados cabe numa linha com a busca. Veja [2. Gestor ou Recrutador](2-gestor-recrutador/#21-construir-a-matriz-situada-nos-4-eixos-e-coletar-perspectivas).
+- **Papéis numa janela:** as pessoas de um papel abrem numa janela sobre a lista, com as opções de "Onde o papel vale" lado a lado. Veja [5. Administrador da Organização](5-admin-organizacao/).
+- **Minha coleta e Decisão Fit e Gap:** o item "Minha coleta" do menu lista as suas coletas, e no Fit a Matriz escolhida mostra os candidatos no lugar da lista.
 - **Calendário de ciclos:** "Abranger todas" cobre a organização inteira, e o aviso informa a próxima janela. Veja [5. Administrador da Organização](5-admin-organizacao/).
 
 ## Novidades da Versão 1.0
