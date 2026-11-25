@@ -12,7 +12,9 @@ Cada organização tem sua própria topologia (diretorias, regionais, filiais, e
 
 ## Configurar a organização
 
-**Configurações da Organização** (ícone de engrenagem no topo) é dividida em abas, cada uma com o seu endereço: **Identidade** (nome, logo, cores, vocabulário e fuso), **Dados e contato** (razão social, CNPJ e contato verificado), **Privacidade** (controlador dos dados, Termos e Política), **Pessoas e coleta** (chefia direta e dilemas da coleta), **Plano e IA** (licença e IA da organização) e **Suporte** (acessos de suporte). Trocar de aba não apaga o que foi digitado e ainda não salvo.
+**Configurações da Organização** (ícone de engrenagem no topo) é dividida em abas, cada uma com o seu endereço: **Identidade** (nome, logo, cores, vocabulário e fuso), **Dados e contato** (razão social, CNPJ e contato verificado), **Privacidade** (controlador dos dados, Termos e Política, e os domínios confiáveis para links), **Pessoas e coleta** (chefia direta e dilemas da coleta), **Plano e IA** (licença e IA da organização) e **Suporte** (acessos de suporte). Trocar de aba não apaga o que foi digitado e ainda não salvo.
+
+**Domínios confiáveis para links:** na aba **Privacidade**, liste os sites de onde um requisito ou uma etapa de trilha pode trazer link: digite o site em **Novo domínio** (por exemplo, `ead.escoteiros.org.br`), toque em **Acrescentar domínio** e, no fim, em **Salvar domínios**. Vão até 50 sites. Vale só o nome do site, sem `https://`, caminho ou porta. Sem nenhum site na lista, nenhum link é aceito. Tirar um site da lista faz os links dele deixarem de abrir em todo o Katatu; recolocar faz voltarem.
 
 O assistente **Configurar a organização** é o caminho guiado para deixar a organização pronta para uso. Ele tem oito passos, em ordem:
 
@@ -300,6 +302,8 @@ No passo 1, escolha o modo:
 - **Cadastrar sem acesso:** nenhum e-mail sai. Nome e e-mail são obrigatórios. Unidade, cargo e papel inicial são opcionais. O papel de quem foi cadastrado sem acesso só passa a valer no convite, depois.
 
 **Convidar quem foi cadastrado sem acesso, com o papel:** em **Pessoas e convites**, marque as pessoas (ou use a ação da linha) e escolha **Convidar**. A confirmação traz **Papel ao aceitar**: o padrão de membro ou um papel que você pode conceder. **Gestor da Unidade** vale na unidade do cadastro de cada pessoa (o chefe da Tropa X vira gestor da Tropa X). Quem está sem unidade no cadastro fica de fora do lote, com o motivo, e os demais seguem. A lista mostra "Ao aceitar: <papel>", e reenviar ou renovar o convite mantém o papel. Na primeira entrada, a pessoa vê o que a organização passa a ver dos cursos e certificados dela e decide se mostra.
+
+**Papel previsto, antes do convite:** para deixar o papel definido sem mandar e-mail ainda, marque os cadastros sem acesso e escolha **Definir papel previsto** (ou edite o cadastro e preencha **Papel previsto**). Ninguém recebe o papel nesse momento; a lista mostra "Previsto: <papel>". Quando você convidar, o **Papel ao aceitar** já vem com o previsto de cada pessoa, e escolher outro papel na confirmação vale para todos os selecionados. Papel de gestão exige unidade no cadastro.
 
 A unidade e o cargo são procurados pelo nome exato. Se você cadastra só na sua unidade, a coluna Unidade é obrigatória, e vale a sua unidade ou as que estão abaixo dela.
 

@@ -114,6 +114,7 @@ No **Meu Perfil**, na aba **Meus dados**, fica a sua carteira pessoal. Só você
 - **Entra sozinho:** o curso que você aponta em **Meu desenvolvimento** aparece no acervo sem precisar digitar de novo.
 - **Apagar:** apagar um item também apaga o arquivo do certificado, na hora. Não existe lixeira para isso.
 - **Exportar:** você exporta tudo ou só os itens escolhidos, em planilha (XLSX ou CSV).
+- **Currículo:** guarde o seu currículo uma vez (PDF com texto, Word, .txt ou .md, até 2 MB) e troque, baixe ou apague quando quiser. É só seu: nenhuma organização vê o arquivo, nem com o vínculo ativo. Na coleta, em **Sua trajetória**, o botão **Usar o meu currículo** lê o arquivo guardado e propõe os itens para você confirmar ou descartar. Excluir a conta apaga o currículo, e a exportação dos seus dados o inclui.
 
 ### Aceitar, recusar ou não reconhecer um convite
 
@@ -155,14 +156,14 @@ O que você registrou para as organizações, como notas, balanços, campanhas e
 ## Dicas e armadilhas
 
 - **O que funciona bem:** revisar sempre os itens marcados como **A confirmar** logo após o upload do currículo — isso garante que datas no formato brasileiro (`dd/mm/aaaa`) e cargas horárias entrem exatas no abatimento do seu plano de 90 dias.
-- **O que evitar (e a consequência):** não cole link de perfil fechado (como página do LinkedIn que exige login) esperando importação automática. O Katatu não usa robôs furtivos nem credenciais alheias; quando o link é fechado, o sistema exibe o aviso amigável para que você envie o PDF exportado do perfil ou preencha os campos manualmente.
+- **Currículo Lattes ou LinkedIn:** a coleta não lê páginas da internet. Abra o seu currículo no navegador, use **Imprimir › Salvar como PDF** e envie o PDF (ou guarde-o em **Meus dados › Currículo**). PDF escaneado, que é só imagem, não tem texto para ler e é recusado.
 - **Proteção contra convite indevido:** recebeu um convite de uma organização que não reconhece? Toque em **Não reconheço**. A organização fica bloqueada por **30 dias** de enviar novos convites para o seu endereço (veja a seção Aceitar, recusar ou não reconhecer um convite).
 
 ## Quando dá errado
 
 | Mensagem na tela | O que significa | O que fazer |
 | :--- | :--- | :--- |
-| `link_fechado_requer_arquivo` | O endereço informado exige login ou bloqueia leitura pública. | Exporte o perfil em PDF (no LinkedIn: *Mais > Salvar como PDF*) e envie o arquivo, ou preencha manualmente. |
+| "Não consegui ler texto nesse arquivo" | O PDF é uma imagem escaneada, sem texto. | Gere o PDF pelo navegador (**Imprimir › Salvar como PDF**) ou envie Word, .txt ou .md. |
 | `Serviço de transcrição temporariamente indisponível (503)` | A franquia ou provedor externo de IA não respondeu no tempo limite. | O campo de texto permanece aberto: digite sua resposta diretamente sem perder o rascunho. |
 | `Convite expirado ou já utilizado` | O token do link atingiu a data de validade ou foi revogado pelo gestor. | Solicite um novo link de convite ao recrutador ou gestor da unidade. |
 

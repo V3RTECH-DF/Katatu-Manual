@@ -29,6 +29,19 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 ---
 
+## Novidades da Versão 1.3.5
+
+- **Várias Matrizes de uma vez:** na lista de Matrizes Situadas, marque as Matrizes e escolha "Acrescentar requisito", "Tirar requisito" ou "Acrescentar etapa". Antes de aplicar, a tela mostra quantas e quais vão mudar; quem não pode receber a mudança fica de fora, com o motivo. Veja [2. Gestor e Recrutador](2-gestor-recrutador/).
+- **Links de cursos, só de sites confiáveis:** a administração lista os sites confiáveis em Configurações da Organização › Privacidade, e requisitos e etapas da trilha ganham um link opcional que abre como "Abrir em <site>". Veja [5. Administrador da Organização](5-admin-organizacao/).
+- **Papel previsto:** quem está cadastrado sem acesso pode ter o papel definido antes do convite; ao convidar, o papel já vem preenchido.
+- **Seu currículo em Meus dados:** guarde o currículo uma vez e use o botão "Usar o meu currículo" na coleta. Nenhuma organização vê o arquivo. Para Lattes ou LinkedIn, salve como PDF pelo navegador. Veja [1. Avaliado e Colaborador](1-avaliado-colaborador/).
+- **Cartões com borda:** nas listas que você edita (competências, requisitos, etapas, incidentes, vocabulário, dilemas, trajetória, horários e perspectiva), cada registro fica num cartão próprio.
+- **Listas abrem no que está valendo:** Vagas em curso, Campanhas vigentes e Pessoas em uso; o resto fica no filtro, que é guardado no endereço da página.
+
+## Novidades da Versão 1.3.4
+
+- **Vocabulário da organização:** os números voltam a aparecer nos textos das telas, e o adjetivo concorda com o termo da organização ("Grupo inteiro").
+
 ## Novidades da Versão 1.3.3
 
 - **Matrizes Situadas abre em "Em uso":** só as oficializadas que valem e os rascunhos abertos. As versões arquivadas ficam no filtro, e os cartões de contagem levam direto a cada lista.
