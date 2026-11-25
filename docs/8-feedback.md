@@ -43,4 +43,4 @@ Um relato que diz em qual tela você estava, o que fez e o que aconteceu permite
 
 ## Limites do papel
 
-Qualquer pessoa pode enviar feedback, dentro ou fora do sistema. O relato vai para a equipe de suporte. Quem administra o serviço vê apenas quantos envios não chegaram ao GitHub, sem o texto deles. Se você informou um e-mail, a resposta chega nele.
+Qualquer pessoa pode enviar feedback, dentro ou fora do sistema. O relato vai por e-mail para a equipe de suporte (suporte@v3rtech.com.br). Quem administra o serviço vê apenas quantos envios ainda não saíram, sem o texto deles. Se você informou um e-mail, a resposta chega nele.
