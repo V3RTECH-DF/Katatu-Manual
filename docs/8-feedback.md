@@ -15,8 +15,9 @@ Um relato que diz em qual tela você estava, o que fez e o que aconteceu permite
 1. Toque em **Feedback**, no topo da tela. Se você não consegue passar da tela de entrada, use **Problemas para entrar? Envie um feedback**, no canto inferior esquerdo.
 2. Em **Categoria**, escolha **Sugestão**, **Problema**, **Elogio**, **Depoimento** ou **Dúvida**.
 3. Escreva o relato no campo de descrição: em qual tela você estava, o que fez e o que esperava que acontecesse.
-4. Se quiser anexar arquivos, toque em **Selecionar arquivos...** e escolha até 3, com no máximo 10 MB cada. São aceitos PNG, JPEG, WebP e PDF.
+4. Se quiser anexar arquivos, toque em **Selecionar arquivos...** e escolha até 3, com no máximo 10 MB cada. São aceitos PNG, JPEG, WebP, PDF e documentos do Word (.doc, .docx), do Excel, do PowerPoint e do LibreOffice.
    - **Imagens (PNG, JPEG, WebP):** o Katatu remove sozinho a localização onde a foto foi tirada e outros dados escondidos antes de enviar. Você não precisa fazer nada.
+   - **Documentos do Word, Excel, PowerPoint e LibreOffice:** o Katatu não limpa os dados escondidos deles (como o nome do autor), então envie só o que a equipe precisa ver. Documentos com macro não são aceitos.
    - **PDF:** o Katatu não consegue limpar os dados escondidos de um PDF. Ao anexá-lo, aparece uma caixa de confirmação de risco com este texto: "Este PDF pode conter dados pessoais escondidos (como nome do autor e datas) e será enviado à equipe de suporte. Se possível, envie uma captura de tela no lugar. Assumo a responsabilidade pelo envio." Leia e marque a caixa.
 5. Se você estiver fora do sistema, informe o seu **e-mail**, para receber a resposta.
 6. Toque em **Enviar Feedback**. Enquanto houver um PDF sem a caixa marcada, o botão fica desabilitado e nada é enviado.
@@ -37,7 +38,7 @@ Um relato que diz em qual tela você estava, o que fez e o que aconteceu permite
 | :--- | :--- | :--- |
 | `Máximo de 3 anexos permitidos.` | Você tentou anexar mais de três arquivos de uma vez. | Remova um arquivo e envie de novo. |
 | `O arquivo "…" excede o tamanho máximo de 10 MB.` | O arquivo é grande demais. | Envie uma captura de tela, que costuma ser menor, ou recorte a parte que importa. |
-| `Tipo de anexo não permitido` | O arquivo não é PNG, JPEG, WebP nem PDF. Arquivos de programa e de página da web não são aceitos. | Salve a imagem como PNG ou JPEG, ou envie só o texto. |
+| `Tipo de anexo não permitido` | O arquivo não é imagem (PNG, JPEG, WebP), PDF nem documento do Word, Excel, PowerPoint ou LibreOffice, ou o conteúdo não bate com o nome do arquivo. Arquivos de programa, de página da web e documentos com macro não são aceitos. | Salve a imagem como PNG ou JPEG, ou envie só o texto. |
 | `Anexos desabilitados em repositório público sem e-mail configurado` | Esta instalação do Katatu não aceita anexos no feedback. | Envie o relato só com texto. |
 | Botão **Enviar Feedback** desabilitado | Há um PDF anexado e a caixa de confirmação de risco não está marcada. | Marque a caixa ou remova o PDF. |
 

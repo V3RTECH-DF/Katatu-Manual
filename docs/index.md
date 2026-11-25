@@ -8,6 +8,8 @@ permalink: /
 
 Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`), a plataforma da V3RTECH para desenho situado de funções, avaliação determinística de aderência (*Katatu Fit*), plano vivo de compensação dos primeiros 90 dias (*Katatu Gap*), governança de certidões legais (*Cofre de Conformidade*) e leitura de sucessão e riscos estruturais (*Katatu Mapa*).
 
+> **Sobre os exemplos e as telas deste manual:** eles usam um grupo fictício, o "Grupo Escoteiro Girassol", para não mostrar dados de pessoas reais. No Katatu do seu grupo você vê o nome e as pessoas do seu próprio grupo, não as do exemplo.
+
 ---
 
 ## Como usar este manual (entrada rápida por dúvida)
@@ -28,6 +30,12 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 ![Visão geral da tela de entrada do Katatu no celular (375px)](../assets/capturas/manual-01-entrar-mobile.png)
 
 ---
+
+## Novidades da Versão 1.3.9
+
+- **Responder ao e-mail do feedback chega até quem enviou:** quando você autoriza o contato ao enviar um relato, a resposta da equipe de suporte vai direto para o seu e-mail. Sem a autorização, o suporte não tem como responder. Veja [Enviar um relato ou sugestão, com anexos](8-feedback/).
+- **Anexo do Word aceito no feedback:** além de imagens e PDF, você pode anexar documentos do Word (.doc e .docx), e também planilhas e apresentações (Excel, PowerPoint e LibreOffice). Documentos com macro não são aceitos.
+- **Coleta respondida sai do Início:** depois de concluir a coleta, ela deixa o cartão "Coletas para responder" do Início. Em Coleta, ela aparece como "Respondida · ver seu Retrato". Veja [Primeiros passos](primeiros-passos/).
 
 ## Novidades da Versão 1.3.8
 

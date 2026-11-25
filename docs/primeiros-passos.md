@@ -95,7 +95,7 @@ Depois de aceitar, a organização vê a sua carteira, com o CPF mascarado, e n�
 
 Depois de entrar, veja o **Início**. Há dois jeitos de chegar à coleta:
 
-- **Cartão "Coletas para responder".** Aparece no Início quando alguém indicou você para responder uma coleta. Cada linha mostra o nome da coleta, a unidade e a situação ("Não começou"). Toque no nome para abrir. Se você foi lembrado, aparece "lembrete: falta concluir".
+- **Cartão "Coletas para responder".** Aparece no Início quando alguém indicou você para responder uma coleta. Cada linha mostra o nome da coleta, a unidade e a situação ("Não começou" ou "Em andamento"). Toque no nome para abrir. Se você foi lembrado, aparece "lembrete: falta concluir". Quando você conclui a coleta, ela sai do cartão; se não sobrar nenhuma para responder, o cartão some do Início. A coleta concluída continua em **Coleta**, no menu, marcada como "Respondida · ver seu Retrato", e abre o seu Retrato de Atuação.
 - **Cartão "Minha participação".** Se ainda não há coleta para você, o cartão diz "Você ainda não respondeu nenhuma etapa da coleta" e traz o botão **Iniciar minha coleta**. Ele leva à página **Minha coleta**.
 
 Você também pode abrir **Minha coleta** pelo menu. No computador, ele fica na barra lateral à esquerda. No celular, toque no ícone de menu (☰), no canto superior direito.
