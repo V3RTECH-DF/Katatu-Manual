@@ -6,6 +6,8 @@ permalink: /1-avaliado-colaborador/
 
 # 1. Avaliado ou Colaborador — Entrar por convite, Coleta e Carteira Pessoal
 
+**Primeiro acesso?** Comece por [Recebi um convite: primeiros passos](/primeiros-passos/), com as telas de cada etapa, da entrada com o código até a conclusão da coleta.
+
 ## Por que isto importa
 
 No Katatu, você não perde tempo criando login e senha antes de participar de um mapeamento ou processo seletivo: o link do convite abre sua sessão imediatamente. Mais importante: **os certificados e cursos da sua Carteira Pessoal pertencem a você**. Quando você participa de processos em duas organizações diferentes (por exemplo, Organização A e Organização B), nenhuma delas enxerga o que você enviou para a outra até que você autorize explicitamente item por item.
