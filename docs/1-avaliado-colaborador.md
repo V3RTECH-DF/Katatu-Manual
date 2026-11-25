@@ -131,6 +131,19 @@ Quando uma organização convida você, o convite aparece com três escolhas:
 
 **Dica:** se você conhece a organização e só não quer entrar, use **Recusar**. Use **Não reconheço** quando não sabe quem ela é.
 
+### Trocar o e-mail de acesso
+
+Para entrar no Katatu com outro e-mail, vá em **Meu Perfil**, aba **Conta**, seção **E-mail de acesso**. Ela mostra o e-mail que você usa hoje. A troca só vale quando você prova, ao mesmo tempo, que tem acesso ao e-mail de hoje e ao e-mail novo. Por isso são dois passos:
+
+1. **Peça a troca.** Digite o e-mail novo e toque em **Enviar link ao e-mail atual**. O app pede a confirmação do segundo passo (o código do aplicativo autenticador, a passkey ou o código por e-mail). Um e-mail com um link chega ao seu e-mail **de hoje**, nunca ao novo. Enquanto você não abre o link, nada muda e a seção mostra o pedido pendente. Você pode cancelá-lo ou pedir de novo com outro e-mail; um pedido novo substitui o anterior.
+2. **Abra o link e digite o código.** Na página que o link abre, o app mostra o e-mail novo. Toque em **Enviar código ao novo e-mail**; um código de 6 dígitos chega lá. Digite o código e toque em **Confirmar a troca**. O código vale 15 minutos e pode ser pedido de novo. Cinco códigos errados cancelam o pedido, e você precisa pedir a troca outra vez.
+
+**Quando vale:** a partir da confirmação, você entra pelo e-mail novo, e o antigo deixa de entrar. As suas organizações, os seus papéis e a sua carteira ficam como estavam. Os outros aparelhos em que você estava entrando são desconectados (aquele em que você confirmou continua). O e-mail novo recebe um aviso de que passou a ser o de acesso. Passkeys e aplicativo autenticador continuam valendo.
+
+**Se não foi você quem pediu:** ignore o e-mail com o link (na página do link, você também pode tocar em **Não fui eu**). O pedido vence sozinho em 48 horas e nada muda.
+
+**Se você perdeu o acesso ao e-mail antigo:** sem ele, não há como abrir o link. Peça à administração da sua organização para trocar o seu e-mail de acesso (veja [Trocar o e-mail de acesso de quem perdeu o antigo](/5-admin-organizacao/#trocar-o-e-mail-de-acesso-de-quem-perdeu-o-antigo)). Se você participa de mais de uma organização, a administração orienta a procurar o suporte da plataforma.
+
 ### Pedir a exclusão dos seus dados em uma organização
 
 Na aba **Excluir meus dados** do **Meu Perfil** aparece, para cada organização em que você tem dados, o botão **Pedir a exclusão dos meus dados em (nome da organização)**.
@@ -171,6 +184,9 @@ O que você registrou para as organizações, como notas, balanços, campanhas e
 | "Não consegui ler texto nesse arquivo" | O PDF é uma imagem escaneada, sem texto. | Gere o PDF pelo navegador (**Imprimir › Salvar como PDF**) ou envie Word, .txt ou .md. |
 | `Serviço de transcrição temporariamente indisponível (503)` | A franquia ou provedor externo de IA não respondeu no tempo limite. | O campo de texto permanece aberto: digite sua resposta diretamente sem perder o rascunho. |
 | `Convite expirado ou já utilizado` | O token do link atingiu a data de validade ou foi revogado pelo gestor. | Solicite um novo link de convite ao recrutador ou gestor da unidade. |
+| "Este link não vale mais" (na página da troca de e-mail) | O link venceu (48 horas), já foi usado, os cinco códigos errados cancelaram o pedido ou você fez um pedido novo depois. | Peça a troca de novo em **Meu Perfil › Conta**. |
+| "Código incorreto" (na página da troca de e-mail) | O código de 6 dígitos não confere. A mensagem diz quantas tentativas restam. | Use o código do e-mail **mais recente** que chegou ao e-mail novo, ou toque em **Reenviar o código**. |
+| "Nada mudou" (na página da troca de e-mail) | O e-mail novo não pôde ser usado. | Peça a troca de novo, com outro endereço. |
 
 ## Limites do papel
 

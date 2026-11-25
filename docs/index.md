@@ -23,6 +23,7 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 - **Preciso configurar organograma, filiais, chaves de IA (BYOK) ou retenção LGPD:** veja [5. Administrador da Organização — Estrutura, IA e Governança LGPD](5-admin-organizacao/).
 - **Preciso gerir licenças `V3RLicense`, cópias cifradas externas ou ensaio de restauração:** veja [6. Administrador do Serviço — Licenças, Cópias Cifradas e Manutenção](6-admin-servico/).
 - **Quero enviar um relato, uma sugestão ou anexar um arquivo ao feedback:** veja [Enviar um relato ou sugestão, com anexos](8-feedback/).
+- **Quero instalar o Katatu no computador ou no celular, ou apareceu a faixa "Nova versão disponível":** veja [Instalar o app e a faixa de nova versão](#instalar-o-app-e-a-faixa-de-nova-versão).
 - **Não entendi um termo (Piso, Pleno, Amortecedor, Fit, Gap):** veja o [Glossário do Katatu](7-glossario/).
 - **Tenho uma dúvida comum (Faixa 3, áudio da entrevista, chave de IA, licença):** veja as [Perguntas Frequentes](9-perguntas-frequentes/).
 
@@ -30,6 +31,24 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 ![Visão geral da tela de entrada do Katatu no celular (375px)](../assets/capturas/manual-01-entrar-mobile.png)
 
 ---
+
+## Instalar o app e a faixa de nova versão
+
+**Instalar o app.** O Katatu pode ser instalado como um aplicativo, com ícone próprio e janela própria, para abrir mais rápido. O botão **Instalar app** só aparece quando o seu navegador oferece a instalação, e some depois de instalado:
+
+- **No computador e no Android:** no topo da tela, toque em **Instalar app** (em telas estreitas, abra o menu da sua foto e toque em **Instalar aplicativo**) e confirme na janela do navegador.
+- **No iPhone e no iPad:** o navegador não oferece o botão. Abra o menu da sua foto, toque em **Instalar aplicativo** e siga a instrução: **Toque em Compartilhar e depois em Adicionar à Tela de Início**.
+- Se nenhum dos dois botões aparece, o seu navegador não oferece a instalação (ou o app já está instalado). Nada está errado: o Katatu funciona normalmente no navegador.
+
+**A faixa "Nova versão disponível".** Quando o Katatu é atualizado, uma faixa colorida aparece na parte de baixo da tela, com o botão **Atualizar**. Ela aparece poucos segundos depois da atualização, quando você volta para a aba ou quando a internet volta. Toque em **Atualizar** para carregar a versão nova. A faixa não some sozinha e não cobre os botões do fim da tela. **Antes de atualizar**, termine e salve o que estiver escrevendo: a página recarrega e o que não foi salvo se perde. Se você ignorar a faixa, o app continua funcionando na versão antiga até a próxima vez que a página for recarregada.
+
+---
+
+## Novidades da Versão 1.4.0
+
+- **Trocar o e-mail de acesso:** em **Meu Perfil › Conta** você troca o e-mail que usa para entrar. O link chega ao e-mail de hoje e um código de 6 dígitos chega ao novo. Quem perdeu o e-mail antigo pede à administração da organização, que troca pela lista de Pessoas. Veja [1. Avaliado ou Colaborador](1-avaliado-colaborador/) e [5. Administrador da Organização](5-admin-organizacao/).
+- **Aviso de nova versão:** uma faixa **Nova versão disponível**, com o botão **Atualizar**, avisa quando o Katatu foi atualizado.
+- **Instalar o app:** o botão **Instalar app** aparece no topo e no menu da sua foto quando o navegador oferece a instalação. Veja [Instalar o app e a faixa de nova versão](#instalar-o-app-e-a-faixa-de-nova-versão).
 
 ## Novidades da Versão 1.3.9
 

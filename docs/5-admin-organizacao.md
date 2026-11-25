@@ -319,6 +319,24 @@ A unidade e o cargo são procurados pelo nome exato. Se você cadastra só na su
 
 **Dica:** use o mesmo e-mail nas duas linhas só quando for a mesma pessoa. O texto do passo 2 mostra quais colunas são obrigatórias no modo que você escolheu.
 
+### Trocar o e-mail de acesso de quem perdeu o antigo
+
+Quando uma pessoa perdeu o acesso ao e-mail que usa no Katatu, ela não consegue pedir a troca por conta própria. Quem administra as pessoas da organização troca por ela, em **Pessoas e papéis**, aba **Pessoas**:
+
+1. Ache a pessoa na lista (ela precisa estar com a situação **Ativa**) e escolha a ação **Trocar e-mail** da linha.
+2. Digite o **e-mail novo** e confirme em **Trocar o e-mail**.
+
+A troca vale **na hora**, sem link nem código. A pessoa é desconectada de todos os aparelhos e entra de novo com o e-mail novo. Os dois endereços recebem um aviso: o antigo vê o novo parcialmente escondido, e o novo é informado de que passou a ser o de acesso. As organizações, os papéis e a carteira dela não mudam. Essa ação fica registrada na trilha de auditoria, sem os e-mails.
+
+**Quando o app recusa, com a frase na tela:**
+
+- **A pessoa participa de outra organização:** a administração só troca o e-mail de quem pertence apenas à sua organização. O app orienta a procurar o suporte da plataforma, que troca em qualquer caso.
+- **A conta é de administração da plataforma:** também só o suporte da plataforma troca.
+- **O e-mail já é de outra conta:** o app não diz de quem é; informe outro endereço.
+- **É o seu próprio e-mail:** use **Meu Perfil › Conta**, que confirma pelo seu e-mail atual.
+
+**Dica:** confirme com a pessoa, por outro meio, que o e-mail novo é mesmo dela antes de trocar. Quem controla o e-mail novo passa a controlar o acesso à conta.
+
 ## Calendário de ciclos
 
 As campanhas de avaliação (90º, 180º e 360º) só são disparadas dentro de uma janela do calendário, em **Campanhas › Calendário de ciclos**. Cada janela tem uma unidade de origem e as unidades que ela abrange.
