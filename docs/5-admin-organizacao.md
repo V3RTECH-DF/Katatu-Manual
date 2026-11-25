@@ -294,6 +294,8 @@ O que uma unidade cria fica nela e nas unidades abaixo. Não aparece nas irmãs.
 
 ## Pessoas: importar uma planilha
 
+**Onde fica:** a partir da versão 1.3.7, pessoas, convites e papéis ficam num item só do menu, **Pessoas e papéis** (com os termos da sua organização, por exemplo **Voluntários e papéis**), com duas abas: **Pessoas**, com a lista, os convites, a importação e o cadastro sem acesso, e **Papéis**, com os papéis e o botão **Novo papel**. Quem só pode cuidar de uma das duas vê a tela sem abas. Os endereços antigos continuam funcionando.
+
 Em **Pessoas**, o botão **Importar planilha** cadastra várias pessoas de uma vez. A prévia mostra cada linha antes de qualquer gravação. Se alguma linha tiver erro, nada é gravado.
 
 No passo 1, escolha o modo:
@@ -301,7 +303,7 @@ No passo 1, escolha o modo:
 - **Convidar:** cada pessoa recebe um e-mail para entrar e usar o Katatu. Nome, unidade e papel inicial são opcionais. O papel inicial só vale para quem administra os papéis e nunca dá mais poder do que o seu.
 - **Cadastrar sem acesso:** nenhum e-mail sai. Nome e e-mail são obrigatórios. Unidade, cargo e papel inicial são opcionais. O papel de quem foi cadastrado sem acesso só passa a valer no convite, depois.
 
-**Convidar quem foi cadastrado sem acesso, com o papel:** em **Pessoas e convites**, marque as pessoas (ou use a ação da linha) e escolha **Convidar**. A confirmação traz **Papel ao aceitar**: o padrão de membro ou um papel que você pode conceder. **Gestor da Unidade** vale na unidade do cadastro de cada pessoa (o chefe da Tropa X vira gestor da Tropa X). Quem está sem unidade no cadastro fica de fora do lote, com o motivo, e os demais seguem. A lista mostra "Ao aceitar: <papel>", e reenviar ou renovar o convite mantém o papel. Na primeira entrada, a pessoa vê o que a organização passa a ver dos cursos e certificados dela e decide se mostra.
+**Convidar quem foi cadastrado sem acesso, com o papel:** em **Pessoas e papéis**, aba **Pessoas**, marque as pessoas (ou use a ação da linha) e escolha **Convidar**. A confirmação traz **Papel ao aceitar**: o padrão de membro ou um papel que você pode conceder. **Gestor da Unidade** vale na unidade do cadastro de cada pessoa (o chefe da Tropa X vira gestor da Tropa X). Quem está sem unidade no cadastro fica de fora do lote, com o motivo, e os demais seguem. A lista mostra "Ao aceitar: <papel>", e reenviar ou renovar o convite mantém o papel. Na primeira entrada, a pessoa vê o que a organização passa a ver dos cursos e certificados dela e decide se mostra.
 
 **Papel previsto, antes do convite:** para deixar o papel definido sem mandar e-mail ainda, marque os cadastros sem acesso e escolha **Definir papel previsto** (ou edite o cadastro e preencha **Papel previsto**). Ninguém recebe o papel nesse momento; a lista mostra "Previsto: <papel>". Quando você convidar, o **Papel ao aceitar** já vem com o previsto de cada pessoa, e escolher outro papel na confirmação vale para todos os selecionados. Papel de gestão exige unidade no cadastro.
 
