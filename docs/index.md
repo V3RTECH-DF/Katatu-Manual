@@ -29,6 +29,10 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 ---
 
+## Novidades da Versão 1.3.3
+
+- **Matrizes Situadas abre em "Em uso":** só as oficializadas que valem e os rascunhos abertos. As versões arquivadas ficam no filtro, e os cartões de contagem levam direto a cada lista.
+
 ## Novidades da Versão 1.3.2
 
 - **Primeiros passos para quem recebe convite:** a página [Recebi um convite: primeiros passos](primeiros-passos/) mostra, com imagens, do e-mail ao Retrato. O e-mail do convite e a tela de entrada levam a ela.
