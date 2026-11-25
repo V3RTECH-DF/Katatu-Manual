@@ -10,7 +10,7 @@ Esta página é para quem recebeu um convite do Katatu e nunca usou o sistema. E
 
 ## Por que isto importa
 
-Você não precisa criar senha agora. Entra com o seu e-mail e um código de 6 dígitos, responde a coleta no seu ritmo e, ao final, recebe o seu Retrato de Atuação, que só você lê. Quando você aceita o convite de uma organização pela lista de convites, o app mostra antes o que ela passa a ver da sua carteira. Ler esse aviso com calma evita a surpresa de ter mostrado um dado que você não queria mostrar.
+Você não precisa criar senha agora. Entra com o seu e-mail e um código de 6 dígitos, responde a coleta no seu ritmo e, ao final, recebe o seu Retrato de Atuação, que só você lê. Na primeira entrada, o app mostra o que a organização passa a ver da sua carteira, e você decide se mostra. Ler esse aviso com calma evita a surpresa de ter mostrado um dado que você não queria mostrar.
 
 ## 1. O convite
 
@@ -70,15 +70,17 @@ O botão **Aceitar e continuar** só fica ativo depois que cada documento foi ma
 
 ### O que a organização passa a ver
 
-Esse aviso aparece quando você aceita, pela lista de convites, o convite de uma organização que já tem a sua conta. Para isso, abra o link **Entre primeiro** na tela de entrada, entre com a sua conta e veja a lista **Estes são os convites que esperam por esta conta**.
-
-Toque em **Aceitar o convite de ...**. Antes de confirmar, o app abre a janela **O que ... passa a ver**, com:
+Logo depois do código, na primeira entrada, o app abre a janela **O que ... passa a ver**. Ela também aparece quando você já tem conta e aceita o convite pela lista **Estes são os convites que esperam por esta conta** (link **Entre primeiro** na tela de entrada, depois **Aceitar o convite de ...**). A janela mostra:
 
 - os seus **dados pessoais**, com o que já está preenchido e o que ainda pode ser preenchido depois;
 - os seus **cursos, formações e certificados**, com a quantidade de itens e os arquivos;
 - a base legal que a organização informa para ter esses dados.
 
-Você escolhe entre **Voltar** e **Aceitar e mostrar meus dados**. Depois de aceitar, a organização vê a sua carteira, com o CPF mascarado, e não pode mudar os seus dados. Se não quiser mostrar, toque em **Voltar** e depois em **Recusar** na lista de convites.
+Depois de aceitar, a organização vê a sua carteira, com o CPF mascarado, e não pode mudar os seus dados. As opções da janela:
+
+- **Aceitar e mostrar meus dados**: confirma o vínculo, e você segue para o Início.
+- **Decidir depois** (na primeira entrada): fecha a janela; ela volta na próxima vez que você abrir o Katatu. Enquanto você não decidir, a organização não vê a sua carteira.
+- **Recusar o convite** (na primeira entrada): encerra o vínculo com a organização, e você deixa de ter acesso a ela. Na lista de convites, o equivalente é **Recusar**.
 
 **Armadilha:** aceitar não é só concordar com um texto: é liberar a organização a ver a sua carteira. Leia a lista do que será visto antes de tocar em **Aceitar e mostrar meus dados**.
 

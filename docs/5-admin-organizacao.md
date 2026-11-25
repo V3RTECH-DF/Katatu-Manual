@@ -12,6 +12,8 @@ Cada organização tem sua própria topologia (diretorias, regionais, filiais, e
 
 ## Configurar a organização
 
+**Configurações da Organização** (ícone de engrenagem no topo) é dividida em abas, cada uma com o seu endereço: **Identidade** (nome, logo, cores, vocabulário e fuso), **Dados e contato** (razão social, CNPJ e contato verificado), **Privacidade** (controlador dos dados, Termos e Política), **Pessoas e coleta** (chefia direta e dilemas da coleta), **Plano e IA** (licença e IA da organização) e **Suporte** (acessos de suporte). Trocar de aba não apaga o que foi digitado e ainda não salvo.
+
 O assistente **Configurar a organização** é o caminho guiado para deixar a organização pronta para uso. Ele tem oito passos, em ordem:
 
 1. **Identidade visual:** nome, logo e cores que aparecem nas telas e nos e-mails.
@@ -296,6 +298,8 @@ No passo 1, escolha o modo:
 
 - **Convidar:** cada pessoa recebe um e-mail para entrar e usar o Katatu. Nome, unidade e papel inicial são opcionais. O papel inicial só vale para quem administra os papéis e nunca dá mais poder do que o seu.
 - **Cadastrar sem acesso:** nenhum e-mail sai. Nome e e-mail são obrigatórios. Unidade, cargo e papel inicial são opcionais. O papel de quem foi cadastrado sem acesso só passa a valer no convite, depois.
+
+**Convidar quem foi cadastrado sem acesso, com o papel:** em **Pessoas e convites**, marque as pessoas (ou use a ação da linha) e escolha **Convidar**. A confirmação traz **Papel ao aceitar**: o padrão de membro ou um papel que você pode conceder. **Gestor da Unidade** vale na unidade do cadastro de cada pessoa (o chefe da Tropa X vira gestor da Tropa X). Quem está sem unidade no cadastro fica de fora do lote, com o motivo, e os demais seguem. A lista mostra "Ao aceitar: <papel>", e reenviar ou renovar o convite mantém o papel. Na primeira entrada, a pessoa vê o que a organização passa a ver dos cursos e certificados dela e decide se mostra.
 
 A unidade e o cargo são procurados pelo nome exato. Se você cadastra só na sua unidade, a coluna Unidade é obrigatória, e vale a sua unidade ou as que estão abaixo dela.
 

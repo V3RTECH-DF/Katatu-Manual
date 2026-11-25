@@ -29,6 +29,15 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 ---
 
+## Novidades da Versão 1.3.2
+
+- **Primeiros passos para quem recebe convite:** a página [Recebi um convite: primeiros passos](primeiros-passos/) mostra, com imagens, do e-mail ao Retrato. O e-mail do convite e a tela de entrada levam a ela.
+- **Papel ao aceitar:** ao convidar quem foi cadastrado sem acesso, a administração escolhe o papel, e Gestor da Unidade vale na unidade do cadastro. Veja [5. Administrador da Organização](5-admin-organizacao/).
+- **O que a organização passa a ver:** quem entra pela primeira vez pelo código vê o aviso e decide se mostra os seus cursos e certificados.
+- **Cursos e certificados:** o arquivo do certificado vai na mesma janela de incluir, e a data de conclusão aceita dia e mês.
+- **Configurações da Organização em abas:** Identidade, Dados e contato, Privacidade, Pessoas e coleta, Plano e IA e Suporte.
+- **Matriz e catálogo em linhas:** elegibilidade, etapas, incidentes, modelos de cargo e trilhas mostram uma linha por item, com os campos lado a lado.
+
 ## Novidades da Versão 1.3.1
 
 - **Dilemas da coleta por organização:** em Configurações da Organização, a administração escolhe de 2 a 6 dilemas, ou importa um modelo pronto (Empresa, Voluntariado e terceiro setor, Saúde e serviço público) e edita. Quem já abriu a coleta termina com os dilemas que viu. Veja [5. Administrador da Organização](5-admin-organizacao/).
