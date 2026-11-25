@@ -32,6 +32,7 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 ## Novidades da Versão 1.3.7
 
 - **Pessoas e papéis num item só:** os antigos "Papéis e acessos" e "Pessoas e convites" viraram um item do menu com duas abas. Veja [5. Administrador da Organização](5-admin-organizacao/#pessoas-importar-uma-planilha).
+- **Código a cada nova entrada:** quem tenta entrar várias vezes seguidas recebe o código por e-mail a cada entrada; voltar à verificação ou recarregar a tela nos 5 minutos seguintes não gasta outro código.
 - **Feedback volta a chegar ao suporte:** o relato ou a sugestão enviado pelo botão de feedback chega por e-mail à equipe de suporte. Veja [Enviar um relato ou sugestão, com anexos](8-feedback/).
 
 ## Novidades da Versão 1.3.6
