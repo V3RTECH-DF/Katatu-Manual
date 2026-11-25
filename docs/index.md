@@ -29,6 +29,14 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 ---
 
+## Novidades da Versão 1.3.7
+
+- **Feedback volta a chegar ao suporte:** o relato ou a sugestão enviado pelo botão de feedback chega por e-mail à equipe de suporte. Veja [Enviar um relato ou sugestão, com anexos](8-feedback/).
+
+## Novidades da Versão 1.3.6
+
+- **Código por e-mail já enviado:** na verificação em duas etapas, quando o código por e-mail é a única opção, ele sai ao abrir a tela; o botão passa a ser "Reenviar código".
+
 ## Novidades da Versão 1.3.5
 
 - **Várias Matrizes de uma vez:** na lista de Matrizes Situadas, marque as Matrizes e escolha "Acrescentar requisito", "Tirar requisito" ou "Acrescentar etapa". Antes de aplicar, a tela mostra quantas e quais vão mudar; quem não pode receber a mudança fica de fora, com o motivo. Veja [2. Gestor e Recrutador](2-gestor-recrutador/).
