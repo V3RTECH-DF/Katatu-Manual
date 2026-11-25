@@ -15,7 +15,7 @@ No Katatu, você não perde tempo criando login e senha antes de participar de u
 ## Passo a passo
 
 1. Abra o link recebido no formato `/c/<token>` no celular ou computador. A sessão inicia automaticamente sem exigir cadastro prévio de senha.
-2. Na etapa **Camada 0 (Qualificação e Currículo)**, envie seu currículo (`PDF`, `DOCX` ou imagem) ou informe o link público do seu perfil.
+2. Na etapa **Sua trajetória**, escreva, fale ou envie o seu currículo (PDF com texto, Word `.docx`, `.txt` ou `.md`, até 10 MB). Se você já tem trajetória em **Meu Perfil › Trajetória**, ela aparece em **No seu perfil**, e você ajusta ali mesmo. **Continuar para as perguntas** já guarda o que estiver escrito.
    - Tudo o que o assistente extrair do seu arquivo aparece destacado com o selo **A confirmar**. Revise cada linha antes de tocar em **Confirmar dados**.
 3. Na etapa de **Conversa Situacional e Entrevista (Camadas 1 e 2)**, responda digitando ou usando o botão **Gravar resposta por voz**.
    - Ao usar voz, o áudio é transcrito na hora em memória temporária e **descartado imediatamente**: você sempre revisa e edita o texto transcrito na tela antes de tocar em **Salvar resposta**.
@@ -23,7 +23,7 @@ No Katatu, você não perde tempo criando login e senha antes de participar de u
    - Se a franquia de IA da organização tiver acabado no mês, o botão de voz também aparece desabilitado, com o aviso de que a IA está pausada até o próximo mês; o trabalho manual segue normalmente e você digita a resposta.
    - Se você tocar em **Confirmar e seguir** com um texto falado ainda não usado, o app pergunta se você quer **usar** ou **descartar** esse texto; nada se perde sem a sua decisão.
 4. Ao concluir a coleta, acesse **Meu Retrato de Atuação** para consultar e exportar em `PDF` sua devolutiva construtiva (pontos de força observados e recomendações práticas de desenvolvimento, sem rótulos de "aprovado/reprovado" nem comparação com terceiros).
-5. Seus dados civis e o seu acervo de cursos e certificados ficam na aba **Meus dados** do **Meu Perfil** (veja a seção abaixo).
+5. Seus dados civis ficam na aba **Meus dados** do **Meu Perfil**. O currículo, os cursos e certificados e a sua trajetória ficam na aba **Trajetória** (veja as seções abaixo).
 
 ![Fluxo de convite e coleta na Camada 0 em desktop](../assets/capturas/manual-02-coleta-desktop.png)
 ![Fluxo de convite e coleta na Camada 0 no celular (375px)](../assets/capturas/manual-02-coleta-mobile.png)
@@ -105,16 +105,21 @@ Na candidatura pelo mural e no convite para a coleta aparece a opção **Quero e
 - Sem a marca, esses dados saem 180 dias depois da última movimentação na vaga.
 - Você pode sair quando quiser. Se já tem acesso ao app pelo convite de coleta, o cartão **Banco de talentos (opcional)** em **Minha coleta** mostra a sua situação e permite entrar ou sair.
 
-### Meus dados e acervo (carteira pessoal)
+### Meus dados e Trajetória (carteira pessoal)
 
-No **Meu Perfil**, na aba **Meus dados**, fica a sua carteira pessoal. Só você lê e altera.
+No **Meu Perfil**, as abas **Meus dados** e **Trajetória** formam a sua carteira pessoal. Só você lê e altera.
+
+**Meus dados:**
 
 - **Dados civis:** nome civil, CPF, data de nascimento e telefone com DDD. O app não pede endereço. O CPF é opcional; quando você informa, ele aparece mascarado e não serve para procurar ninguém. Um CPF com dígito errado é recusado.
+**Trajetória:**
+
+- **Minha trajetória:** formação, experiência, cursos e certificados, que você acrescenta, corrige e apaga a qualquer momento. A coleta usa o que está aqui; cada coleta concluída guarda uma fotografia do que estava na trajetória naquele dia, e mudar depois não altera o que já foi concluído.
 - **Acervo:** cursos, formações e certificados. Em cada certificado você guarda o tipo, o título, a instituição, a carga horária, a data de conclusão e o arquivo, em PDF ou imagem de até 5 MB.
 - **Entra sozinho:** o curso que você aponta em **Meu desenvolvimento** aparece no acervo sem precisar digitar de novo.
 - **Apagar:** apagar um item também apaga o arquivo do certificado, na hora. Não existe lixeira para isso.
 - **Exportar:** você exporta tudo ou só os itens escolhidos, em planilha (XLSX ou CSV).
-- **Currículo:** guarde o seu currículo uma vez (PDF com texto, Word, .txt ou .md, até 2 MB) e troque, baixe ou apague quando quiser. É só seu: nenhuma organização vê o arquivo, nem com o vínculo ativo. Na coleta, em **Sua trajetória**, o botão **Usar o meu currículo** lê o arquivo guardado e propõe os itens para você confirmar ou descartar. Excluir a conta apaga o currículo, e a exportação dos seus dados o inclui.
+- **Currículo:** guarde o seu currículo uma vez (PDF com texto, Word .docx, .txt ou .md, até 10 MB) e troque, baixe ou apague quando quiser. O Katatu lê o arquivo inteiro e mostra o que você ainda não tem na trajetória, para confirmar ou descartar; o que já está lá não se repete. É só seu: nenhuma organização vê o arquivo, nem com o vínculo ativo. Arquivos `.doc` (Word antigo) não são lidos: no Word, use **Salvar como** › `.docx` ou PDF. Excluir a conta apaga o currículo, e a exportação dos seus dados o inclui.
 
 ### Aceitar, recusar ou não reconhecer um convite
 
@@ -156,7 +161,7 @@ O que você registrou para as organizações, como notas, balanços, campanhas e
 ## Dicas e armadilhas
 
 - **O que funciona bem:** revisar sempre os itens marcados como **A confirmar** logo após o upload do currículo — isso garante que datas no formato brasileiro (`dd/mm/aaaa`) e cargas horárias entrem exatas no abatimento do seu plano de 90 dias.
-- **Currículo Lattes ou LinkedIn:** a coleta não lê páginas da internet. Abra o seu currículo no navegador, use **Imprimir › Salvar como PDF** e envie o PDF (ou guarde-o em **Meus dados › Currículo**). PDF escaneado, que é só imagem, não tem texto para ler e é recusado.
+- **Currículo Lattes ou LinkedIn:** a coleta não lê páginas da internet. Abra o seu currículo no navegador, use **Imprimir › Salvar como PDF** e envie o PDF (ou guarde-o em **Meu Perfil › Trajetória**). PDF escaneado, que é só imagem, não tem texto para ler e é recusado.
 - **Proteção contra convite indevido:** recebeu um convite de uma organização que não reconhece? Toque em **Não reconheço**. A organização fica bloqueada por **30 dias** de enviar novos convites para o seu endereço (veja a seção Aceitar, recusar ou não reconhecer um convite).
 
 ## Quando dá errado

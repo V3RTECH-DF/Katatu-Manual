@@ -29,6 +29,13 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 ---
 
+## Novidades da Versão 1.3.8
+
+- **Aba Trajetória em Meu Perfil:** o currículo, os cursos e certificados e a sua trajetória ficam numa aba própria, que você atualiza quando quiser. O currículo é lido inteiro, inclusive Lattes e LinkedIn em PDF e Word, até 10 MB, e o Katatu mostra só o que você ainda não tem. Veja [1. Avaliado e Colaborador](1-avaliado-colaborador/).
+- **Coleta usa a sua trajetória:** a etapa "Sua trajetória" mostra o que você já tem no perfil, e "Continuar para as perguntas" guarda o que estiver escrito.
+- **Chamar para a coleta:** na Matriz, "Designar os ocupantes desta função"; na lista de Pessoas, "Abrir coleta" em lote.
+- **Correções:** nomes com hífen inteiros na trajetória, IA que tenta de novo quando está fora por um instante, botão principal legível no tema escuro e feedback com anexo que não se perde.
+
 ## Novidades da Versão 1.3.7
 
 - **Pessoas e papéis num item só:** os antigos "Papéis e acessos" e "Pessoas e convites" viraram um item do menu com duas abas. Veja [5. Administrador da Organização](5-admin-organizacao/#pessoas-importar-uma-planilha).
