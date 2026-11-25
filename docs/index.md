@@ -28,6 +28,13 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 ---
 
+## Novidades da Versão 1.3.1
+
+- **Dilemas da coleta por organização:** em Configurações da Organização, a administração escolhe de 2 a 6 dilemas, ou importa um modelo pronto (Empresa, Voluntariado e terceiro setor, Saúde e serviço público) e edita. Quem já abriu a coleta termina com os dilemas que viu. Veja [5. Administrador da Organização](5-admin-organizacao/).
+- **Trajetória em texto corrido:** com a IA da organização configurada, a pessoa conta a trajetória como quiser e confirma cada item que a IA propõe.
+- **Fim da coleta:** a tela avisa quando todas as perguntas foram respondidas, e "Concluir" pede confirmação. O gestor imediato recebe um e-mail dizendo que a coleta foi concluída, sem as respostas.
+- **Cópias de segurança:** ficam as 7 últimas diárias, as 4 semanais e as 3 mensais, até o prazo escolhido (no máximo 90 dias).
+
 ## Novidades da Versão 1.3.0
 
 - **Catálogo em JSON:** a importação de referenciais, modelos de cargo e trilhas mostra o formato e baixa um exemplo. Veja [5. Administrador da Organização](5-admin-organizacao/#importar-em-json).
