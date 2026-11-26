@@ -12,7 +12,7 @@ Cada organização tem sua própria topologia (diretorias, regionais, filiais, e
 
 ## Configurar a organização
 
-**Configurações da Organização** (ícone de engrenagem no topo) é dividida em abas, cada uma com o seu endereço: **Identidade** (nome, logo, cores, vocabulário e fuso), **Dados e contato** (razão social, CNPJ e contato verificado), **Privacidade** (controlador dos dados, Termos e Política, e os domínios confiáveis para links), **Pessoas e coleta** (chefia direta e dilemas da coleta), **Plano e IA** (licença e IA da organização) e **Suporte** (acessos de suporte). Trocar de aba não apaga o que foi digitado e ainda não salvo.
+**Configurações da Organização** (ícone de engrenagem no topo) é dividida em abas, cada uma com o seu endereço: **Identidade** (nome, logo, cores, vocabulário e fuso), **Dados e contato** (razão social, CNPJ e contato verificado), **Privacidade** (controlador dos dados, Termos e Política, e os domínios confiáveis para links), **Pessoas e questionário de perfil** (chefia direta e dilemas do questionário), **Plano e IA** (licença e IA da organização) e **Suporte** (acessos de suporte). Trocar de aba não apaga o que foi digitado e ainda não salvo.
 
 **Domínios confiáveis para links:** na aba **Privacidade**, liste os sites de onde um requisito ou uma etapa de trilha pode trazer link: digite o site em **Novo domínio** (por exemplo, `ead.escoteiros.org.br`), toque em **Acrescentar domínio** e, no fim, em **Salvar domínios**. Vão até 50 sites. Vale só o nome do site, sem `https://`, caminho ou porta. Sem nenhum site na lista, nenhum link é aceito. Tirar um site da lista faz os links dele deixarem de abrir em todo o Katatu; recolocar faz voltarem.
 
@@ -326,7 +326,7 @@ Quando uma pessoa perdeu o acesso ao e-mail que usa no Katatu, ela não consegue
 1. Ache a pessoa na lista (ela precisa estar com a situação **Ativa**) e escolha a ação **Trocar e-mail** da linha.
 2. Digite o **e-mail novo** e confirme em **Trocar o e-mail**.
 
-A troca vale **na hora**, sem link nem código. A pessoa é desconectada de todos os aparelhos e entra de novo com o e-mail novo. Os dois endereços recebem um aviso: o antigo vê o novo parcialmente escondido, e o novo é informado de que passou a ser o de acesso. As organizações, os papéis e a carteira dela não mudam. Essa ação fica registrada na trilha de auditoria, sem os e-mails.
+A troca vale **na hora**, sem link nem código. A pessoa é desconectada de todos os aparelhos e entra de novo com o e-mail novo. Os dois endereços recebem um aviso: o antigo vê o novo parcialmente escondido, e o novo é informado de que passou a ser o de acesso. As organizações, os papéis e os dados e a formação dela não mudam. Essa ação fica registrada na trilha de auditoria, sem os e-mails.
 
 **Quando o app recusa, com a frase na tela:**
 

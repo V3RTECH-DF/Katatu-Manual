@@ -6,7 +6,7 @@ permalink: /implantar-organizacao/
 
 # Começando: implantar o Katatu na sua organização
 
-Este guia é para quem recebeu o convite de **administração** de uma organização e vai deixá-la pronta do zero: identidade, estrutura, catálogo, voluntários, Matrizes e as primeiras coletas. Você não precisa ter feito nada antes no Katatu.
+Este guia é para quem recebeu o convite de **administração** de uma organização e vai deixá-la pronta do zero: identidade, estrutura, catálogo, voluntários, Matrizes e os primeiros questionários de perfil. Você não precisa ter feito nada antes no Katatu.
 
 > **Quem está lendo como voluntário?** Vá para [Recebi um convite: guia do colaborador](/primeiros-passos/). Aquele guia mostra o que a pessoa vê ao entrar e responder.
 
@@ -29,7 +29,7 @@ A ordem importa. Cada etapa alimenta a seguinte: sem estrutura não há a quem a
 | 7. Matrizes Situadas | Uma Matriz oficializada por função | Uma por tipo de função |
 | 8. Quem responde a quem, papéis e calendário | Quem avalia quem, quem administra o quê, as janelas de avaliação | 30 minutos |
 | 9. Papel previsto e convites | Convites enviados, com o papel de cada pessoa | Depende da lista |
-| 10. Abrir as coletas | Cada voluntário com a coleta para responder | Minutos, em lote |
+| 10. Abrir os questionários de perfil | Cada voluntário com o questionário para responder | Minutos, em lote |
 | 11. Primeira leitura no Katatu Mapa | A visão inicial de cobertura | Imediato |
 
 **Dica:** você não precisa fazer tudo no mesmo dia. O assistente guarda o que já foi feito, e cada passo mostra o que falta.
@@ -137,7 +137,7 @@ Ao entrar pela primeira vez como administração de uma organização nova, o as
 
 **O que ter em mãos:** o nome de exibição do grupo, a logomarca em SVG, as cores escolhidas, a razão social e o CNPJ, o endereço de contato, e o endereço completo e o canal de atendimento de quem responde pelos dados.
 
-**Onde fica:** **Configurações da Organização** (ícone de engrenagem no alto). A tela tem abas: **Identidade**, **Dados e contato**, **Privacidade**, **Voluntários e coleta**, **Plano e IA** e **Suporte**. Trocar de aba não apaga o que você digitou.
+**Onde fica:** **Configurações da Organização** (ícone de engrenagem no alto). A tela tem abas: **Identidade**, **Dados e contato**, **Privacidade**, **Pessoas e questionário de perfil**, **Plano e IA** e **Suporte**. Trocar de aba não apaga o que você digitou.
 
 ### 3.1 Identidade
 
@@ -151,8 +151,8 @@ Ao entrar pela primeira vez como administração de uma organização nova, o as
 
 **Dica:** salve a identidade antes de começar a estrutura.
 
-![Aba Voluntários e coleta, com chefia direta e dilemas da coleta](../assets/capturas/manual-12-real-76-config-pessoas-desktop.png)
-![Aba Voluntários e coleta, com chefia direta e dilemas da coleta, no celular (375px)](../assets/capturas/manual-12-real-76-config-pessoas-375.png) Os nomes escolhidos aqui aparecem em todas as telas seguintes.
+![Aba Pessoas e questionário de perfil, com chefia direta e dilemas do questionário](../assets/capturas/manual-12-real-76-config-pessoas-desktop.png)
+![Aba Pessoas e questionário de perfil, com chefia direta e dilemas do questionário, no celular (375px)](../assets/capturas/manual-12-real-76-config-pessoas-375.png) Os nomes escolhidos aqui aparecem em todas as telas seguintes.
 
 **Armadilha:** o vocabulário muda as telas, mas não a planilha de importação, os e-mails nem as páginas públicas. Nessas, continuam valendo os nomes padrão (Unidade e Cargo). Na planilha, use esses nomes nos cabeçalhos.
 
@@ -339,7 +339,7 @@ Para muitos itens, use o botão **Importar** na tela de Catálogo, no tipo que v
 
 ## Etapa 6: voluntários nas suas funções
 
-**Por que existe:** cada voluntário cadastrado ocupa uma função. É isso que faz a Matriz, a coleta e o Mapa saberem quem é quem.
+**Por que existe:** cada voluntário cadastrado ocupa uma função. É isso que faz a Matriz, o questionário de perfil e o Mapa saberem quem é quem.
 
 **O que ter em mãos:** uma planilha com e-mail, nome, área, papel inicial e função de cada pessoa. Os cabeçalhos são **E-mail**, **Nome**, **Unidade** (a área) e **Cargo** (a função). **Papel inicial** é opcional.
 
@@ -470,7 +470,7 @@ O Katatu traz quatro papéis prontos:
 - **Administração da Organização:** vê e altera a configuração do grupo.
 - **Gestor da Unidade:** gere a própria área ou diretoria.
 - **Responsável por documentos legais:** cuida dos documentos legais do grupo.
-- **Pessoa Avaliada:** cada voluntário, para ver o próprio retrato e responder a coleta.
+- **Pessoa Avaliada:** cada voluntário, para ver o próprio retrato e responder ao questionário de perfil.
 
 No Girassol, a Diretora Presidente ficou com a Administração, e o Diretor Administrativo com os documentos legais.
 
@@ -521,46 +521,46 @@ As campanhas de avaliação só podem ser disparadas dentro de uma janela do cal
 ![Lista de Pessoas com três selecionados e o menu de ações em lote](../assets/capturas/manual-12-real-61b-voluntarios-lote-desktop.png)
 ![Lista de Pessoas com três selecionados e o menu de ações em lote, no celular (375px)](../assets/capturas/manual-12-real-61b-voluntarios-lote-375.png)
 
-## Etapa 10: abrir as coletas
+## Etapa 10: abrir os questionários de perfil
 
-**Por que existe:** a coleta é a conversa em que o voluntário conta a trajetória e responde às perguntas sobre o dia a dia. Sem coleta aberta, a pessoa não tem nada para responder, e a Matriz não recebe perspectivas.
+**Por que existe:** o questionário de perfil é a conversa em que o voluntário conta a trajetória e responde às perguntas sobre o dia a dia. Sem questionário aberto, a pessoa não tem nada para responder, e a Matriz não recebe perspectivas.
 
-**Armadilha, a mais comum:** a coleta **não aparece sozinha**. Quando o voluntário entra e vê "Você não tem coleta para responder agora", não há defeito: ninguém o chamou ainda. Quem administra precisa chamar cada pessoa.
+**Armadilha, a mais comum:** o questionário **não aparece sozinho**. Quando o voluntário entra e vê "Você não tem questionário de perfil para responder agora", não há defeito: ninguém o chamou ainda. Quem administra precisa chamar cada pessoa.
 
 **Passo a passo, uma pessoa por vez**
 
 1. Abra **Matrizes Situadas** e escolha a Matriz da função da pessoa.
 2. Abra a seção **Avaliados**.
 3. No campo **Designar avaliado**, busque o nome e escolha a pessoa.
-4. Confirme. A coleta aparece em **Coleta** e no Início dela.
+4. Confirme. A pessoa passa a ver o questionário em **Questionários de perfil** e no Início.
 
 **Passo a passo, todos os ocupantes de uma função**
 
-1. Na Matriz, em **Avaliados**, toque em **Designar os ocupantes desta função**.
+1. Na Matriz, em **Avaliados**, toque em **Designar os ocupantes deste cargo**.
 2. Confirme. A tela mostra quantas pessoas foram chamadas, quantas já estavam na lista e quantas foram recusadas, com o motivo.
 
 **Passo a passo, em lote na lista de pessoas**
 
 1. Em **Pessoas e papéis › Pessoas**, marque as pessoas.
-2. Escolha **Mais ações em lote › Abrir coleta**. Cada pessoa é chamada na Matriz em uso da função que ela ocupa.
+2. Escolha **Mais ações em lote › Abrir questionário de perfil**. Cada pessoa é chamada na Matriz em uso da função que ela ocupa.
 
-**Dica:** antes de chamar todo mundo, abra a coleta para você mesmo e para um voluntário de teste. Responda, veja o resultado e só então chame os demais.
+**Dica:** antes de chamar todo mundo, abra o questionário para você mesmo e para um voluntário de teste. Responda, veja o resultado e só então chame os demais.
 
-**Dica:** quem ocupa duas funções é chamado na Matriz da função principal. Não crie duas coletas para a mesma pessoa.
+**Dica:** quem ocupa duas funções é chamado na Matriz da função principal. Não crie dois questionários para a mesma pessoa.
 
-**Armadilha:** chamar não envia e-mail. Quem não aceitou o convite ainda não tem acesso, e responde depois de entrar. Por isso, faça os convites da etapa 9 antes de abrir as coletas.
+**Armadilha:** chamar não envia e-mail. Quem não aceitou o convite ainda não tem acesso, e responde depois de entrar. Por isso, faça os convites da etapa 9 antes de abrir os questionários.
 
 **Quando dá errado**
 
-- **"Esta pessoa já tem outra coleta ativa nesta Matriz."** A coleta que está valendo continua. Use a existente.
+- **"Esta pessoa já tem outro questionário de perfil ativo nesta Matriz."** O questionário que está valendo continua. Use o existente.
 - **Pessoa recusada na chamada em lote.** A tela diz o motivo. Em geral, falta de área ou de função no cadastro.
 
-![Seção Avaliados da Matriz, com Designar avaliado e Designar os ocupantes desta função](../assets/capturas/manual-12-real-71e-matriz-avaliados-desktop.png)
-![Seção Avaliados da Matriz, com Designar avaliado e Designar os ocupantes desta função, no celular (375px)](../assets/capturas/manual-12-real-71e-matriz-avaliados-375.png)
+![Seção Avaliados da Matriz, com Designar avaliado e Designar os ocupantes deste cargo](../assets/capturas/manual-12-real-71e-matriz-avaliados-desktop.png)
+![Seção Avaliados da Matriz, com Designar avaliado e Designar os ocupantes deste cargo, no celular (375px)](../assets/capturas/manual-12-real-71e-matriz-avaliados-375.png)
 
 ## Etapa 11: primeira leitura no Katatu Mapa
 
-**Por que existe:** o Mapa mostra, por cargo e sem nomes, a cobertura de sucessão, as avaliações pendentes e as lacunas por competência. É o retrato do grupo, e ele muda conforme as coletas e as avaliações chegam.
+**Por que existe:** o Mapa mostra, por cargo e sem nomes, a cobertura de sucessão, as avaliações pendentes e as lacunas por competência. É o retrato do grupo, e ele muda conforme os questionários e as avaliações chegam.
 
 **Onde fica:** **Mapa**, no menu.
 
@@ -581,7 +581,7 @@ As campanhas de avaliação só podem ser disparadas dentro de uma janela do cal
 
 ## O que vem depois
 
-Quando as coletas estiverem respondidas, o ciclo segue assim:
+Quando os questionários de perfil estiverem respondidos, o ciclo segue assim:
 
 1. **Avaliações.** Em **Campanhas**, crie a campanha dentro da janela do calendário e dispare. Veja [2. Gestor ou Recrutador](/2-gestor-recrutador/).
 2. **Decisão e plano.** Quando houver candidato para uma função, use o **Katatu Fit** e o **Katatu Gap**. Veja [2. Gestor ou Recrutador](/2-gestor-recrutador/).

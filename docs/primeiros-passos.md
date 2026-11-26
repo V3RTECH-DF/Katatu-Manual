@@ -12,15 +12,15 @@ Este guia é para quem recebeu um convite do Katatu e nunca usou o sistema. Ele 
 
 ## Por que isto importa
 
-Você não precisa criar senha agora. Entra com o seu e-mail e um código de 6 dígitos, responde a coleta no seu ritmo e, ao final, recebe o seu Retrato de Atuação, que só você lê. Na primeira entrada, o app mostra o que a organização passa a ver da sua carteira, e você decide se mostra. Ler esse aviso com calma evita a surpresa de ter mostrado um dado que você não queria mostrar.
+Você não precisa criar senha agora. Entra com o seu e-mail e um código de 6 dígitos, responde ao questionário de perfil no seu ritmo e, ao final, recebe o seu Retrato de Atuação, que só você lê. Na primeira entrada, o app mostra o que a organização passa a ver dos seus dados e da sua formação, e você decide se mostra. Ler esse aviso com calma evita a surpresa de ter mostrado um dado que você não queria mostrar.
 
 ## Quem vê o quê
 
 | O que existe | Quem vê |
 | :--- | :--- |
-| Suas respostas da coleta e o seu Retrato de Atuação | Só você |
-| Sua carteira (dados pessoais, cursos e certificados) | Você, e a organização só depois que você aceita mostrar |
-| Quem conduziu a coleta e a chefia direta | Conforme a organização configurou, com aviso antes das perguntas |
+| Suas respostas do questionário de perfil e o seu Retrato de Atuação | Só você |
+| Seus dados e a sua formação (dados pessoais, cursos e certificados) | Você, e a organização só depois que você aceita mostrar |
+| Quem conduziu o questionário e a chefia direta | Conforme a organização configurou, com aviso antes das perguntas |
 | O resultado de uma avaliação | Só depois que o gestor ou o mentor conversa com você |
 
 **Dica:** o que você vê está sempre atualizado. Se algo não bate com o que você espera, use o botão de **Feedback** no alto da tela.
@@ -71,7 +71,7 @@ Confira, nessa ordem: se você está usando o código mais recente (o último e-
 
 ## 3. Aceitar os termos e o aviso do que a organização vê
 
-**Por que isto importa:** aceitar não é só concordar com um texto. Ao aceitar o vínculo, você libera a organização a ver a sua carteira.
+**Por que isto importa:** aceitar não é só concordar com um texto. Ao aceitar o vínculo, você libera a organização a ver os seus dados e a sua formação.
 
 ### Termos de Uso e Política de Privacidade
 
@@ -89,16 +89,17 @@ Logo depois do código, na primeira entrada, o app abre a janela **O que ... pas
 
 - os seus **dados pessoais**, com o que já está preenchido e o que ainda pode ser preenchido depois;
 - os seus **cursos, formações e certificados**, com a quantidade de itens e os arquivos;
-- a base legal que a organização informa para ter esses dados.
+- o que fica só com você: o seu Retrato de Atuação e as suas respostas individuais do questionário de perfil;
+- em **Saiba mais**, a base legal que a organização informa para ter esses dados (o seu vínculo com ela, como um contrato de trabalho ou o Acordo de Trabalho Voluntário).
 
 As opções da janela:
 
-- **Aceitar e mostrar meus dados**: confirma o vínculo, e você segue para o Início. Depois disso, a organização vê a sua carteira, com o CPF mascarado, e não pode mudar os seus dados.
-- **Decidir depois** (na primeira entrada): fecha a janela, e ela volta na próxima vez que você abrir o Katatu. Enquanto você não decidir, a organização não vê a sua carteira.
-- **Recusar o convite** (na primeira entrada): encerra o vínculo com a organização, e você deixa de ter acesso a ela. Na lista de convites, o equivalente é **Recusar**.
+- **Confirmar e continuar**: confirma o vínculo, e você segue para o Início. Depois disso, a organização vê os seus dados e a sua formação, com o CPF mascarado, e não pode mudar os seus dados.
+- **Decidir depois** (na primeira entrada): fecha a janela, e ela volta na próxima vez que você abrir o Katatu. Enquanto você não decidir, a organização não vê os seus dados e a sua formação.
+- **Recusar o convite** (na primeira entrada): encerra o vínculo com a organização, e ela não vê nenhum dado seu. O cadastro que ela já tinha de você (nome e e-mail) continua com ela, e o que você preencheu continua com você. Se mudar de ideia, peça um novo convite a quem convidou você. Na lista de convites, o equivalente é **Recusar**.
 - **Não reconheço**: use quando você não sabe quem é a organização. O convite é apagado, e a organização fica **30 dias** sem poder convidar esse mesmo e-mail. Se você conhece a organização e só não quer entrar, use **Recusar**.
 
-**Dica:** leia a lista do que será visto antes de tocar em **Aceitar e mostrar meus dados**. Se quiser mudar depois, dá para ajustar na sua carteira, em **Meu Perfil**.
+**Dica:** leia a lista do que será visto antes de tocar em **Confirmar e continuar**. Se quiser mudar depois, dá para ajustar em **Meu Perfil**, na aba **Meus dados e formação**.
 
 **Quando dá errado:** se a janela não mostrar a lista e aparecer "Não foi possível mostrar o aviso agora", feche a janela e tente de novo mais tarde. Não aceite às cegas.
 
@@ -110,30 +111,30 @@ As opções da janela:
 
 ## 4. Achar o que responder
 
-Depois de entrar, veja o **Início**. Há dois jeitos de chegar à coleta:
+Depois de entrar, veja o **Início**. Há dois jeitos de chegar ao questionário de perfil:
 
-- **Cartão "Coletas para responder".** Aparece no Início quando alguém indicou você para responder uma coleta. Cada linha mostra o nome da coleta, a área e a situação ("Não começou" ou "Em andamento"). Toque no nome para abrir. Se você foi lembrado, aparece "lembrete: falta concluir". Quando você conclui a coleta, ela sai do cartão; se não sobrar nenhuma para responder, o cartão some do Início. A coleta concluída continua em **Coleta**, no menu, marcada como "Respondida · ver seu Retrato", e abre o seu Retrato de Atuação.
-- **Cartão "Minha participação".** Se ainda não há coleta para você, o cartão diz "Você ainda não respondeu nenhuma etapa da coleta" e traz o botão **Iniciar minha coleta**. Ele leva à página **Minha coleta**.
+- **Cartão "Questionários de perfil para responder".** Aparece no Início quando alguém indicou você para responder um questionário de perfil. Cada linha mostra o nome do questionário, a área e a situação ("Não começou" ou "Em andamento"). Toque no nome para abrir. Se você foi lembrado, aparece "lembrete: falta concluir". Quando você conclui o questionário, ele sai do cartão; se não sobrar nenhum para responder, o cartão some do Início. O questionário concluído continua em **Meu questionário de perfil**, no menu, marcada como "Respondida · ver seu Retrato", e abre o seu Retrato de Atuação.
+- **Cartão "Minha participação".** Se você ainda não respondeu nenhuma etapa, o cartão diz "Você ainda não respondeu nenhuma etapa do questionário de perfil." e traz o botão **Começar meu questionário de perfil**. Ele leva à página **Questionários de perfil**.
 
-Você também pode abrir **Minha coleta** pelo menu. No computador, ele fica na barra lateral à esquerda. No celular, toque no ícone de menu (☰), no canto superior direito.
+Você também pode abrir **Meu questionário de perfil** pelo menu. No computador, ele fica na barra lateral à esquerda. No celular, toque no ícone de menu (☰), no canto superior direito.
 
-![Cartão Coletas para responder, no Início, com uma coleta não iniciada](../assets/capturas/manual-10-primeiros-passos-coletas-para-responder-desktop.png)
+![Cartão Questionários de perfil para responder, no Início, com um questionário não iniciado](../assets/capturas/manual-10-primeiros-passos-coletas-para-responder-desktop.png)
 ![Início do app no computador, com o cartão Minha participação](../assets/capturas/manual-10-primeiros-passos-inicio-desktop.png)
 ![Início do app no celular (375px), com o cartão Minha participação](../assets/capturas/manual-10-primeiros-passos-inicio-375.png)
 
-**Dica:** se você tem mais de uma coleta, todas aparecem na página **Minha coleta**, cada uma com o nome e a área. Abra a que você reconhece.
+**Dica:** se você tem mais de um questionário, todos aparecem na página **Questionários de perfil**, cada um com o nome e a área. Abra o que você reconhece.
 
-**Armadilha:** se você não vê nenhuma coleta, não é defeito. A organização precisa chamar você. Se ela ainda não aceitou o seu convite, a coleta aparece depois que você entrar.
+**Armadilha:** se você não vê nenhum questionário, não é defeito. A organização precisa chamar você. Se ela ainda não aceitou o seu convite, o questionário aparece depois que você entrar.
 
-## 5. Responder a coleta
+## 5. Responder ao questionário de perfil
 
-**Por que isto importa:** a coleta é o que a organização conhece de você além do nome. Você pode parar a qualquer momento e voltar depois: o que já respondeu fica salvo. Responder com sinceridade é o que deixa o retrato útil para você e para quem decide.
+**Por que isto importa:** o questionário é o que a organização conhece de você além do nome. Você pode parar a qualquer momento e voltar depois: o que já respondeu fica salvo. Responder com sinceridade é o que deixa o retrato útil para você e para quem decide.
 
-A coleta tem três partes: a **trajetória**, as **perguntas** e a **revisão**.
+O questionário tem três partes: a **trajetória**, as **perguntas** e a **revisão**.
 
 ### Antes de começar
 
-Em algumas organizações, a primeira tela da coleta é um aviso: "Nesta organização, a chefia direta no organograma pode ver o seu nome junto das suas respostas. As demais pessoas veem só dados consolidados." Leia com calma e toque em **Li o aviso e quero começar**.
+Em algumas organizações, a primeira tela do questionário é um aviso: "Nesta organização, a chefia direta no organograma pode ver o seu nome junto das suas respostas. As demais pessoas veem só dados consolidados." Leia com calma e toque em **Li o aviso e quero começar**.
 
 ![Aviso Antes de começar, no computador](../assets/capturas/manual-10-primeiros-passos-aviso-chefia-desktop.png)
 ![Aviso Antes de começar, no celular (375px)](../assets/capturas/manual-10-primeiros-passos-aviso-chefia-375.png)
@@ -180,7 +181,7 @@ As perguntas são cartões, um de cada vez. Cada cartão tem o contador "Pergunt
 4. **O que você gosta de fazer.** Para cada grupo de atividades, escolha um grau: **Não é comigo**, **Um pouco**, **Bastante** ou **Muito**. A tela só segue quando todos os grupos têm uma escolha.
 5. **Situações do dia a dia (4 perguntas).** Cada uma descreve um momento difícil e pede a sua reação mais próxima do que você faria de verdade. Escolha uma só.
 
-Antes da pergunta de interesses, a coleta mostra o aviso **Antes de continuar**, explicando quem vê os seus interesses e as suas escolhas nas situações. Toque em **Entendi, continuar** para seguir.
+Antes da pergunta de interesses, o questionário mostra o aviso **Antes de continuar**, explicando quem vê os seus interesses e as suas escolhas nas situações. Toque em **Entendi, continuar** para seguir.
 
 ![Pergunta 8 de 8, Pedido urgente fora da rotina, com uma opção escolhida, no computador](../assets/capturas/manual-10-primeiros-passos-perguntas-desktop.png)
 ![Pergunta 8 de 8 no celular (375px)](../assets/capturas/manual-10-primeiros-passos-perguntas-375.png)
@@ -197,9 +198,9 @@ Depois da oitava pergunta, a tela diz "Todas as perguntas foram respondidas." Os
 
 - **Pergunta anterior**: volta uma pergunta, para você rever a resposta;
 - **Rever a trajetória**: volta à trajetória, para confirmar ou descartar itens;
-- **Concluir**: encerra a coleta. Ele só fica ativo quando as 8 perguntas estão respondidas.
+- **Concluir**: encerra o questionário. Ele só fica ativo quando as 8 perguntas estão respondidas.
 
-Ao tocar em **Concluir**, o app pergunta **Concluir a coleta?**. Depois de concluir, as suas respostas **não podem mais ser mudadas**. Confirme só quando estiver tudo certo.
+Ao tocar em **Concluir**, o app pergunta **Concluir o questionário de perfil?**. Depois de concluir, as suas respostas **não podem mais ser mudadas**. Confirme só quando estiver tudo certo.
 
 **Armadilha:** essa confirmação é o último momento em que você muda uma resposta.
 
@@ -212,8 +213,8 @@ O app mostra **Camada 1 concluída** e o seu **Seu Retrato de Atuação**. O Ret
 
 Quem vê o quê:
 
-- **O Retrato é só seu.** Nem a gestão nem quem conduziu a conversa têm acesso. Ele não vai para a sua carteira pessoal.
-- **O gestor imediato** recebe só o aviso de que você concluiu a coleta, sem as respostas.
+- **O Retrato é só seu.** Nem a gestão nem quem conduziu a conversa têm acesso. Ele não vai para os seus dados e a sua formação.
+- **O gestor imediato** recebe só o aviso de que você concluiu o questionário, sem as respostas.
 - **Quem decide sobre o cargo** vê os seus interesses e as suas escolhas nas situações, como o aviso antes das perguntas mostrou.
 
 ![Seu Retrato de Atuação, no computador, com as primeiras seções](../assets/capturas/manual-10-primeiros-passos-retrato-desktop.png)
@@ -221,9 +222,9 @@ Quem vê o quê:
 
 ## 6. Meu Perfil: sua trajetória e seus dados
 
-**Por que isto importa:** a sua trajetória é sua, não da coleta. Ela fica em **Meu Perfil**, e você atualiza quando quiser: as pessoas fazem cursos, mudam de trabalho e aprendem. A coleta usa o que está ali. Cada coleta concluída guarda uma foto do que estava na trajetória naquele dia, e mudar depois não altera o que já foi concluído.
+**Por que isto importa:** a sua trajetória é sua, não do questionário. Ela fica em **Meu Perfil**, e você atualiza quando quiser: as pessoas fazem cursos, mudam de trabalho e aprendem. O questionário usa o que está ali. Cada questionário concluído guarda uma foto do que estava na trajetória naquele dia, e mudar depois não altera o que já foi concluído.
 
-**Onde fica:** no menu, **Meu Perfil**. As abas são **Meus dados**, **Trajetória**, **Conta** e **Outras posições**.
+**Onde fica:** no menu, **Meu Perfil**. As abas são **Meus dados e formação**, **Trajetória**, **Conta** e **Outras posições**.
 
 ### 6.1 A aba Trajetória
 
@@ -249,7 +250,7 @@ Se o seu e-mail mudou, troque o endereço de entrada em **Meu Perfil › Conta**
 1. **Peça a troca.** Digite o e-mail novo e toque em **Enviar link ao e-mail atual**. O app pede a confirmação do segundo passo (o código do aplicativo autenticador, a passkey ou o código por e-mail). Um e-mail com um link chega ao seu e-mail **de hoje**, nunca ao novo.
 2. **Abra o link e digite o código.** Na página do link, toque em **Enviar código ao novo e-mail**. Um código de 6 dígitos chega ao novo e-mail. Digite o código e toque em **Confirmar a troca**.
 
-**Quando vale:** a partir da confirmação, você entra com o e-mail novo, e o antigo deixa de entrar. As suas organizações, os seus papéis e a sua carteira ficam como estavam. Os outros aparelhos em que você estava entrando são desconectados.
+**Quando vale:** a partir da confirmação, você entra com o e-mail novo, e o antigo deixa de entrar. As suas organizações, os seus papéis e os seus dados e a sua formação ficam como estavam. Os outros aparelhos em que você estava entrando são desconectados.
 
 **Se não foi você quem pediu:** ignore o e-mail com o link. O pedido vence sozinho em 48 horas e nada muda.
 
@@ -302,15 +303,15 @@ O convite vale só para o e-mail que a organização cadastrou. Saia da conta pe
 **Errei uma resposta antes de concluir. Consigo mudar?**
 Consegue, enquanto não tocar em **Concluir**. Use **Pergunta anterior** ou **Rever a trajetória**, mude a resposta e toque em **Confirmar e seguir** no cartão. Depois de concluir, não há como mudar.
 
-**Não vejo nenhuma coleta. É problema?**
-Não necessariamente. A coleta aparece quando a organização chama você. Se ela ainda não aceitou o seu convite, ou não chamou você, a lista fica vazia.
+**Não vejo nenhum questionário de perfil. É problema?**
+Não necessariamente. O questionário aparece quando a organização chama você. Se ela ainda não aceitou o seu convite, ou não chamou você, a lista fica vazia.
 
 Mais respostas estão nas [Perguntas Frequentes](/9-perguntas-frequentes/) e na [página de Avaliado ou Colaborador](/1-avaliado-colaborador/).
 
 ## Glossário
 
-- **Coleta**: o conjunto de perguntas que você responde no app para a organização.
+- **Questionário de perfil**: o conjunto de perguntas que você responde no app para a organização.
 - **Trajetória**: o que você já fez em formação, cursos e experiências, do jeito que você conta.
 - **Retrato de Atuação**: o texto que o app monta com as suas respostas. Só você lê.
 - **Código de acesso**: os 6 dígitos que chegam por e-mail. O código do convite vale por 60 minutos.
-- **Carteira pessoal**: o seu conjunto de dados pessoais e certificados, na aba **Meus dados** e **Trajetória** do **Meu Perfil**.
+- **Meus dados e formação**: a aba do **Meu Perfil** com os seus dados pessoais e os seus certificados. A aba **Trajetória** fica ao lado dela.

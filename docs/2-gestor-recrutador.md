@@ -4,7 +4,7 @@ nav_order: 3
 permalink: /2-gestor-recrutador/
 ---
 
-# 2. Gestor ou Recrutador — Matriz Situada, Coleta e Decisão (*Katatu Fit* e *Gap*)
+# 2. Gestor ou Recrutador — Matriz Situada, Questionário de perfil e Decisão (*Katatu Fit* e *Gap*)
 
 ## Por que isto importa
 
@@ -28,7 +28,7 @@ Avaliações tradicionais falham porque usam descrições genéricas de cargo ("
 
 8. **Mudar várias Matrizes de uma vez:** na lista de Matrizes Situadas, marque as Matrizes e escolha **Acrescentar requisito**, **Tirar requisito** ou **Acrescentar etapa**. Antes de aplicar, a janela mostra quantas e quais vão mudar. Com **Oficializar as novas versões** marcada (é o padrão), cada Matriz oficializada ganha uma versão nova já oficializada; desmarcada, a versão nova fica em rascunho para você conferir. O rascunho aberto recebe a mudança direto. Fica de fora, com o motivo, a Matriz que já tem o mesmo código, não tem o requisito a tirar, está arquivada, já tem uma revisão em rascunho ou não tem a competência da etapa. O resultado mostra concluídas, recusadas e com falha.
 9. **Link do curso:** requisitos e etapas aceitam um **Link (opcional)**, só de um site da lista de domínios confiáveis da organização (Configurações da Organização › Privacidade). Na Matriz, no Gap e em Meu desenvolvimento, o link aparece como **Abrir em <site>** e abre em outra aba. Se o site sair da lista, o link deixa de abrir e a tela mostra só o nome do site.
-10. **Chamar para a coleta:** na Matriz, em **Avaliados**, o campo **Designar avaliado** chama uma pessoa, e **Designar os ocupantes desta função** chama de uma vez todas as pessoas que ocupam a função. A confirmação mostra quantas, e o resultado separa as chamadas, as que já estavam na lista e as recusadas, com o motivo. Na lista de Pessoas, a ação em lote **Abrir coleta** chama cada pessoa selecionada na Matriz em uso da função que ela ocupa. Nenhum e-mail sai nessa hora.
+10. **Chamar para o questionário de perfil:** na Matriz, em **Avaliados**, o campo **Designar avaliado** chama uma pessoa, e **Designar os ocupantes deste cargo** chama de uma vez todas as pessoas que ocupam o cargo. A confirmação mostra quantas, e o resultado separa as chamadas, as que já estavam na lista e as recusadas, com o motivo. Na lista de Pessoas, a ação em lote **Abrir questionário de perfil** chama cada pessoa selecionada na Matriz em uso da função que ela ocupa. Nenhum e-mail sai nessa hora.
 
 ![Tela de Matrizes Situadas nos 4 eixos em desktop](../assets/capturas/manual-03-matrizes-desktop.png)
 ![Tela de Matrizes Situadas nos 4 eixos no celular (375px)](../assets/capturas/manual-03-matrizes-mobile.png)
@@ -49,7 +49,7 @@ Abra **Decisão > Katatu Fit** na vaga desejada. O motor classifica cada pessoa 
    - O **amortecedor organizacional** (ex.: *Revisão em par das entregas críticas nas primeiras 4 semanas*);
    - O **responsável nominal** pelo acompanhamento;
    - O **prazo de verificação** dentro da janela de 90 dias.
-3. Caso o avaliado possua cursos na **Carteira Pessoal** que cubram itens da trilha sugerida, marque ou aceite as equivalências individualmente ou em lote pela `ListaComAcoes`.
+3. Caso o avaliado possua cursos em **Meus dados e formação** (aba Trajetória) que cubram itens da trilha sugerida, marque ou aceite as equivalências individualmente ou em lote pela `ListaComAcoes`.
 4. Confirmada a posse, o registro transita imediatamente do **Modo A (Seleção)** para o **Modo B (Acompanhamento de 90 Dias)** e habilita o registro de notas semanais de evolução (`declarado -> observado`) e o **Balanço de 90 Dias**.
 
 ![Mesa de decisão Katatu Fit e Katatu Gap em desktop](../assets/capturas/manual-04-decisao-desktop.png)
@@ -104,7 +104,7 @@ A lista de cargos mostra quatro colunas:
 
 Use o filtro por unidade para ver uma parte da organização. No detalhe de cada cargo aparecem os candidatos de baixo no organograma, com a faixa, os meses de preparo e o que falta a cada um.
 
-- **Sem dados:** a faixa só aparece para quem concluiu a coleta na Matriz daquele cargo. Quem não concluiu aparece como "sem dados: falta coleta para esta cadeira", com a ação **Convidar para a coleta**. Não é zero: é falta de registro.
+- **Sem dados:** a faixa só aparece para quem concluiu o questionário de perfil na Matriz daquele cargo. Quem não concluiu aparece como "sem dados: falta questionário de perfil para esta cadeira", com a ação **Convidar para o questionário de perfil**. Não é zero: é falta de registro.
 - **Não selecionado:** quem levou "não" na escolha do Fit para um cargo fica fora do Mapa desse cargo até abrir um novo processo seletivo.
 - **Pessoas que sinalizaram "Aberto a outras posições":** aparecem como candidatas, mas você só as vê no Mapa de cargos da sua unidade.
 
@@ -132,9 +132,9 @@ Em **Vagas**, o botão **Vagas no site** leva à página onde você publica as v
 
 Apagar no Katatu não é para sempre. O que você apaga sai na hora de todas as listas, telas e cálculos, inclusive do *Katatu Mapa*, e vai para a **Lixeira**. Lá ele fica 30 dias e pode voltar com um clique, igual a como estava.
 
-**O que vai para a lixeira:** vagas, rascunhos de anúncio, coletas, campanhas de avaliação (com as avaliações delas), avaliações de campanha, notas de realidade do acompanhamento e os itens do catálogo (referenciais, modelos de cargo e trilhas).
+**O que vai para a lixeira:** vagas, rascunhos de anúncio, questionários de perfil, campanhas de avaliação (com as avaliações delas), avaliações de campanha, notas de realidade do acompanhamento e os itens do catálogo (referenciais, modelos de cargo e trilhas).
 
-**O que vai junto com a vaga:** os anúncios, os interessados, o post do site e os convites da vaga. As coletas e as decisões do *Katatu Fit* **não** vão junto, porque são da Matriz Situada e podem servir a outra vaga da mesma Matriz e ao *Mapa*. Para tirar uma coleta, apague a coleta.
+**O que vai junto com a vaga:** os anúncios, os interessados, o post do site e os convites da vaga. Os questionários de perfil e as decisões do *Katatu Fit* **não** vão junto, porque são da Matriz Situada e podem servir a outra vaga da mesma Matriz e ao *Mapa*. Para tirar um questionário de perfil, apague o questionário.
 
 **Vaga com posse registrada:** não vai para a lixeira. A pessoa já está no cargo, e o acompanhamento dela nasce da posse. Para tirar a vaga da lista, **encerre** a vaga.
 
@@ -168,5 +168,5 @@ Apagar no Katatu não é para sempre. O que você apaga sai na hora de todas as 
 | `402 licenca_expirada_novos_ciclos_bloqueados` | A licença da instalação venceu após os 14 dias de carência. | Vagas abertas, *Katatu Gap*, *Mapa* e exportações continuam funcionando; peça ao `admin_servico` para renovar a chave `V3RLicense`. |
 | "Esta vaga já tem posse registrada: encerre a vaga em vez de apagá-la." | A vaga já tem uma pessoa empossada; apagar faria sumir o acompanhamento dela. | Use **Encerrar** na vaga. |
 | "Só quem apagou, ainda com o direito de apagar este item, ou a Administração restaura." | Você não apagou o item, ou não tem mais o direito de apagá-lo na unidade dele. | Peça à Administração da organização para restaurar. |
-| "Esta pessoa já tem outra coleta ativa nesta Matriz." | A coleta apagada não volta por cima de outra coleta valendo da mesma pessoa. | Use a coleta que está valendo, ou cancele-a antes de restaurar a antiga. |
+| "Esta pessoa já tem outro questionário de perfil ativo nesta Matriz." | O questionário apagado não volta por cima de outro questionário valendo da mesma pessoa. | Use o questionário que está valendo, ou cancele-o antes de restaurar o antigo. |
 | "A campanha desta avaliação está na lixeira: restaure a campanha antes." | A avaliação só volta com a campanha dela fora da lixeira. | Restaure a campanha primeiro. |

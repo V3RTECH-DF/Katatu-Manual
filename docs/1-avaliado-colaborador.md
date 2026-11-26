@@ -4,13 +4,13 @@ nav_order: 2
 permalink: /1-avaliado-colaborador/
 ---
 
-# 1. Avaliado ou Colaborador — Entrar por convite, Coleta e Carteira Pessoal
+# 1. Avaliado ou Colaborador — Entrar por convite, Questionário de perfil e Meus dados e formação
 
-**Primeiro acesso?** Comece por [Recebi um convite: primeiros passos](/primeiros-passos/), com as telas de cada etapa, da entrada com o código até a conclusão da coleta.
+**Primeiro acesso?** Comece por [Recebi um convite: primeiros passos](/primeiros-passos/), com as telas de cada etapa, da entrada com o código até a conclusão do questionário.
 
 ## Por que isto importa
 
-No Katatu, você não perde tempo criando login e senha antes de participar de um mapeamento ou processo seletivo: o link do convite abre sua sessão imediatamente. Mais importante: **os certificados e cursos da sua Carteira Pessoal pertencem a você**. Quando você participa de processos em duas organizações diferentes (por exemplo, Organização A e Organização B), nenhuma delas enxerga o que você enviou para a outra até que você autorize explicitamente item por item.
+No Katatu, você não perde tempo criando login e senha antes de participar de um mapeamento ou processo seletivo: o link do convite abre sua sessão imediatamente. Mais importante: **os certificados e cursos que você guarda no seu perfil pertencem a você**. Quando você participa de processos em duas organizações diferentes (por exemplo, Organização A e Organização B), nenhuma delas enxerga o que você enviou para a outra até que você autorize explicitamente item por item.
 
 ## Passo a passo
 
@@ -22,11 +22,11 @@ No Katatu, você não perde tempo criando login e senha antes de participar de u
    - Se a organização não tiver transcrição configurada, o botão de voz aparece desabilitado com o motivo; você digita a resposta normalmente.
    - Se a franquia de IA da organização tiver acabado no mês, o botão de voz também aparece desabilitado, com o aviso de que a IA está pausada até o próximo mês; o trabalho manual segue normalmente e você digita a resposta.
    - Se você tocar em **Confirmar e seguir** com um texto falado ainda não usado, o app pergunta se você quer **usar** ou **descartar** esse texto; nada se perde sem a sua decisão.
-4. Ao concluir a coleta, acesse **Meu Retrato de Atuação** para consultar e exportar em `PDF` sua devolutiva construtiva (pontos de força observados e recomendações práticas de desenvolvimento, sem rótulos de "aprovado/reprovado" nem comparação com terceiros).
-5. Seus dados civis ficam na aba **Meus dados** do **Meu Perfil**. O currículo, os cursos e certificados e a sua trajetória ficam na aba **Trajetória** (veja as seções abaixo).
+4. Ao concluir o questionário, acesse **Meu Retrato de Atuação** para consultar e exportar em `PDF` sua devolutiva construtiva (pontos de força observados e recomendações práticas de desenvolvimento, sem rótulos de "aprovado/reprovado" nem comparação com terceiros).
+5. Seus dados civis ficam na aba **Meus dados e formação** do **Meu Perfil**. O currículo, os cursos e certificados e a sua trajetória ficam na aba **Trajetória** (veja as seções abaixo).
 
-![Fluxo de convite e coleta na Camada 0 em desktop](../assets/capturas/manual-02-coleta-desktop.png)
-![Fluxo de convite e coleta na Camada 0 no celular (375px)](../assets/capturas/manual-02-coleta-mobile.png)
+![Fluxo de convite e questionário de perfil na Camada 0 em desktop](../assets/capturas/manual-02-coleta-desktop.png)
+![Fluxo de convite e questionário de perfil na Camada 0 no celular (375px)](../assets/capturas/manual-02-coleta-mobile.png)
 
 ### Aceitar os Termos de Uso e a Política de Privacidade
 
@@ -49,7 +49,7 @@ Ao completar 90 dias, o Katatu convida você a deixar um **complemento final**. 
 
 - **Pedido de avaliação:** quando a sua organização dispara uma campanha, você recebe um e-mail para cada avaliação que deve responder. Ele traz o nome de quem é avaliado, o prazo e a garantia de anonimato. Se a organização já tem acesso seu ao Katatu, o botão leva para responder dentro do app; se não tem, o link é pessoal e não pede conta. O e-mail nunca cita os outros respondentes.
 - **Lembrete:** se você ainda não respondeu, pode receber um lembrete, no máximo um por dia. Ele reúne todas as avaliações pendentes num e-mail só. Quem já respondeu ou recusou não recebe.
-- **Convite para a coleta de uma vaga:** quando a organização convida você como candidato, o e-mail traz um link pessoal para a coleta. Você não precisa criar conta. Se a vaga é confidencial, o e-mail vem como "Processo seletivo, via Katatu", sem o nome da organização.
+- **Convite para o questionário de perfil de uma vaga:** quando a organização convida você como candidato, o e-mail traz um link pessoal para o questionário. Você não precisa criar conta. Se a vaga é confidencial, o e-mail vem como "Processo seletivo, via Katatu", sem o nome da organização.
 - **Comunicado interno:** se você trabalha na organização, pode receber o comunicado de uma vaga da sua unidade, das unidades abaixo dela ou de outras unidades que a organização escolher. Vagas confidenciais nunca enviam comunicado.
 
 **Dica:** se a organização tiver um contato cadastrado, o e-mail convida você a responder a ele. Sem contato, o e-mail diz para não responder.
@@ -81,7 +81,7 @@ Algumas vagas são **internas**: aparecem só para quem é da organização. Qua
 
 - Na lista, você vê as vagas abertas, menos a do cargo que você ocupa hoje.
 - Toque em **Quero participar** para pedir. Você não precisa confirmar e-mail nem resolver verificação, porque já está logado. Depois do pedido, a vaga mostra **Pedido enviado em dd/mm**.
-- Quem decide a vaga recebe o seu pedido e pode chamar você para a coleta. Nesse caso, você recebe o convite de coleta normal.
+- Quem decide a vaga recebe o seu pedido e pode chamar você para o questionário de perfil. Nesse caso, você recebe o convite normal do questionário.
 - Se o pedido não for aceito, o app não avisa. Para você, o pedido continua como **enviado**.
 - Sua chefia imediata e a linha acima dela não são avisadas do seu pedido, nem veem que você pediu.
 
@@ -93,28 +93,28 @@ Algumas vagas são **internas**: aparecem só para quem é da organização. Qua
 - **Se o código não chegar:** confira a caixa de spam e espere 15 minutos antes de pedir de novo. Um novo pedido para a mesma vaga, depois desse prazo e sem confirmação, manda um código novo. Antes disso, o código anterior continua valendo e nada novo é enviado. Depois de confirmado, o pedido não gera novo código.
 - **Código incorreto ou vencido:** a tela pede que você confira o e-mail mais recente ou peça um código novo mais tarde.
 - **Quando o pedido não é aceito:** vagas confidenciais e internas não recebem pedido pelo mural. Se a vaga já não estiver aberta, a página diz que ela não está mais aberta no site da organização. Se a organização já recebeu o limite de pedidos do dia para aquela vaga, a tela responde do mesmo jeito, mas nenhum e-mail sai. Tente outro dia.
-- **Depois do pedido:** quem decide a vaga pode liberar você para a coleta. Nesse caso, você recebe o convite normal da coleta no seu e-mail. Se você não for escolhido, o app não avisa.
+- **Depois do pedido:** quem decide a vaga pode liberar você para o questionário de perfil. Nesse caso, você recebe o convite normal do questionário no seu e-mail. Se você não for escolhido, o app não avisa.
 
-**Dica:** use um e-mail que você consulta com frequência, porque é nele que chegam o código e, se for o caso, o convite da coleta. O pedido não garante vaga: ele só permite que quem decide veja o seu interesse e avalie você.
+**Dica:** use um e-mail que você consulta com frequência, porque é nele que chegam o código e, se for o caso, o convite do questionário. O pedido não garante vaga: ele só permite que quem decide veja o seu interesse e avalie você.
 
 ### Banco de talentos
 
-Na candidatura pelo mural e no convite para a coleta aparece a opção **Quero entrar no banco de talentos desta organização**.
+Na candidatura pelo mural e no convite para o questionário de perfil aparece a opção **Quero entrar no banco de talentos desta organização**.
 
 - Com a marca, a organização guarda o seu nome, o seu e-mail e o que você respondeu, para chamar você em outras vagas. Quem decide a vaga vê que você está no banco.
 - Sem a marca, esses dados saem 180 dias depois da última movimentação na vaga.
-- Você pode sair quando quiser. Se já tem acesso ao app pelo convite de coleta, o cartão **Banco de talentos (opcional)** em **Minha coleta** mostra a sua situação e permite entrar ou sair.
+- Você pode sair quando quiser. Se já tem acesso ao app pelo convite do questionário, o cartão **Banco de talentos (opcional)** na página do questionário (menu **Meu questionário de perfil**) mostra a sua situação e permite entrar ou sair.
 
-### Meus dados e Trajetória (carteira pessoal)
+### Meus dados e formação, e Trajetória
 
-No **Meu Perfil**, as abas **Meus dados** e **Trajetória** formam a sua carteira pessoal. Só você lê e altera.
+No **Meu Perfil**, a aba **Meus dados e formação** guarda os seus dados pessoais, e a aba **Trajetória** guarda a sua formação. Só você lê e altera.
 
-**Meus dados:**
+**Meus dados e formação:**
 
 - **Dados civis:** nome civil, CPF, data de nascimento e telefone com DDD. O app não pede endereço. O CPF é opcional; quando você informa, ele aparece mascarado e não serve para procurar ninguém. Um CPF com dígito errado é recusado.
 **Trajetória:**
 
-- **Minha trajetória:** formação, experiência, cursos e certificados, que você acrescenta, corrige e apaga a qualquer momento. A coleta usa o que está aqui; cada coleta concluída guarda uma fotografia do que estava na trajetória naquele dia, e mudar depois não altera o que já foi concluído.
+- **Minha trajetória:** formação, experiência, cursos e certificados, que você acrescenta, corrige e apaga a qualquer momento. O questionário usa o que está aqui; cada questionário concluído guarda uma fotografia do que estava na trajetória naquele dia, e mudar depois não altera o que já foi concluído.
 - **Acervo:** cursos, formações e certificados. Em cada certificado você guarda o tipo, o título, a instituição, a carga horária, a data de conclusão e o arquivo, em PDF ou imagem de até 5 MB.
 - **Entra sozinho:** o curso que você aponta em **Meu desenvolvimento** aparece no acervo sem precisar digitar de novo.
 - **Apagar:** apagar um item também apaga o arquivo do certificado, na hora. Não existe lixeira para isso.
@@ -125,7 +125,7 @@ No **Meu Perfil**, as abas **Meus dados** e **Trajetória** formam a sua carteir
 
 Quando uma organização convida você, o convite aparece com três escolhas:
 
-- **Aceitar o convite de (nome da organização):** antes de confirmar, o app mostra um aviso com exatamente o que aquela organização passa a ver: seus dados pessoais e o acervo, com os arquivos. Depois que você confirma, quem lê as pessoas da organização vê a sua carteira, com o CPF mascarado. Sem esse vínculo, a organização não vê nada.
+- **Aceitar o convite de (nome da organização):** antes de confirmar, o app mostra um aviso com exatamente o que aquela organização passa a ver: seus dados pessoais e o acervo, com os arquivos. Depois que você confirma, quem lê as pessoas da organização vê os seus dados e a sua formação, com o CPF mascarado. Sem esse vínculo, a organização não vê nada.
 - **Recusar:** apaga o convite. A organização vê só "recusado". Ela pode convidar você de novo depois, sem bloqueio.
 - **Não reconheço:** use quando você não sabe quem é a organização. Apaga o convite e a ficha que ela criou para você, na hora e sem lixeira. A organização fica bloqueada por **30 dias** de convidar esse mesmo e-mail. Para ela, o convite aparece só como "recusado".
 
@@ -138,7 +138,7 @@ Para entrar no Katatu com outro e-mail, vá em **Meu Perfil**, aba **Conta**, se
 1. **Peça a troca.** Digite o e-mail novo e toque em **Enviar link ao e-mail atual**. O app pede a confirmação do segundo passo (o código do aplicativo autenticador, a passkey ou o código por e-mail). Um e-mail com um link chega ao seu e-mail **de hoje**, nunca ao novo. Enquanto você não abre o link, nada muda e a seção mostra o pedido pendente. Você pode cancelá-lo ou pedir de novo com outro e-mail; um pedido novo substitui o anterior.
 2. **Abra o link e digite o código.** Na página que o link abre, o app mostra o e-mail novo. Toque em **Enviar código ao novo e-mail**; um código de 6 dígitos chega lá. Digite o código e toque em **Confirmar a troca**. O código vale 15 minutos e pode ser pedido de novo. Cinco códigos errados cancelam o pedido, e você precisa pedir a troca outra vez.
 
-**Quando vale:** a partir da confirmação, você entra pelo e-mail novo, e o antigo deixa de entrar. As suas organizações, os seus papéis e a sua carteira ficam como estavam. Os outros aparelhos em que você estava entrando são desconectados (aquele em que você confirmou continua). O e-mail novo recebe um aviso de que passou a ser o de acesso. Passkeys e aplicativo autenticador continuam valendo.
+**Quando vale:** a partir da confirmação, você entra pelo e-mail novo, e o antigo deixa de entrar. As suas organizações, os seus papéis e os seus dados e a sua formação ficam como estavam. Os outros aparelhos em que você estava entrando são desconectados (aquele em que você confirmou continua). O e-mail novo recebe um aviso de que passou a ser o de acesso. Passkeys e aplicativo autenticador continuam valendo.
 
 **Se não foi você quem pediu:** ignore o e-mail com o link (na página do link, você também pode tocar em **Não fui eu**). O pedido vence sozinho em 48 horas e nada muda.
 
@@ -160,7 +160,7 @@ Isto não se desfaz. Para voltar a essa organização, você precisa receber um 
 
 Na aba **Conta** do **Meu Perfil**, no fim da página, está o botão **Excluir minha conta**. O app pede confirmação e, depois dela, apaga na hora:
 
-- a sua carteira, o acervo e os arquivos;
+- os seus dados e a sua formação, o acervo e os arquivos;
 - o seu acesso e os seus vínculos com todas as organizações.
 
 Não há como desfazer. Para entrar de novo, você precisa receber um novo convite.
@@ -174,7 +174,7 @@ O que você registrou para as organizações, como notas, balanços, campanhas e
 ## Dicas e armadilhas
 
 - **O que funciona bem:** revisar sempre os itens marcados como **A confirmar** logo após o upload do currículo — isso garante que datas no formato brasileiro (`dd/mm/aaaa`) e cargas horárias entrem exatas no abatimento do seu plano de 90 dias.
-- **Currículo Lattes ou LinkedIn:** a coleta não lê páginas da internet. Abra o seu currículo no navegador, use **Imprimir › Salvar como PDF** e envie o PDF (ou guarde-o em **Meu Perfil › Trajetória**). PDF escaneado, que é só imagem, não tem texto para ler e é recusado.
+- **Currículo Lattes ou LinkedIn:** o questionário não lê páginas da internet. Abra o seu currículo no navegador, use **Imprimir › Salvar como PDF** e envie o PDF (ou guarde-o em **Meu Perfil › Trajetória**). PDF escaneado, que é só imagem, não tem texto para ler e é recusado.
 - **Proteção contra convite indevido:** recebeu um convite de uma organização que não reconhece? Toque em **Não reconheço**. A organização fica bloqueada por **30 dias** de enviar novos convites para o seu endereço (veja a seção Aceitar, recusar ou não reconhecer um convite).
 
 ## Quando dá errado
@@ -190,4 +190,4 @@ O que você registrou para as organizações, como notas, balanços, campanhas e
 
 ## Limites do papel
 
-O avaliado/colaborador enxerga exclusivamente seus próprios dados, sua Carteira Pessoal, seu *Retrato de Atuação*, seu próprio plano *Katatu Gap* e, depois que a conversa é registrada, o seu resultado de campanha de avaliação. Ele nunca vê outros candidatos, quem respondeu cada avaliação, notas de corte internas nem o painel comparativo *Katatu Fit*.
+O avaliado/colaborador enxerga exclusivamente seus próprios dados (as abas Meus dados e formação e Trajetória), seu *Retrato de Atuação*, seu próprio plano *Katatu Gap* e, depois que a conversa é registrada, o seu resultado de campanha de avaliação. Ele nunca vê outros candidatos, quem respondeu cada avaliação, notas de corte internas nem o painel comparativo *Katatu Fit*.
