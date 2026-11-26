@@ -12,9 +12,15 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 ---
 
+## Comece por aqui
+
+- [Começando: implantar o Katatu na sua organização](implantar-organizacao/): para quem administra.
+- [Recebi um convite: guia do colaborador](primeiros-passos/): para quem é convidado.
+
 ## Como usar este manual (entrada rápida por dúvida)
 
-- **Recebi um convite por e-mail e nunca usei o Katatu:** comece por [Recebi um convite: primeiros passos](primeiros-passos/), com as telas de cada etapa.
+- **Vou implantar o Katatu na minha organização (administração):** comece por [Começando: implantar o Katatu na sua organização](implantar-organizacao/), do convite de administração às primeiras coletas.
+- **Recebi um convite por e-mail e nunca usei o Katatu:** comece por [Recebi um convite: guia do colaborador](primeiros-passos/), com as telas de cada etapa.
 - **Acabei de receber um link de convite por e-mail ou WhatsApp:** veja [1. Entrar por convite e gerir sua Carteira Pessoal](1-avaliado-colaborador/).
 - **Preciso desenhar uma vaga ou posição existente nos 4 eixos situados:** veja [2. Construir a Matriz Situada e coletar múltiplas perspectivas](2-gestor-recrutador/).
 - **Preciso decidir uma alocação na Faixa 3 com amortecedores obrigatórios:** veja [2.3 Como aprovar posse na Faixa 3 com amortecedores](2-gestor-recrutador/#23-aprovar-posse-na-faixa-3-e-gerar-o-katatu-gap).
