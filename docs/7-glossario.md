@@ -6,7 +6,19 @@ permalink: /7-glossario/
 
 # Glossário do Katatu
 
-- **Questionário de perfil:** o conjunto de etapas que a pessoa responde no app para a organização: a trajetória, as perguntas sobre o dia a dia e a revisão. Ao concluir, gera o **Retrato de Atuação** dela. Quem administra chama a pessoa para o questionário na Matriz do cargo; a pessoa o vê em **Meu questionário de perfil** no menu. Nas versões anteriores à 1.4.1, este mesmo item se chamava *coleta*; veja a seção de mudanças de nome, no fim desta página.
+Há dois jeitos de chegar a um termo.
+
+**Pela própria tela.** Os termos com linha pontilhada têm definição ali mesmo. Toque no termo (no computador, também dá para usar **Tab** até ele e apertar **Enter**): abre um balão com a definição e o link **Ver no glossário**, que traz você para esta página, no termo. Aperte **Esc** para fechar o balão; o foco volta ao termo.
+
+![Balão com a definição de Questionário de perfil, no computador, com o link Ver no glossário](../assets/capturas/manual-13-glossario-termo-desktop.png)
+
+**Pelo menu de ajuda.** Toque no ícone **?** no topo da tela. **Glossário** abre esta lista; **Manual desta tela** abre o capítulo da tela em que você está.
+
+![Menu de ajuda aberto, com os itens Manual desta tela e Glossário](../assets/capturas/manual-13-glossario-menu-desktop.png)
+
+![Glossário aberto no termo Questionário de perfil, no computador](../assets/capturas/manual-13-glossario-lista-desktop.png)
+
+- **Questionário de perfil:** o conjunto de etapas que a pessoa responde no app para a organização: a Trajetória, as Perguntas e as Situações do dia a dia. Ao concluir, gera o **Retrato de Atuação** dela. Quem administra chama a pessoa para o questionário na Matriz do cargo; a pessoa o vê em **Meu questionário de perfil** no menu. Nas versões anteriores à 1.4.1, este mesmo item se chamava *coleta*; veja a seção de mudanças de nome, no fim desta página.
 - **Meus dados e formação:** a aba do **Meu Perfil** onde a pessoa guarda os próprios dados pessoais (nome civil, CPF, data de nascimento e telefone). Só ela lê e altera; a organização só vê depois de aceitar o aviso do vínculo. A formação, os cursos e os certificados ficam na aba **Trajetória**, ao lado dela. Nas versões anteriores à 1.4.1, esta aba se chamava *carteira pessoal*.
 - **Matriz Situada da Função:** especificação viva de uma vaga (Modo A) ou posição ocupada (Modo B) estruturada em 4 eixos de realidade operacional, substituindo descrições genéricas de cargo.
 - **Piso (Dia 1) e Pleno:** os dois níveis separados de exigência (`0` a `3`) de cada competência. O Piso é o mínimo para operar com segurança no primeiro dia; o Pleno é o nível esperado da pessoa já madura na função. O caminho do piso ao pleno segue a trilha, no prazo de cada etapa.

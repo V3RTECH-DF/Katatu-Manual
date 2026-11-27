@@ -354,6 +354,15 @@ No primeiro passo da importação, escolha o modo:
 
 **Por que cadastrar sem acesso primeiro:** assim você confere a estrutura e as funções com calma, e só convida quando tudo estiver certo.
 
+**Mensagem de aviso sugerida:** antes de enviar o convite, a janela **Convidar** mostra um texto pronto para você mandar pelo canal do grupo (WhatsApp, e-mail interno). Ele traz o nome do grupo, o prazo real do convite, quem convida e o link do guia do colaborador. Você pode editar o texto antes. O botão **Copiar mensagem de aviso** só copia: o Katatu não envia essa mensagem, e copiar não envia nem cria convite.
+
+**Dica:** avise antes. Quem sabe o que vem pela frente aceita e responde com mais calma. Acrescente uma frase sua, dizendo quem conhece a pessoa e quando você vai convidar.
+
+**Armadilha:** o aviso não chega à pessoa sozinho. Se você não mandar a mensagem, ela recebe só o e-mail do convite, que sai quando você confirma **Convidar**.
+
+![Janela Convidar, no computador, com o aviso sugerido, a caixa da mensagem editável e os botões Copiar mensagem de aviso e Convidar](../assets/capturas/manual-11-implantar-convite-mensagem-desktop.png)
+![Janela Convidar, no celular (375px), com o aviso sugerido e o botão Copiar mensagem de aviso](../assets/capturas/manual-11-implantar-convite-mensagem-375.png)
+
 ### 6.2 Conferir a prévia
 
 1. Depois do arquivo, a tela mostra a **prévia**: cada linha, com a função de cada pessoa.

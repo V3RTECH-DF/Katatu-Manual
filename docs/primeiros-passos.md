@@ -81,7 +81,7 @@ Quando há textos novos para aceitar, o app mostra a tela de aceite antes de qua
 - **Li e aceito a Política de Privacidade**;
 - os termos da organização, quando ela tiver os seus.
 
-O botão **Aceitar e continuar** só fica ativo depois que cada documento foi marcado. Se não concordar, toque em **Recusar e sair**: a recusa encerra a entrada, e você só usa o app depois de aceitar. A regra geral, com mais detalhes, está no [capítulo 1](/1-avaliado-colaborador/).
+O botão **Aceitar e continuar** só fica ativo depois que cada documento foi marcado. Se não concordar, toque em **Não aceito os termos e saio**: a recusa encerra a entrada, e você só usa o app depois de aceitar. A regra geral, com mais detalhes, está no [capítulo 1](/1-avaliado-colaborador/).
 
 ### O que a organização passa a ver
 
@@ -97,7 +97,8 @@ As opções da janela:
 - **Confirmar e continuar**: confirma o vínculo, e você segue para o Início. Depois disso, a organização vê os seus dados e a sua formação, com o CPF mascarado, e não pode mudar os seus dados.
 - **Decidir depois** (na primeira entrada): fecha a janela, e ela volta na próxima vez que você abrir o Katatu. Enquanto você não decidir, a organização não vê os seus dados e a sua formação.
 - **Recusar o convite** (na primeira entrada): encerra o vínculo com a organização, e ela não vê nenhum dado seu. O cadastro que ela já tinha de você (nome e e-mail) continua com ela, e o que você preencheu continua com você. Se mudar de ideia, peça um novo convite a quem convidou você. Na lista de convites, o equivalente é **Recusar**.
-- **Não reconheço**: use quando você não sabe quem é a organização. O convite é apagado, e a organização fica **30 dias** sem poder convidar esse mesmo e-mail. Se você conhece a organização e só não quer entrar, use **Recusar**.
+
+Na lista **Estes são os convites que esperam por esta conta**, cada convite tem os botões **Aceitar o convite de ...**, **Recusar** e **Não reconheço**. Use **Não reconheço** quando você não sabe quem é a organização: o convite é apagado, e a organização fica **30 dias** sem poder convidar esse mesmo e-mail. Se você conhece a organização e só não quer entrar, use **Recusar**.
 
 **Dica:** leia a lista do que será visto antes de tocar em **Confirmar e continuar**. Se quiser mudar depois, dá para ajustar em **Meu Perfil**, na aba **Meus dados e formação**.
 
@@ -130,7 +131,7 @@ Você também pode abrir **Meu questionário de perfil** pelo menu. No computado
 
 **Por que isto importa:** o questionário é o que a organização conhece de você além do nome. Você pode parar a qualquer momento e voltar depois: o que já respondeu fica salvo. Responder com sinceridade é o que deixa o retrato útil para você e para quem decide.
 
-O questionário tem três partes: a **trajetória**, as **perguntas** e a **revisão**.
+O questionário tem três etapas: **Trajetória**, **Perguntas** e **Situações**. Cada uma mostra o tempo estimado: cerca de 8 minutos na Trajetória, cerca de 5 nas Perguntas e cerca de 7 nas Situações, e o questionário inteiro leva cerca de 20 minutos. O tempo é o mesmo para todas as pessoas e não mede o seu desempenho. Você pode parar e continuar depois, e as respostas ficam salvas a cada passo.
 
 ![Início do questionário de perfil, no computador, com o tempo total (cerca de 20 min), as três etapas e o tempo de cada uma](../assets/capturas/manual-10-primeiros-passos-questionario-inicio-desktop.png)
 ![Início do questionário de perfil, no celular (375px), com o tempo total e as etapas Trajetória, Perguntas e Situações](../assets/capturas/manual-10-primeiros-passos-questionario-inicio-375.png)
@@ -299,6 +300,20 @@ Toque em **Feedback**, no topo da tela. Se você não consegue passar da tela de
 
 ![Janela Enviar feedback, no computador, com as categorias, a mensagem, os anexos e a autorização de contato](../assets/capturas/manual-12-real-77-feedback-desktop.png)
 ![Janela Enviar feedback, no celular (375px)](../assets/capturas/manual-12-real-77-feedback-375.png)
+
+## 9. Sobre o Katatu
+
+**Por que isto importa:** antes de responder, você pode querer saber o que é o Katatu e o que se espera de você. A janela **Sobre** diz isso em poucas linhas, e você a abre quando quiser.
+
+**Onde abrir:** no computador, toque em **Sobre** no rodapé da tela. No celular, abra o menu (☰), no canto superior direito, e toque em **Sobre o Katatu**, no fim da lista.
+
+A janela tem duas abas: **Sobre o Katatu**, com o que é o Katatu, para que o grupo vai usar, o que se espera de você e o que acontece depois; e **Novidades**, com as mudanças de cada versão. Para fechar, toque em **Fechar** ou aperte **Esc**. O foco volta ao link que abriu a janela.
+
+![Janela Sobre, no computador, com as abas Sobre o Katatu e Novidades e o texto do grupo](../assets/capturas/manual-10-primeiros-passos-sobre-desktop.png)
+![Janela Sobre, no celular (375px)](../assets/capturas/manual-10-primeiros-passos-sobre-375.png)
+![Menu do celular aberto, com o item Sobre o Katatu no fim da lista](../assets/capturas/manual-10-primeiros-passos-sobre-menu-375.png)
+
+**Armadilha:** a janela Sobre não é o aviso do vínculo. Ela não mostra o que o grupo passa a ver dos seus dados: isso fica na janela **O que ... passa a ver**, descrita na seção 3.
 
 ## Perguntas frequentes
 

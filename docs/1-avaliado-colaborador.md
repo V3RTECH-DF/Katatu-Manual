@@ -34,7 +34,7 @@ Os Termos de Uso e a Política de Privacidade valem em duas partes: a da platafo
 
 - A tela mostra os termos da plataforma e os da organização juntos. Marque **Li e aceito os Termos de Uso** e **Li e aceito a Política de Privacidade**. O botão **Aceitar e continuar** só fica ativo depois que os dois documentos foram marcados.
 - Enquanto houver uma versão nova pendente, nenhuma outra tela do app abre.
-- Se não concordar, toque em **Recusar e sair**. A recusa encerra a sua sessão, e você só volta a usar o app depois de aceitar.
+- Se não concordar, toque em **Não aceito os termos e saio**. A recusa encerra a sua sessão, e você só volta a usar o app depois de aceitar.
 - Uma organização pode marcar uma versão como correção, que não muda o conteúdo de fato. Nesse caso você não precisa aceitar de novo.
 
 **Dica:** o aceite fica registrado. Se o texto mudar e você quiser rever antes de aceitar, a tela mostra os documentos com a versão que está valendo.
