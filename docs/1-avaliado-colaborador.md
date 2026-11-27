@@ -53,7 +53,7 @@ Ao completar 90 dias, o Katatu convida você a deixar um **complemento final**. 
 
 ### O que chega por e-mail
 
-- **Pedido de avaliação:** quando a sua organização dispara uma campanha, você recebe um e-mail para cada avaliação que deve responder. Ele traz o nome de quem é avaliado, o prazo e a garantia de anonimato. Se a organização já tem acesso seu ao Katatu, o botão leva para responder dentro do app; se não tem, o link é pessoal e não pede conta. O e-mail nunca cita os outros respondentes.
+- **Pedido de avaliação:** quando a sua organização dispara uma campanha, você recebe um e-mail para cada avaliação que deve responder. Ele traz o nome de quem é avaliado, o prazo e a garantia de anonimato. Se a organização já tem acesso seu ao Katatu, o botão leva para responder dentro do app; se não tem, o link é pessoal e não pede conta. O gestor imediato e o mentor sem conta entram com um código por e-mail. O e-mail nunca cita os outros respondentes.
 - **Lembrete:** se você ainda não respondeu, pode receber um lembrete, no máximo um por dia. Ele reúne todas as avaliações pendentes num e-mail só. Quem já respondeu ou recusou não recebe.
 - **Convite para o questionário de perfil de uma vaga:** quando a organização convida você como candidato, o e-mail traz um link pessoal para o questionário. Você não precisa criar conta. Se a vaga é confidencial, o e-mail vem como "Processo seletivo, via Katatu", sem o nome da organização.
 - **Comunicado interno:** se você trabalha na organização, pode receber o comunicado de uma vaga da sua unidade, das unidades abaixo dela ou de outras unidades que a organização escolher. Vagas confidenciais nunca enviam comunicado.
@@ -66,7 +66,7 @@ Quando a sua organização abre uma campanha de avaliação 90º, 180º ou 360º
 
 - Cada pedido tem até **3 perguntas**, por texto ou por voz revisada, e um prazo para responder. Responder é voluntário, mas a sua resposta entra no resultado da pessoa avaliada.
 - Se preferir não responder, toque em **Prefiro não responder** e confirme. Você não precisa dar motivo. Por **30 dias** você não recebe novo pedido sobre a mesma pessoa avaliada. Essa opção não aparece na autoavaliação.
-- Se a sua organização ainda não tem acesso seu ao app, o pedido aparece como **aguardando envio por e-mail**, e a campanha segue sem essa resposta.
+- Se você ainda não tem conta no Katatu e não é gestor imediato nem mentor da pessoa, responda pelo link do e-mail, sem código, sem conta e sem senha. O passo a passo está na página **Responder uma avaliação sem conta**, no menu deste manual.
 - Respostas enviadas depois do prazo são recusadas.
 
 Quando você é a pessoa avaliada, a campanha aparece em **Suas avaliações** só depois que o seu gestor imediato ou o seu mentor registra a conversa sobre o resultado. Antes disso, nada aparece para você. Depois, o resultado mostra as respostas agrupadas por grupo (gestor, mentor, autoavaliação, pares e liderados), embaralhadas, sem nome de quem respondeu nem data. Se um grupo tiver menos de 3 respostas, ele não aparece, e o resultado é marcado como **360º parcial**.

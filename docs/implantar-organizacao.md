@@ -593,7 +593,7 @@ As campanhas de avaliação só podem ser disparadas dentro de uma janela do cal
 
 Quando os questionários de perfil estiverem respondidos, o ciclo segue assim:
 
-1. **Avaliações.** Em **Campanhas**, crie a campanha dentro da janela do calendário e dispare. Veja [2. Gestor ou Recrutador](/2-gestor-recrutador/).
+1. **Avaliações.** Em **Campanhas**, crie a campanha dentro da janela do calendário e dispare. Quem não tem conta no Katatu recebe um link por e-mail; o gestor imediato e o mentor sem conta entram com um código. Veja [2. Gestor ou Recrutador](/2-gestor-recrutador/).
 2. **Decisão e plano.** Quando houver candidato para uma função, use o **Katatu Fit** e o **Katatu Gap**. Veja [2. Gestor ou Recrutador](/2-gestor-recrutador/).
 3. **Ajustes do catálogo.** Quando uma trilha ou um modelo mudar, a mudança vale para o que for criado depois. As Matrizes oficializadas não mudam sozinhas. Veja [5. Administrador da Organização](/5-admin-organizacao/).
 

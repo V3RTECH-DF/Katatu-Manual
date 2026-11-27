@@ -35,3 +35,15 @@ Não. O sistema recusa e mostra o que usa o item. Arquive-o: ele deixa de ser of
 
 ## 10. Mudei uma trilha ou um modelo. As vagas que já estão abertas mudam também?
 Não. Uma vaga ou ciclo aberto continua na versão em que começou, e uma Matriz oficializada também não muda. A mudança vale para o que for aberto ou criado depois. Em cada item, **Ver as versões** mostra o histórico e qual versão está vigente.
+
+## 11. Não tenho conta no Katatu. Consigo responder a uma avaliação?
+Sim, se a organização mandou o pedido por e-mail para você como par, liderado ou na sua própria autoavaliação. Toque em **Responder** no e-mail, confirme e responda. Não é preciso código, conta nem senha. O link vale até o fim do prazo da avaliação, no máximo 30 dias. Gestor imediato e mentor sem conta entram com um código por e-mail, e ganham conta ao responder.
+
+## 12. Respondi e quero mudar o que escrevi. Como faço?
+Não dá para mudar. Depois de enviada, a resposta fica como foi enviada: se você abrir o link de novo, a página diz "Você já respondeu esta avaliação". Por isso, releia cada pergunta antes de tocar em **Enviar resposta**.
+
+## 13. Recebi outro e-mail para a mesma avaliação. O primeiro link ainda funciona?
+Não. Quando a organização manda um lembrete, o link novo substitui o anterior, e as páginas abertas com o link antigo deixam de valer. Use o e-mail mais recente. Se o link antigo mostrar "Este link não vale mais", peça a quem pediu a sua resposta um link novo.
+
+## 14. Quem pediu a minha resposta consegue saber que fui eu?
+Não pelo nome. A resposta não leva o seu nome nem a data, e quem gere a campanha vê só contagens. O link, porém, é de quem o recebeu: não o encaminhe, porque quem tiver o link pode responder no seu lugar.

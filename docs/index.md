@@ -23,6 +23,7 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 - **Vou implantar o Katatu na minha organização (administração):** comece por [Começando: implantar o Katatu na sua organização](implantar-organizacao/), do convite de administração aos primeiros questionários de perfil.
 - **Recebi um convite por e-mail e nunca usei o Katatu:** comece por [Recebi um convite: guia do colaborador](primeiros-passos/), com as telas de cada etapa, do botão **Criar a minha conta** ao questionário.
 - **Recebi um pedido de perspectiva por e-mail:** veja [Dar perspectiva sobre alguém](dar-perspectiva/). Você responde por um link, sem conta e sem senha.
+- **Recebi um pedido de avaliação por e-mail e não tenho conta:** responda pelo link, sem código, conta ou senha. Veja a página **Responder uma avaliação sem conta**, no menu deste manual.
 - **Acabei de receber um link de convite por e-mail ou WhatsApp:** veja [1. Entrar por convite e gerir Meus dados e formação](1-avaliado-colaborador/).
 - **Preciso desenhar uma vaga ou posição existente nos 4 eixos situados:** veja [2. Construir a Matriz Situada e coletar múltiplas perspectivas](2-gestor-recrutador/).
 - **Preciso decidir uma alocação na Faixa 3 com amortecedores obrigatórios:** veja [2.3 Como aprovar posse na Faixa 3 com amortecedores](2-gestor-recrutador/#23-aprovar-posse-na-faixa-3-e-gerar-o-katatu-gap).
