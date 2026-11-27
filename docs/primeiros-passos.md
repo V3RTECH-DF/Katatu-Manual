@@ -117,7 +117,7 @@ Confira, nessa ordem: se você está usando o código mais recente (o último e-
 
 Depois da conta criada, você entra com o seu e-mail e a sua senha. Como colaborador, você entra direto, sem segundo passo. O segundo passo, com código por e-mail ou aplicativo autenticador, vale só para contas administrativas.
 
-**Esqueci a senha.** Para trocar a senha em **Meu Perfil** é preciso informar a senha atual. Se você não lembra a senha, não há como criar uma nova só com o e-mail; fale com a administração da sua organização antes de tentar de novo.
+**Esqueci a senha.** Na tela de entrada, escolha aba **Código por e-mail**, digite o seu e-mail e toque em **Enviar código por e-mail**. Um código de 6 dígitos chega ao seu e-mail; digite-o no campo **Código recebido por e-mail** e entre. Como colaborador, você entra direto. Se a sua conta for administrativa, a tela pede também o segundo fator. Para trocar a senha depois, em **Meu Perfil**, é preciso informar a senha atual.
 
 ## 3. Aceitar os termos e o aviso do que a organização vê
 
@@ -383,7 +383,7 @@ Consegue, enquanto não tocar em **Concluir**. Use **Pergunta anterior** ou **Re
 Isso acontece quando o convite dá papel de gestão ou quando a organização está em quarentena. Use o código por e-mail, descrito na seção 2.1. Se a tela disser que o link não vale mais e o convite ainda estiver valendo, use **Pedir um código por e-mail**.
 
 **Esqueci a minha senha. Como entro?**
-Para trocar a senha em **Meu Perfil** é preciso informar a senha atual. Se você não lembra a senha, fale com a administração da sua organização. Não tente criar uma nova sem a atual: a tela não aceita.
+Na tela de entrada, use a aba **Código por e-mail**: toque em **Enviar código por e-mail**, copie o código de 6 dígitos que chega ao seu e-mail e toque em entrar. Para trocar a senha em **Meu Perfil**, é preciso informar a senha atual.
 
 **Não vejo nenhum questionário de perfil. É problema?**
 Não necessariamente. O questionário aparece quando a organização chama você. Se ela ainda não aceitou o seu convite, ou não chamou você, a lista fica vazia.
