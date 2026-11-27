@@ -104,7 +104,7 @@ As opções da janela:
 **Quando dá errado:** se a janela não mostrar a lista e aparecer "Não foi possível mostrar o aviso agora", feche a janela e tente de novo mais tarde. Não aceite às cegas.
 
 ![Janela O que Grupo Escoteiro Girassol passa a ver, no celular (375px), com as opções Decidir depois, Recusar o convite e Confirmar e continuar](../assets/capturas/manual-10-primeiros-passos-aviso-vinculo-375.png)
-![Janela O que Grupo Escoteiro Girassol passa a ver, no computador, com os dados visíveis, Saiba mais e as três opções](../assets/capturas/manual-10-primeiros-passos-aviso-vinculo-desktop.png)
+![Janela O que Grupo Escoteiro Girassol passa a ver, no computador, com os dados visíveis e as opções Recusar o convite, Decidir depois e Confirmar e continuar](../assets/capturas/manual-10-primeiros-passos-aviso-vinculo-desktop.png)
 
 ![Lista Estes são os convites que esperam por esta conta, no computador](../assets/capturas/manual-10-primeiros-passos-convite-lista-desktop.png)
 ![Lista Estes são os convites que esperam por esta conta, no celular (375px)](../assets/capturas/manual-10-primeiros-passos-convite-lista-375.png)
@@ -131,6 +131,9 @@ Você também pode abrir **Meu questionário de perfil** pelo menu. No computado
 **Por que isto importa:** o questionário é o que a organização conhece de você além do nome. Você pode parar a qualquer momento e voltar depois: o que já respondeu fica salvo. Responder com sinceridade é o que deixa o retrato útil para você e para quem decide.
 
 O questionário tem três partes: a **trajetória**, as **perguntas** e a **revisão**.
+
+![Início do questionário de perfil, no computador, com o tempo total (cerca de 20 min), as três etapas e o tempo de cada uma](../assets/capturas/manual-10-primeiros-passos-questionario-inicio-desktop.png)
+![Início do questionário de perfil, no celular (375px), com o tempo total e as etapas Trajetória, Perguntas e Situações](../assets/capturas/manual-10-primeiros-passos-questionario-inicio-375.png)
 
 ### Antes de começar
 
@@ -162,8 +165,8 @@ Depois toque em **Ler o texto** e confirme os itens reconhecidos. Se nada for re
 
 **Exemplo.** Ana escreve duas linhas: "Formação: Licenciatura em Pedagogia — USP (2015)" e "Curso: Mediação de conflitos — Escola X". Toca em **Ler o texto**, confirma a formação e descarta o curso, porque ele já está no certificado que ela tem. A trajetória fica só com o que ela confirmou.
 
-![Campo da trajetória com a formação confirmada, o curso descartado e a experiência ainda a confirmar, no computador](../assets/capturas/manual-10-primeiros-passos-trajetoria-desktop.png)
-![Campo da trajetória no celular (375px)](../assets/capturas/manual-10-primeiros-passos-trajetoria-375.png)
+![Etapa Trajetória, no computador, com o passo 1 de 3, o tempo de cerca de 8 min e o início do campo Sua trajetória](../assets/capturas/manual-10-primeiros-passos-trajetoria-desktop.png)
+![Etapa Trajetória, no celular (375px), com o passo 1 de 3 e o tempo de cerca de 8 min](../assets/capturas/manual-10-primeiros-passos-trajetoria-375.png)
 
 **Dica:** o currículo do Lattes ou do LinkedIn não é lido a partir do endereço da página. Abra o currículo no navegador, use **Imprimir › Salvar como PDF** e envie o arquivo.
 
@@ -185,8 +188,8 @@ As perguntas são cartões, um de cada vez. Cada cartão tem o contador "Pergunt
 
 Antes da pergunta de interesses, o questionário mostra o aviso **Antes de continuar**, explicando quem vê os seus interesses e as suas escolhas nas situações. Toque em **Entendi, continuar** para seguir.
 
-![Pergunta 8 de 8, Pedido urgente fora da rotina, com uma opção escolhida, no computador](../assets/capturas/manual-10-primeiros-passos-perguntas-desktop.png)
-![Pergunta 8 de 8 no celular (375px)](../assets/capturas/manual-10-primeiros-passos-perguntas-375.png)
+![Etapa Perguntas, no computador, com a Pergunta 1 de 8, Horas por semana, o campo vazio e o botão Confirmar e seguir](../assets/capturas/manual-10-primeiros-passos-perguntas-desktop.png)
+![Etapa Perguntas, no celular (375px), com a Pergunta 1 de 8 e o passo 2 de 3](../assets/capturas/manual-10-primeiros-passos-perguntas-375.png)
 
 **Dica:** responda as situações como você age, não como acha que deveria agir. A resposta sincera é a única que ajuda a organização a encaixar você.
 
