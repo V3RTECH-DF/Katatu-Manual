@@ -117,7 +117,7 @@ Confira, nessa ordem: se você está usando o código mais recente (o último e-
 
 Depois da conta criada, você entra com o seu e-mail e a sua senha. Como colaborador, você entra direto, sem segundo passo. O segundo passo, com código por e-mail ou aplicativo autenticador, vale só para contas administrativas.
 
-**Esqueci a senha.** Na tela de entrada, escolha aba **Código por e-mail**, digite o seu e-mail e toque em **Enviar código por e-mail**. Um código de 6 dígitos chega ao seu e-mail; digite-o no campo **Código recebido por e-mail** e entre. Como colaborador, você entra direto. Se a sua conta for administrativa, a tela pede também o segundo fator. Para trocar a senha depois, em **Meu Perfil**, é preciso informar a senha atual.
+**Esqueci a senha.** Na tela de entrada, escolha a aba **Código por e-mail**, digite o seu e-mail e toque em **Enviar código por e-mail**. Um código de 6 dígitos chega ao seu e-mail; digite-o no campo **Código recebido por e-mail** e entre. Como colaborador, você entra direto. Se a sua conta for administrativa, a tela pede também o segundo fator. Entrando pelo código, você tem **15 minutos** para criar uma senha nova em **Meu Perfil › Segurança**, sem informar a senha atual: o campo **Senha atual** some enquanto a janela vale. Isso vale uma vez só, e um e-mail de aviso chega ao seu endereço dizendo que a senha foi definida. Se não foi você, avise a administração da organização. Passados os 15 minutos, ou depois de trocar a senha, o Katatu volta a pedir a senha atual.
 
 ## 3. Aceitar os termos e o aviso do que a organização vê
 
@@ -310,7 +310,7 @@ Se o seu e-mail mudou, troque o endereço de entrada em **Meu Perfil › Conta**
 1. **Peça a troca.** Digite o e-mail novo e toque em **Enviar link ao e-mail atual**. Antes disso, o app confirma que é você. Se a sua conta tem aplicativo autenticador ou passkey, a confirmação é por eles (o código por e-mail não vale nessa etapa, e a senha também não os substitui). Se a sua conta não tem nenhum dos dois, o que é comum para colaboradores, o app mostra o campo **Senha atual**: digite a senha com que você entra. Um e-mail com um link chega ao seu e-mail **de hoje**, nunca ao novo.
 2. **Abra o link e digite o código.** Na página do link, toque em **Enviar código ao novo e-mail**. Um código de 6 dígitos chega ao novo e-mail. Digite o código e toque em **Confirmar a troca**.
 
-**Antes de trocar:** não precisa cadastrar aplicativo autenticador nem passkey. Sem eles, basta saber a sua senha atual. Se você não lembra a senha, peça ao gestor da sua organização que troque o seu e-mail de acesso.
+**Antes de trocar:** não precisa cadastrar aplicativo autenticador nem passkey. Sem eles, basta saber a sua senha atual. Se você não lembra a senha, entre pelo código por e-mail, crie a senha nova em **Meu Perfil › Segurança** (em até 15 minutos, sem a atual) e peça a troca do e-mail depois. Se preferir, peça ao gestor da sua organização que troque o seu e-mail de acesso.
 
 **Quando vale:** a partir da confirmação, você entra com o e-mail novo, e o antigo deixa de entrar. As suas organizações, os seus papéis e os seus dados e a sua formação ficam como estavam. Os outros aparelhos em que você estava entrando são desconectados.
 
@@ -383,7 +383,7 @@ Consegue, enquanto não tocar em **Concluir**. Use **Pergunta anterior** ou **Re
 Isso acontece quando o convite dá papel de gestão ou quando a organização está em quarentena. Use o código por e-mail, descrito na seção 2.1. Se a tela disser que o link não vale mais e o convite ainda estiver valendo, use **Pedir um código por e-mail**.
 
 **Esqueci a minha senha. Como entro?**
-Na tela de entrada, use a aba **Código por e-mail**: toque em **Enviar código por e-mail**, copie o código de 6 dígitos que chega ao seu e-mail e toque em entrar. Para trocar a senha em **Meu Perfil**, é preciso informar a senha atual.
+Na tela de entrada, use a aba **Código por e-mail**: toque em **Enviar código por e-mail**, copie o código de 6 dígitos que chega ao seu e-mail e toque em entrar. Em até 15 minutos depois de entrar, abra **Meu Perfil › Segurança** e crie a senha nova sem informar a atual; um e-mail avisa que a senha foi definida. Depois dos 15 minutos, ou da primeira troca, a senha atual volta a ser pedida.
 
 **Não vejo nenhum questionário de perfil. É problema?**
 Não necessariamente. O questionário aparece quando a organização chama você. Se ela ainda não aceitou o seu convite, ou não chamou você, a lista fica vazia.
