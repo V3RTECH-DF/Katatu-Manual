@@ -103,8 +103,8 @@ As opções da janela:
 
 **Quando dá errado:** se a janela não mostrar a lista e aparecer "Não foi possível mostrar o aviso agora", feche a janela e tente de novo mais tarde. Não aceite às cegas.
 
-![Janela O que a organização passa a ver, no celular (375px)](../assets/capturas/manual-10-primeiros-passos-aviso-vinculo-375.png)
-![Janela O que a organização passa a ver, no computador](../assets/capturas/manual-10-primeiros-passos-aviso-vinculo-desktop.png)
+![Janela O que Grupo Escoteiro Girassol passa a ver, no celular (375px), com as opções Decidir depois, Recusar o convite e Confirmar e continuar](../assets/capturas/manual-10-primeiros-passos-aviso-vinculo-375.png)
+![Janela O que Grupo Escoteiro Girassol passa a ver, no computador, com os dados visíveis, Saiba mais e as três opções](../assets/capturas/manual-10-primeiros-passos-aviso-vinculo-desktop.png)
 
 ![Lista Estes são os convites que esperam por esta conta, no computador](../assets/capturas/manual-10-primeiros-passos-convite-lista-desktop.png)
 ![Lista Estes são os convites que esperam por esta conta, no celular (375px)](../assets/capturas/manual-10-primeiros-passos-convite-lista-375.png)
@@ -134,12 +134,14 @@ O questionário tem três partes: a **trajetória**, as **perguntas** e a **revi
 
 ### Antes de começar
 
-Em algumas organizações, a primeira tela do questionário é um aviso: "Nesta organização, a chefia direta no organograma pode ver o seu nome junto das suas respostas. As demais pessoas veem só dados consolidados." Leia com calma e toque em **Li o aviso e quero começar**.
+Em algumas organizações, a primeira tela do questionário é um aviso: "Nesta organização, a chefia direta no organograma pode ver o seu nome junto das suas respostas. As demais pessoas veem só dados consolidados. Leia com calma antes de responder." Depois de ler, toque em **Li o aviso e quero começar**.
 
-![Aviso Antes de começar, no computador](../assets/capturas/manual-10-primeiros-passos-aviso-chefia-desktop.png)
+![Aviso Antes de começar, no computador, com o texto sobre a chefia direta e o botão Li o aviso e quero começar](../assets/capturas/manual-10-primeiros-passos-aviso-chefia-desktop.png)
 ![Aviso Antes de começar, no celular (375px)](../assets/capturas/manual-10-primeiros-passos-aviso-chefia-375.png)
 
 ### Sua trajetória
+
+Antes do campo, a tela explica para que serve a trajetória: "Usamos a sua trajetória para montar o seu perfil de formação e experiência. Não é avaliação: você confere e confirma cada item. A formação e a experiência no próprio grupo também contam, inclusive os cursos que você fez nela."
 
 Conte a sua trajetória no campo **Conte a sua trajetória**. Você pode:
 
@@ -149,7 +151,7 @@ Conte a sua trajetória no campo **Conte a sua trajetória**. Você pode:
 
 Se você já tem a trajetória em **Meu Perfil › Trajetória**, ela aparece em **No seu perfil**, e você ajusta ali mesmo.
 
-Depois, toque em **Ler o texto**. O app transforma o que você escreveu em itens, como formação e curso. Cada item traz dois botões: **Confirmar** (o item entra na sua trajetória) e **Descartar** (o item sai). Só o que você confirma vale.
+Depois, toque em **Ler o texto**. O app transforma o que você escreveu em itens, como formação e curso. Cada item traz os botões **Confirmar** (o item entra na sua trajetória) e **Descartar** (o item sai). Depois de confirmado, o item mostra só **Descartar**; depois de descartado, só **Confirmar**. Só o que você confirma vale.
 
 Quando a inteligência artificial da organização não está disponível, a tela avisa que o trabalho manual segue normalmente. Nesse caso, escreva **uma informação por linha**, começando pelo tipo, por exemplo:
 
@@ -160,7 +162,7 @@ Depois toque em **Ler o texto** e confirme os itens reconhecidos. Se nada for re
 
 **Exemplo.** Ana escreve duas linhas: "Formação: Licenciatura em Pedagogia — USP (2015)" e "Curso: Mediação de conflitos — Escola X". Toca em **Ler o texto**, confirma a formação e descarta o curso, porque ele já está no certificado que ela tem. A trajetória fica só com o que ela confirmou.
 
-![Campo da trajetória com a formação confirmada e o curso descartado, no computador](../assets/capturas/manual-10-primeiros-passos-trajetoria-desktop.png)
+![Campo da trajetória com a formação confirmada, o curso descartado e a experiência ainda a confirmar, no computador](../assets/capturas/manual-10-primeiros-passos-trajetoria-desktop.png)
 ![Campo da trajetória no celular (375px)](../assets/capturas/manual-10-primeiros-passos-trajetoria-375.png)
 
 **Dica:** o currículo do Lattes ou do LinkedIn não é lido a partir do endereço da página. Abra o currículo no navegador, use **Imprimir › Salvar como PDF** e envie o arquivo.
@@ -206,9 +208,12 @@ Ao tocar em **Concluir**, o app pergunta **Concluir o questionário de perfil?**
 
 ### Depois de concluir
 
-O app mostra **Camada 1 concluída** e o seu **Seu Retrato de Atuação**. O Retrato é montado só com as suas respostas, sem nota e sem comparação com outras pessoas. Você pode baixá-lo em PDF pelo botão **Baixar PDF**.
+Ao concluir, o app mostra o bloco **O que acontece agora**, com três partes: **O que você fez** (as respostas não mudam mais), **Quem vê o quê** e **E agora** (você não precisa fazer mais nada). Logo abaixo do bloco está o seu **Retrato de Atuação**. O Retrato é montado só com as suas respostas, sem nota e sem comparação com outras pessoas. Você pode baixá-lo em PDF pelo botão **Baixar em PDF**.
 
-![Seu Retrato de Atuação](../assets/capturas/manual-12-real-73b-retrato-desktop.png)
+![Bloco O que acontece agora, ao concluir o questionário de perfil, no computador](../assets/capturas/manual-10-primeiros-passos-concluir-desktop.png)
+![Bloco O que acontece agora, ao concluir o questionário de perfil, no celular (375px)](../assets/capturas/manual-10-primeiros-passos-concluir-375.png)
+
+![Seu Retrato de Atuação, no computador, logo abaixo do bloco O que acontece agora](../assets/capturas/manual-12-real-73b-retrato-desktop.png)
 ![Seu Retrato de Atuação, no celular (375px)](../assets/capturas/manual-12-real-73b-retrato-375.png)
 
 Quem vê o quê:

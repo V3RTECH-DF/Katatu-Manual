@@ -128,8 +128,8 @@ Ao entrar pela primeira vez como administração de uma organização nova, o as
 
 **Armadilha:** pular um passo não o faz sumir da lista. Ele continua pendente, e os passos que dependem dele ficam bloqueados.
 
-![Assistente Configurar a organização com os 8 passos concluídos (estado final, para comparar)](../assets/capturas/manual-12-real-72-configurar-grupo-desktop.png)
-![Assistente Configurar a organização com os 8 passos concluídos (estado final, para comparar), no celular (375px)](../assets/capturas/manual-12-real-72-configurar-grupo-375.png)
+![Assistente Configurar o grupo, com 5 dos 8 passos feitos e a lista de passos à esquerda, no computador](../assets/capturas/manual-12-real-72-configurar-grupo-desktop.png)
+![Assistente Configurar o grupo, com 5 dos 8 passos feitos, no celular (375px)](../assets/capturas/manual-12-real-72-configurar-grupo-375.png)
 
 ## Etapa 3: identidade, vocabulário e dados do grupo
 
@@ -236,7 +236,7 @@ Ao entrar pela primeira vez como administração de uma organização nova, o as
 
 **O que ter em mãos:** a lista de competências do grupo (no caso da UEB, os documentos de referência), e para cada função, o que ela exige e em que grau.
 
-**Onde fica:** **Estrutura e rede › Catálogo**, com as abas **Referenciais**, **Modelos de cargo** e **Trilhas**. Os modelos de cargo mantêm o nome padrão na tela de Catálogo.
+**Onde fica:** no menu, **Catálogo**, com as abas **Referenciais**, **Modelos de cargo** e **Trilhas**. O mesmo caminho existe em **Estrutura e rede › Catálogo**. Os modelos de cargo mantêm o nome padrão na tela de Catálogo.
 
 ### 5.1 Ordem certa
 
@@ -328,8 +328,8 @@ Para muitos itens, use o botão **Importar** na tela de Catálogo, no tipo que v
 | Código repetido na trilha. | Dê um código diferente a cada etapa. |
 | Prazo sugerido: inteiro de 1 a 3650 dias. | Informe um número inteiro de dias. |
 
-![Lista de referenciais do Ramo Escoteiro](../assets/capturas/manual-12-real-68-catalogo-referenciais-desktop.png)
-![Lista de referenciais do Ramo Escoteiro, no celular (375px)](../assets/capturas/manual-12-real-68-catalogo-referenciais-375.png)
+![Lista de referenciais da organização inteira, com as abas Referenciais, Modelos de cargo e Trilhas, no computador](../assets/capturas/manual-12-real-68-catalogo-referenciais-desktop.png)
+![Lista de referenciais da organização inteira, no celular (375px)](../assets/capturas/manual-12-real-68-catalogo-referenciais-375.png)
 
 ![Lista de modelos de função](../assets/capturas/manual-12-real-69-catalogo-modelos-desktop.png)
 ![Lista de modelos de função, no celular (375px)](../assets/capturas/manual-12-real-69-catalogo-modelos-375.png)
@@ -392,8 +392,8 @@ Cada função nasce com uma posição. Quando há mais de um assistente numa tro
 
 **Onde fica:** **Matrizes Situadas › Nova Matriz**.
 
-![Lista de Matrizes Situadas: rascunhos, oficializadas e arquivadas](../assets/capturas/manual-12-real-65-matrizes-lista-desktop.png)
-![Lista de Matrizes Situadas: rascunhos, oficializadas e arquivadas, no celular (375px)](../assets/capturas/manual-12-real-65-matrizes-lista-375.png)
+![Lista de Matrizes Situadas, com os contadores de rascunhos, oficializadas em uso e arquivadas, no computador](../assets/capturas/manual-12-real-65-matrizes-lista-desktop.png)
+![Lista de Matrizes Situadas, com os contadores de rascunhos, oficializadas em uso e arquivadas, no celular (375px)](../assets/capturas/manual-12-real-65-matrizes-lista-375.png)
 
 ### 7.1 Criar a Matriz
 
@@ -453,8 +453,8 @@ Na lista de Matrizes, marque as que vão mudar e escolha **Acrescentar requisito
 
 O organograma já mostra a linha de cada função. Confira que ela está certa, por exemplo:
 
-![Rede de grupos, mostrando quem responde a quem](../assets/capturas/manual-12-real-64-rede-desktop.png)
-![Rede de grupos, mostrando quem responde a quem, no celular (375px)](../assets/capturas/manual-12-real-64-rede-375.png)
+![Aba Rede, do grupo, sem ligações ainda e com o campo para convidar outro grupo](../assets/capturas/manual-12-real-64-rede-desktop.png)
+![Aba Rede, do grupo, sem ligações ainda, no celular (375px)](../assets/capturas/manual-12-real-64-rede-375.png)
 
 | Função | Responde a |
 | :--- | :--- |
