@@ -6,17 +6,24 @@ permalink: /7-glossario/
 
 # Glossário do Katatu
 
-Há dois jeitos de chegar a um termo.
+Há dois jeitos de chegar a um termo. Os dois abrem o glossário numa **janela própria**, por cima da tela em que você está: fechar a janela devolve você ao ponto de onde saiu.
 
-**Pela própria tela.** Os termos com linha pontilhada têm definição ali mesmo. Toque no termo (no computador, também dá para usar **Tab** até ele e apertar **Enter**): abre um balão com a definição e o link **Ver no glossário**, que traz você para esta página, no termo. Aperte **Esc** para fechar o balão; o foco volta ao termo.
+**Pela própria tela.** Os termos com linha pontilhada têm definição ali mesmo. Toque no termo (no computador, também dá para usar **Tab** até ele e apertar **Enter**): abre um balão com a definição e o link **Ver no glossário**, que abre a janela do glossário já no termo escolhido.
 
-![Balão com a definição de Questionário de perfil, no computador, com o link Ver no glossário](../assets/capturas/manual-13-glossario-termo-desktop.png)
+![Balão com a definição de Questionário de perfil, no computador, com o link Ver no glossário](../assets/capturas/manual-16-glossario-balao-desktop.png)
+![Balão com a definição de Questionário de perfil, no celular (375px)](../assets/capturas/manual-16-glossario-balao-375.png)
 
-**Pelo menu de ajuda.** Toque no ícone **?** no topo da tela. **Glossário** abre esta lista; **Manual desta tela** abre o capítulo da tela em que você está.
+**Pelo menu de ajuda.** Toque no ícone **?** no topo da tela. **Glossário**, com a frase "O que quer dizer cada termo do Katatu", abre a janela com a lista completa. **Manual desta tela**, com a frase "Como usar esta tela", abre o capítulo da tela em que você está.
 
-![Menu de ajuda aberto, com os itens Manual desta tela e Glossário](../assets/capturas/manual-13-glossario-menu-desktop.png)
+![Menu de ajuda aberto, no computador, com os itens Manual desta tela e Glossário](../assets/capturas/manual-16-menu-ajuda-desktop.png)
+![Menu de ajuda aberto, no celular (375px)](../assets/capturas/manual-16-menu-ajuda-375.png)
 
-![Glossário aberto no termo Questionário de perfil, no computador](../assets/capturas/manual-13-glossario-lista-desktop.png)
+**Dentro da janela.** No alto da lista há o campo **Buscar termo**: digite parte da palavra para achar o termo sem rolar a lista inteira. No rodapé, o botão **Abrir o Manual completo** leva ao manual inteiro, e **Fechar** volta à tela.
+
+**Armadilha:** o glossário explica os termos do jeito que o Katatu usa. Se a sua organização trocou um nome (por exemplo, "área" no lugar de "unidade"), a definição vale com o nome padrão; procure a palavra equivalente.
+
+![Janela do Glossário, no computador, com a lista de termos em ordem alfabética (Matriz Situada, Meus dados e formação, Piso, Pleno) e o botão Abrir o Manual completo](../assets/capturas/manual-16-glossario-janela-desktop.png)
+![Janela do Glossário, no celular (375px), com os botões Abrir o Manual completo e Fechar](../assets/capturas/manual-16-glossario-janela-375.png)
 
 - **Questionário de perfil:** o conjunto de etapas que a pessoa responde no app para a organização: a Trajetória, as Perguntas e as Situações do dia a dia. Ao concluir, gera o **Retrato de Atuação** dela. Quem administra chama a pessoa para o questionário na Matriz do cargo; a pessoa o vê em **Meu questionário de perfil** no menu. Nas versões anteriores à 1.4.1, este mesmo item se chamava *coleta*; veja a seção de mudanças de nome, no fim desta página.
 - **Meus dados e formação:** a aba do **Meu Perfil** onde a pessoa guarda os próprios dados pessoais (nome civil, CPF, data de nascimento e telefone). Só ela lê e altera; a organização só vê depois de aceitar o aviso do vínculo. A formação, os cursos e os certificados ficam na aba **Trajetória**, ao lado dela. Nas versões anteriores à 1.4.1, esta aba se chamava *carteira pessoal*.

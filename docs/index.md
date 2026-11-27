@@ -16,11 +16,13 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 
 - [Começando: implantar o Katatu na sua organização](implantar-organizacao/): para quem administra.
 - [Recebi um convite: guia do colaborador](primeiros-passos/): para quem é convidado.
+- [Dar perspectiva sobre alguém](dar-perspectiva/): para quem recebeu um pedido de perspectiva por e-mail.
 
 ## Como usar este manual (entrada rápida por dúvida)
 
 - **Vou implantar o Katatu na minha organização (administração):** comece por [Começando: implantar o Katatu na sua organização](implantar-organizacao/), do convite de administração aos primeiros questionários de perfil.
-- **Recebi um convite por e-mail e nunca usei o Katatu:** comece por [Recebi um convite: guia do colaborador](primeiros-passos/), com as telas de cada etapa.
+- **Recebi um convite por e-mail e nunca usei o Katatu:** comece por [Recebi um convite: guia do colaborador](primeiros-passos/), com as telas de cada etapa, do botão **Criar a minha conta** ao questionário.
+- **Recebi um pedido de perspectiva por e-mail:** veja [Dar perspectiva sobre alguém](dar-perspectiva/). Você responde por um link, sem conta e sem senha.
 - **Acabei de receber um link de convite por e-mail ou WhatsApp:** veja [1. Entrar por convite e gerir Meus dados e formação](1-avaliado-colaborador/).
 - **Preciso desenhar uma vaga ou posição existente nos 4 eixos situados:** veja [2. Construir a Matriz Situada e coletar múltiplas perspectivas](2-gestor-recrutador/).
 - **Preciso decidir uma alocação na Faixa 3 com amortecedores obrigatórios:** veja [2.3 Como aprovar posse na Faixa 3 com amortecedores](2-gestor-recrutador/#23-aprovar-posse-na-faixa-3-e-gerar-o-katatu-gap).
@@ -30,7 +32,7 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 - **Preciso gerir licenças `V3RLicense`, cópias cifradas externas ou ensaio de restauração:** veja [6. Administrador do Serviço — Licenças, Cópias Cifradas e Manutenção](6-admin-servico/).
 - **Quero enviar um relato, uma sugestão ou anexar um arquivo ao feedback:** veja [Enviar um relato ou sugestão, com anexos](8-feedback/).
 - **Quero instalar o Katatu no computador ou no celular, ou apareceu a faixa "Nova versão disponível":** veja [Instalar o app e a faixa de nova versão](#instalar-o-app-e-a-faixa-de-nova-versão).
-- **Não entendi um termo (Piso, Pleno, Amortecedor, Fit, Gap):** veja o [Glossário do Katatu](7-glossario/).
+- **Não entendi um termo (Piso, Pleno, Amortecedor, Fit, Gap):** veja o [Glossário do Katatu](7-glossario/). Ele abre numa janela própria, tem o campo **Buscar termo** e leva ao Manual completo.
 - **Tenho uma dúvida comum (Faixa 3, áudio da entrevista, chave de IA, licença):** veja as [Perguntas Frequentes](9-perguntas-frequentes/).
 
 ![Visão geral da tela de entrada do Katatu em desktop](../assets/capturas/manual-01-entrar-desktop.png)
@@ -49,6 +51,36 @@ Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`
 **A faixa "Nova versão disponível".** Quando o Katatu é atualizado, uma faixa colorida aparece na parte de baixo da tela, com o botão **Atualizar**. Ela aparece poucos segundos depois da atualização, quando você volta para a aba ou quando a internet volta. Toque em **Atualizar** para carregar a versão nova. A faixa não some sozinha e não cobre os botões do fim da tela. **Antes de atualizar**, termine e salve o que estiver escrevendo: a página recarrega e o que não foi salvo se perde. Se você ignorar a faixa, o app continua funcionando na versão antiga até a próxima vez que a página for recarregada.
 
 ---
+
+## Novidades da Versão 1.6.0
+
+- **Crie a sua conta pelo próprio link do convite:** quem é convidado como colaborador toca em **Criar a minha conta** no e-mail, informa o nome, escolhe uma senha e já entra, sem esperar código. O link serve uma vez só e vence junto com o convite; se não funcionar mais, a tela oferece pedir um código por e-mail ou entrar. Veja [Recebi um convite: guia do colaborador](primeiros-passos/#2-criar-a-sua-conta-pelo-link-do-convite).
+- **Dar perspectiva por link, sem senha:** quem recebe o pedido confirma com um clique e responde, sem conta e sem código. O link pode ser usado de novo por até 30 dias. Veja [Dar perspectiva sobre alguém](dar-perspectiva/).
+- **Glossário em janela própria:** o glossário abre por cima da tela, a partir de um termo com definição ou do menu **?**, e tem o campo **Buscar termo** e o botão **Abrir o Manual completo**. Veja [Glossário](7-glossario/).
+- **Meu desenvolvimento no Início:** quem tem um roteiro de desenvolvimento ativo vê o cartão com o seu desenvolvimento.
+- **Convidar de novo quem recusou:** quem recusou o convite ou teve o acesso retirado pode ser convidado outra vez, uma pessoa de cada vez ou em lote. Veja [5. Administrador da Organização](5-admin-organizacao/).
+- **Segundo fator só para quem administra:** colaboradores entram só com a senha. O código por e-mail como segundo passo vale apenas para contas administrativas.
+- **Questionário de perfil com tempo:** o início mostra o tempo total, cerca de 20 minutos, e o tempo de cada etapa, uma vez só. Veja [Recebi um convite: guia do colaborador](primeiros-passos/#5-responder-ao-questionário-de-perfil).
+
+## Novidades da Versão 1.5.0
+
+- **Primeiro acesso em sequência:** ao entrar pelo convite, você vê o que é o Katatu, para que a organização vai usá-lo, o que ela passa a ver e os termos, com a cor e a logo dela. Quem já usava o Katatu não passa por essa sequência.
+- **Sobre o Katatu e Novidades:** o rodapé tem o item **Sobre**, e o número da versão abre direto as Novidades.
+- **Termos explicados:** os termos têm a definição na própria tela, e o menu **?** traz o glossário com todos eles.
+- **Tempo por etapa:** o questionário de perfil mostra o tempo aproximado de cada etapa, com o aviso de que não há resposta certa.
+- **Mensagem para o convidado:** a janela de convite traz uma mensagem de aviso sugerida, para você copiar e mandar antes do convite.
+- **Frase de boas-vindas:** em Governança › Identidade visual, a organização escreve a frase que aparece no primeiro acesso.
+- **Confirmação antes de liberar ou registrar:** antes de "Liberar ao cliente" e "Registrar posse", uma confirmação diz o que acontece.
+- **Correções:** pedir o código pela página do convite enviava, às vezes, dois e-mails; agora chega um só.
+
+## Novidades da Versão 1.4.1
+
+- **Catálogo no menu:** o item **Catálogo** leva às trilhas, aos modelos de função e aos referenciais em dois cliques, e a busca encontra uma trilha, uma etapa ou um modelo pelo nome.
+- **Nomes novos:** "Coleta" passa a ser **questionário de perfil**, e "carteira" passa a ser **meus dados e formação**. Os endereços antigos continuam funcionando.
+- **O que acontece ao concluir o questionário:** um bloco explica o que você fez, quem vê o quê e o que acontece agora.
+- **O que a organização passa a ver:** o aviso usa linguagem simples, e a base legal fica em **Saiba mais**. Se você escolher **Decidir depois**, a organização não vê seus dados até você decidir.
+- **Troca do e-mail de acesso:** os convites ainda pendentes passam a ir para o endereço novo.
+- **Correções:** os e-mails usam o nome que a organização escolheu, e os campos de texto do questionário têm borda visível.
 
 ## Novidades da Versão 1.4.0
 

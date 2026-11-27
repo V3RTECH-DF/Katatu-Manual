@@ -6,15 +6,21 @@ permalink: /1-avaliado-colaborador/
 
 # 1. Avaliado ou Colaborador — Entrar por convite, Questionário de perfil e Meus dados e formação
 
-**Primeiro acesso?** Comece por [Recebi um convite: primeiros passos](/primeiros-passos/), com as telas de cada etapa, da entrada com o código até a conclusão do questionário.
+**Primeiro acesso?** Comece por [Recebi um convite: primeiros passos](/primeiros-passos/), com as telas de cada etapa, do botão **Criar a minha conta** do e-mail até a conclusão do questionário.
 
 ## Por que isto importa
 
-No Katatu, você não perde tempo criando login e senha antes de participar de um mapeamento ou processo seletivo: o link do convite abre sua sessão imediatamente. Mais importante: **os certificados e cursos que você guarda no seu perfil pertencem a você**. Quando você participa de processos em duas organizações diferentes (por exemplo, Organização A e Organização B), nenhuma delas enxerga o que você enviou para a outra até que você autorize explicitamente item por item.
+No Katatu, você não precisa cadastro antes de participar de um mapeamento ou processo seletivo: o link do convite leva você a criar a sua conta com nome e senha, em uma tela só, e já abre a sua sessão. Mais importante: **os certificados e cursos que você guarda no seu perfil pertencem a você**. Quando você participa de processos em duas organizações diferentes (por exemplo, Organização A e Organização B), nenhuma delas enxerga o que você enviou para a outra até que você autorize explicitamente item por item.
+
+## Como você entra
+
+Você entra no Katatu só com o seu e-mail e a sua senha. Não há código por e-mail a cada entrada.
+
+O segundo passo, com código por e-mail ou com aplicativo autenticador, vale só para contas administrativas, como a de quem administra a organização. Se a tela pedir um código e você não administra nada, procure a administração da sua organização.
 
 ## Passo a passo
 
-1. Abra o link recebido no formato `/c/<token>` no celular ou computador. A sessão inicia automaticamente sem exigir cadastro prévio de senha.
+1. Abra o convite recebido por e-mail, no celular ou no computador. Se o e-mail trouxer o botão **Criar a minha conta**, crie a sua conta com nome e senha, como descrito em [Recebi um convite: primeiros passos](/primeiros-passos/#2-criar-a-sua-conta-pelo-link-do-convite). Se ele não trouxer o botão, entre pelo código por e-mail.
 2. Na etapa **Sua trajetória**, escreva, fale ou envie o seu currículo (PDF com texto, Word `.docx`, `.txt` ou `.md`, até 10 MB). Se você já tem trajetória em **Meu Perfil › Trajetória**, ela aparece em **No seu perfil**, e você ajusta ali mesmo. **Continuar para as perguntas** já guarda o que estiver escrito.
    - Tudo o que o assistente extrair do seu arquivo aparece destacado com o selo **A confirmar**. Revise cada linha antes de tocar em **Confirmar dados**.
 3. Na etapa de **Conversa Situacional e Entrevista (Camadas 1 e 2)**, responda digitando ou usando o botão **Gravar resposta por voz**.

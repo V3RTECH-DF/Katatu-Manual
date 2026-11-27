@@ -80,7 +80,7 @@ Os nomes de pessoas são todos fictícios: **Ana Ribeiro** administra o Girassol
 2. Toque em **Aceitar o convite**.
 3. Crie a senha e confirme.
 4. Entre no Katatu com o seu e-mail e a senha.
-5. Digite o **código de 6 dígitos** que chega ao seu e-mail. Ele vale **10 minutos**.
+5. Digite o **código de 6 dígitos** que chega ao seu e-mail. Ele vale **10 minutos**. Esse segundo passo existe só para contas administrativas: colaboradores entram apenas com a senha.
 6. Confirme. A tela avisa: "Convite aceito. Você agora é a pessoa administradora da organização."
 
 ![Tela de verificação em duas etapas, com o campo do código de 6 dígitos enviado por e-mail](../assets/capturas/manual-11-implantar-codigo-desktop.png)
@@ -516,7 +516,7 @@ As campanhas de avaliação só podem ser disparadas dentro de uma janela do cal
 
 **Exemplo do Girassol:** os chefes e assistentes de tropa receberam **Gestor da Unidade** na própria tropa. A Diretora Presidente recebeu **Administração da Organização**. Os demais voluntários ficaram com **Pessoa Avaliada**.
 
-**Dica:** avise as pessoas antes do convite, por WhatsApp ou outro canal. Explique o que vem no e-mail e o que fazer: aceitar, informar o código e aceitar os termos.
+**Dica:** avise as pessoas antes do convite, por WhatsApp ou outro canal. Explique o que vem no e-mail e o que fazer: tocar em **Criar a minha conta**, escolher a senha, e aceitar o aviso e os termos. Se o e-mail não trouxer o botão, a pessoa entra com o código por e-mail.
 
 **Armadilha:** o papel de gestão só vale na área do cadastro. Quem está sem área no cadastro fica de fora do lote, com o motivo, e os demais seguem.
 
@@ -526,6 +526,7 @@ As campanhas de avaliação só podem ser disparadas dentro de uma janela do cal
 
 - **Papel de gestão sem área no cadastro.** A pessoa fica de fora do lote. Preencha a área e tente de novo.
 - **E-mail de convite não chegou.** Peça para olhar o spam. Se não estiver lá, reenvie o convite.
+- **Quem recusou o convite.** Pode ser convidado outra vez, por item ou em lote, como descrito em [5. Administrador da Organização](/5-admin-organizacao/).
 
 ![Lista de Pessoas com três selecionados e o menu de ações em lote](../assets/capturas/manual-12-real-61b-voluntarios-lote-desktop.png)
 ![Lista de Pessoas com três selecionados e o menu de ações em lote, no celular (375px)](../assets/capturas/manual-12-real-61b-voluntarios-lote-375.png)

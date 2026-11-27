@@ -12,7 +12,9 @@ Este guia é para quem recebeu um convite do Katatu e nunca usou o sistema. Ele 
 
 ## Por que isto importa
 
-Você não precisa criar senha agora. Entra com o seu e-mail e um código de 6 dígitos, responde ao questionário de perfil no seu ritmo e, ao final, recebe o seu Retrato de Atuação, que só você lê. Na primeira entrada, o app mostra o que a organização passa a ver dos seus dados e da sua formação, e você decide se mostra. Ler esse aviso com calma evita a surpresa de ter mostrado um dado que você não queria mostrar.
+Na maioria dos convites, você cria a sua conta pelo próprio link do e-mail: informa o nome, escolhe uma senha e já entra. Depois responde ao questionário de perfil no seu ritmo e, ao final, recebe o seu Retrato de Atuação, que só você lê. Na primeira entrada, o app mostra o que a organização passa a ver dos seus dados e da sua formação, e você decide se mostra. Ler esse aviso com calma evita a surpresa de ter mostrado um dado que você não queria mostrar.
+
+A senha que você escolhe é a sua forma de entrar nas próximas vezes. Guarde-a com cuidado.
 
 ## Quem vê o quê
 
@@ -31,9 +33,51 @@ Você não precisa criar senha agora. Entra com o seu e-mail e um código de 6 d
 
 **O que é o Katatu.** É um espaço em que você conta, em uma conversa curta, a sua trajetória, o que gosta de fazer, quanto tempo pode dedicar e como costuma agir em situações do dia a dia. A organização usa essas informações para encaixar cada pessoa na função certa.
 
-**Até quando vale.** O e-mail diz até quando o convite vale ("O convite vale até ..."). Depois desse prazo, a entrada não funciona mais: peça à organização um convite novo. O código de 6 dígitos vale 60 minutos.
+**Até quando vale.** O e-mail diz até quando o convite vale ("O convite vale até ..."). Depois desse prazo, a entrada não funciona mais: peça à organização um convite novo. O link do botão de criar conta serve uma vez só e vence junto com o convite. O código de 6 dígitos vale 60 minutos.
 
-## 2. Entrar com o e-mail e o código
+## 2. Criar a sua conta pelo link do convite
+
+**Por que isto importa:** criar a conta pelo link é o caminho mais curto. Você não cadastra nada antes, não espera código e não precisa lembrar de um endereço de acesso. A senha que você escolhe agora é a que você vai digitar em cada entrada, então vale escolher uma que você lembre e que não usa em outro serviço.
+
+**O que ter em mãos:** o e-mail do convite e uns minutos para escolher a senha.
+
+**Passo a passo**
+
+1. No e-mail do convite, toque em **Criar a minha conta**.
+2. Na tela **Crie a sua conta**, no **Passo 1 de 3**, digite o seu **Nome completo**.
+3. Escolha a **Senha**. Ela precisa ter entre 12 e 256 caracteres. Use o ícone de olho para conferir o que digitou.
+4. Toque em **Criar conta e continuar**. A conta é criada e a sua sessão já fica aberta, sem código e sem novo e-mail.
+5. Depois, o app mostra as **boas-vindas** (Passo 2 de 3), o aviso do que a organização passa a ver e os termos, nessa ordem. A seção 3 deste guia explica cada um.
+
+**Exemplo.** Ana Ribeiro, voluntária do Grupo Escoteiro Girassol (nome fictício), abre o convite no celular, toca em **Criar a minha conta**, digita o nome completo e uma senha de 12 caracteres ou mais, e toca em **Criar conta e continuar**. Na mesma hora chega às boas-vindas.
+
+![Tela Crie a sua conta, no computador, no Passo 1 de 3, com os campos Nome completo e Senha](../assets/capturas/manual-14-convite-criar-conta-desktop.png)
+![Tela Crie a sua conta, no celular (375px), no Passo 1 de 3](../assets/capturas/manual-14-convite-criar-conta-375.png)
+
+![Tela de boas-vindas, no computador, no Passo 2 de 3, com o que é o Katatu e o que esperam de você](../assets/capturas/manual-14-convite-boas-vindas-desktop.png)
+![Tela de boas-vindas, no celular (375px), no Passo 2 de 3](../assets/capturas/manual-14-convite-boas-vindas-375.png)
+
+**Dica:** se você já tem conta no Katatu, toque em **Entre por aqui**, no alto do formulário, em vez de criar outra. A tela não cria uma conta repetida.
+
+**Armadilha:** o link é de uso único. Abrir a página não o gasta; só o clique em **Criar conta e continuar**, com nome e senha válidos, gasta. Depois disso, o mesmo link não serve de novo. Se você fechou a página no meio do caminho, pode voltar ao mesmo link enquanto o convite estiver valendo.
+
+**Quando dá errado**
+
+- **Senha curta.** A tela mostra, sob o campo, "A senha deve possuir de 12 a 256 caracteres.". Escreva uma senha maior e toque de novo. Um erro de senha não gasta o link.
+
+![Tela Crie a sua conta com a senha curta e a mensagem em vermelho sob o campo, no computador](../assets/capturas/manual-14-convite-senha-curta-desktop.png)
+![Tela Crie a sua conta com a senha curta, no celular (375px)](../assets/capturas/manual-14-convite-senha-curta-375.png)
+
+- **Link que não vale mais.** A tela diz "Este link não vale mais" e explica: o link vence, só pode ser usado uma vez e deixa de valer se o convite for cancelado ou reenviado. Se o convite ainda estiver valendo, a mesma tela oferece **Pedir um código por e-mail**: use esse botão e siga a seção 2.1. Se você já tem conta, toque em **Já tenho conta: entrar**. Se nada disso resolver, peça à organização um convite novo.
+
+![Tela Este link não vale mais, no computador, com os botões Pedir um código por e-mail e Já tenho conta: entrar](../assets/capturas/manual-14-convite-link-vencido-desktop.png)
+![Tela Este link não vale mais, no celular (375px)](../assets/capturas/manual-14-convite-link-vencido-375.png)
+
+**Quando não aparece o botão Criar a minha conta.** Em dois casos o e-mail não traz o botão, e você entra pelo código, como descrito na seção 2.1: quando o convite dá papel de gestão e quando a organização está em quarentena. Nesses casos, não adianta procurar o link antigo.
+
+### 2.1 Entrar com o e-mail e o código
+
+Use este caminho quando o e-mail não trouxer o botão **Criar a minha conta**, ou quando a tela de link vencido indicar o código.
 
 1. No e-mail do convite, toque no botão **Aceitar o convite**. Ele abre a página **Você recebeu um convite**.
 2. Digite o **e-mail que recebeu o convite**. Use exatamente o endereço que a organização cadastrou para você.
@@ -73,19 +117,9 @@ Confira, nessa ordem: se você está usando o código mais recente (o último e-
 
 **Por que isto importa:** aceitar não é só concordar com um texto. Ao aceitar o vínculo, você libera a organização a ver os seus dados e a sua formação.
 
-### Termos de Uso e Política de Privacidade
-
-Quando há textos novos para aceitar, o app mostra a tela de aceite antes de qualquer outra coisa. Você marca:
-
-- **Li e aceito os Termos de Uso**;
-- **Li e aceito a Política de Privacidade**;
-- os termos da organização, quando ela tiver os seus.
-
-O botão **Aceitar e continuar** só fica ativo depois que cada documento foi marcado. Se não concordar, toque em **Não aceito os termos e saio**: a recusa encerra a entrada, e você só usa o app depois de aceitar. A regra geral, com mais detalhes, está no [capítulo 1](/1-avaliado-colaborador/).
-
 ### O que a organização passa a ver
 
-Logo depois do código, na primeira entrada, o app abre a janela **O que ... passa a ver**. Ela também aparece quando você já tem conta e aceita o convite pela lista **Estes são os convites que esperam por esta conta** (link **Entre primeiro** na tela de entrada, depois **Aceitar o convite de ...**). A janela mostra:
+Logo depois de criar a conta, ou depois do código, na primeira entrada, o app abre a janela **O que ... passa a ver**. Ela também aparece quando você já tem conta e aceita o convite pela lista **Estes são os convites que esperam por esta conta** (link **Entre primeiro** na tela de entrada, depois **Aceitar o convite de ...**). A janela mostra:
 
 - os seus **dados pessoais**, com o que já está preenchido e o que ainda pode ser preenchido depois;
 - os seus **cursos, formações e certificados**, com a quantidade de itens e os arquivos;
@@ -110,12 +144,23 @@ Na lista **Estes são os convites que esperam por esta conta**, cada convite tem
 ![Lista Estes são os convites que esperam por esta conta, no computador](../assets/capturas/manual-10-primeiros-passos-convite-lista-desktop.png)
 ![Lista Estes são os convites que esperam por esta conta, no celular (375px)](../assets/capturas/manual-10-primeiros-passos-convite-lista-375.png)
 
+### Termos de Uso e Política de Privacidade
+
+Quando há textos novos para aceitar, a tela de termos vem por último, depois do aviso do que a organização passa a ver. Você marca:
+
+- **Li e aceito os Termos de Uso**;
+- **Li e aceito a Política de Privacidade**;
+- os termos da organização, quando ela tiver os seus.
+
+O botão **Aceitar e continuar** só fica ativo depois que cada documento foi marcado. Se não concordar, toque em **Não aceito os termos e saio**: a recusa encerra a entrada, e você só usa o app depois de aceitar. A regra geral, com mais detalhes, está no [capítulo 1](/1-avaliado-colaborador/).
+
 ## 4. Achar o que responder
 
 Depois de entrar, veja o **Início**. Há dois jeitos de chegar ao questionário de perfil:
 
 - **Cartão "Questionários de perfil para responder".** Aparece no Início quando alguém indicou você para responder um questionário de perfil. Cada linha mostra o nome do questionário, a área e a situação ("Não começou" ou "Em andamento"). Toque no nome para abrir. Se você foi lembrado, aparece "lembrete: falta concluir". Quando você conclui o questionário, ele sai do cartão; se não sobrar nenhum para responder, o cartão some do Início. O questionário concluído continua em **Meu questionário de perfil**, no menu, marcada como "Respondida · ver seu Retrato", e abre o seu Retrato de Atuação.
 - **Cartão "Minha participação".** Se você ainda não respondeu nenhuma etapa, o cartão diz "Você ainda não respondeu nenhuma etapa do questionário de perfil." e traz o botão **Começar meu questionário de perfil**. Ele leva à página **Questionários de perfil**.
+- **Cartão "Meu desenvolvimento".** Se a organização montou um roteiro de desenvolvimento para você, o Início ganha esse cartão, com o seu desenvolvimento em andamento. Quem não tem roteiro ativo não vê o cartão.
 
 Você também pode abrir **Meu questionário de perfil** pelo menu. No computador, ele fica na barra lateral à esquerda. No celular, toque no ícone de menu (☰), no canto superior direito.
 
@@ -133,8 +178,8 @@ Você também pode abrir **Meu questionário de perfil** pelo menu. No computado
 
 O questionário tem três etapas: **Trajetória**, **Perguntas** e **Situações**. Cada uma mostra o tempo estimado: cerca de 8 minutos na Trajetória, cerca de 5 nas Perguntas e cerca de 7 nas Situações, e o questionário inteiro leva cerca de 20 minutos. O tempo é o mesmo para todas as pessoas e não mede o seu desempenho. Você pode parar e continuar depois, e as respostas ficam salvas a cada passo.
 
-![Início do questionário de perfil, no computador, com o tempo total (cerca de 20 min), as três etapas e o tempo de cada uma](../assets/capturas/manual-10-primeiros-passos-questionario-inicio-desktop.png)
-![Início do questionário de perfil, no celular (375px), com o tempo total e as etapas Trajetória, Perguntas e Situações](../assets/capturas/manual-10-primeiros-passos-questionario-inicio-375.png)
+![Início do questionário de perfil, no computador, com o tempo total (cerca de 20 min), as três etapas e o tempo de cada uma](../assets/capturas/manual-17-questionario-inicio-desktop.png)
+![Início do questionário de perfil, no celular (375px), com o tempo total e as etapas Trajetória, Perguntas e Situações](../assets/capturas/manual-17-questionario-inicio-375.png)
 
 ### Antes de começar
 
@@ -189,8 +234,8 @@ As perguntas são cartões, um de cada vez. Cada cartão tem o contador "Pergunt
 
 Antes da pergunta de interesses, o questionário mostra o aviso **Antes de continuar**, explicando quem vê os seus interesses e as suas escolhas nas situações. Toque em **Entendi, continuar** para seguir.
 
-![Etapa Perguntas, no computador, com a Pergunta 1 de 8, Horas por semana, o campo vazio e o botão Confirmar e seguir](../assets/capturas/manual-10-primeiros-passos-perguntas-desktop.png)
-![Etapa Perguntas, no celular (375px), com a Pergunta 1 de 8 e o passo 2 de 3](../assets/capturas/manual-10-primeiros-passos-perguntas-375.png)
+![Etapa Perguntas, no computador, com a Pergunta 1 de 8, Horas por semana, o campo vazio e o botão Confirmar e seguir](../assets/capturas/manual-17-questionario-perguntas-desktop.png)
+![Etapa Perguntas, no celular (375px), com a Pergunta 1 de 8, o tempo por etapa e os botões de revisão](../assets/capturas/manual-17-questionario-perguntas-375.png)
 
 **Dica:** responda as situações como você age, não como acha que deveria agir. A resposta sincera é a única que ajuda a organização a encaixar você.
 
@@ -325,6 +370,9 @@ O convite vale só para o e-mail que a organização cadastrou. Saia da conta pe
 
 **Errei uma resposta antes de concluir. Consigo mudar?**
 Consegue, enquanto não tocar em **Concluir**. Use **Pergunta anterior** ou **Rever a trajetória**, mude a resposta e toque em **Confirmar e seguir** no cartão. Depois de concluir, não há como mudar.
+
+**O e-mail do convite não tem o botão Criar a minha conta. O que faço?**
+Isso acontece quando o convite dá papel de gestão ou quando a organização está em quarentena. Use o código por e-mail, descrito na seção 2.1. Se a tela disser que o link não vale mais e o convite ainda estiver valendo, use **Pedir um código por e-mail**.
 
 **Não vejo nenhum questionário de perfil. É problema?**
 Não necessariamente. O questionário aparece quando a organização chama você. Se ela ainda não aceitou o seu convite, ou não chamou você, a lista fica vazia.
