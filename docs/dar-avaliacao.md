@@ -70,6 +70,7 @@ Se você não quer responder, toque em **Prefiro não responder** no formulário
 ![Página Você já respondeu esta avaliação, no computador](../assets/capturas/manual-18-avaliacao-ja-respondeu-desktop.png)
 ![Página Você já respondeu esta avaliação, no celular (375px)](../assets/capturas/manual-18-avaliacao-ja-respondeu-375.png)
 
+- **O link deixou de abrir o formulário.** Pode acontecer se a pessoa avaliada perdeu o acesso ao Katatu depois do pedido. Não há nada a fazer pelo link: peça a quem pediu a sua resposta que confirme a situação e, se for o caso, envie um pedido novo.
 - **Organização em quarentena.** Enquanto a organização estiver em quarentena, ela não aceita respostas, inclusive por link. Fale com quem pediu a sua resposta.
 
 ## O que você não vê e o que a organização vê
