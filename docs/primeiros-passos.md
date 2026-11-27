@@ -113,6 +113,12 @@ Confira, nessa ordem: se você está usando o código mais recente (o último e-
 
 **Armadilha:** se você digitar um e-mail diferente do que recebeu o convite, o código não chega, e a tela não explica o motivo. Isso é proposital: a mensagem é a mesma para qualquer e-mail, para ninguém descobrir quem foi convidado. Confira o endereço antes de tocar em **Receber o código**.
 
+## Como você entra
+
+Depois da conta criada, você entra com o seu e-mail e a sua senha. Como colaborador, você entra direto, sem segundo passo. O segundo passo, com código por e-mail ou aplicativo autenticador, vale só para contas administrativas.
+
+**Esqueci a senha.** Para trocar a senha em **Meu Perfil** é preciso informar a senha atual. Se você não lembra a senha, não há como criar uma nova só com o e-mail; fale com a administração da sua organização antes de tentar de novo.
+
 ## 3. Aceitar os termos e o aviso do que a organização vê
 
 **Por que isto importa:** aceitar não é só concordar com um texto. Ao aceitar o vínculo, você libera a organização a ver os seus dados e a sua formação.
@@ -301,8 +307,10 @@ Quem vê o quê:
 
 Se o seu e-mail mudou, troque o endereço de entrada em **Meu Perfil › Conta**, na seção **E-mail de acesso**. A troca só vale quando você prova que tem acesso ao e-mail de hoje e ao novo. Por isso, são dois passos:
 
-1. **Peça a troca.** Digite o e-mail novo e toque em **Enviar link ao e-mail atual**. O app pede a confirmação do segundo passo (o código do aplicativo autenticador, a passkey ou o código por e-mail). Um e-mail com um link chega ao seu e-mail **de hoje**, nunca ao novo.
+1. **Peça a troca.** Digite o e-mail novo e toque em **Enviar link ao e-mail atual**. Antes disso, o app pede uma confirmação recente com o seu aplicativo autenticador ou com a sua passkey. O código por e-mail não vale nessa etapa, e a senha também não substitui essa confirmação. Um e-mail com um link chega ao seu e-mail **de hoje**, nunca ao novo.
 2. **Abra o link e digite o código.** Na página do link, toque em **Enviar código ao novo e-mail**. Um código de 6 dígitos chega ao novo e-mail. Digite o código e toque em **Confirmar a troca**.
+
+**Antes de trocar:** se você ainda não tem aplicativo autenticador nem passkey, cadastre um em **Meu Perfil** antes de pedir a troca. Se não puder cadastrar, peça ao gestor da sua organização que troque o seu e-mail de acesso.
 
 **Quando vale:** a partir da confirmação, você entra com o e-mail novo, e o antigo deixa de entrar. As suas organizações, os seus papéis e os seus dados e a sua formação ficam como estavam. Os outros aparelhos em que você estava entrando são desconectados.
 
@@ -373,6 +381,9 @@ Consegue, enquanto não tocar em **Concluir**. Use **Pergunta anterior** ou **Re
 
 **O e-mail do convite não tem o botão Criar a minha conta. O que faço?**
 Isso acontece quando o convite dá papel de gestão ou quando a organização está em quarentena. Use o código por e-mail, descrito na seção 2.1. Se a tela disser que o link não vale mais e o convite ainda estiver valendo, use **Pedir um código por e-mail**.
+
+**Esqueci a minha senha. Como entro?**
+Para trocar a senha em **Meu Perfil** é preciso informar a senha atual. Se você não lembra a senha, fale com a administração da sua organização. Não tente criar uma nova sem a atual: a tela não aceita.
 
 **Não vejo nenhum questionário de perfil. É problema?**
 Não necessariamente. O questionário aparece quando a organização chama você. Se ela ainda não aceitou o seu convite, ou não chamou você, a lista fica vazia.
