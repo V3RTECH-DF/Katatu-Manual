@@ -307,16 +307,16 @@ Quem vê o quê:
 
 Se o seu e-mail mudou, troque o endereço de entrada em **Meu Perfil › Conta**, na seção **E-mail de acesso**. A troca só vale quando você prova que tem acesso ao e-mail de hoje e ao novo. Por isso, são dois passos:
 
-1. **Peça a troca.** Digite o e-mail novo e toque em **Enviar link ao e-mail atual**. Antes disso, o app pede uma confirmação recente com o seu aplicativo autenticador ou com a sua passkey. O código por e-mail não vale nessa etapa, e a senha também não substitui essa confirmação. Um e-mail com um link chega ao seu e-mail **de hoje**, nunca ao novo.
+1. **Peça a troca.** Digite o e-mail novo e toque em **Enviar link ao e-mail atual**. Antes disso, o app confirma que é você. Se a sua conta tem aplicativo autenticador ou passkey, a confirmação é por eles (o código por e-mail não vale nessa etapa, e a senha também não os substitui). Se a sua conta não tem nenhum dos dois, o que é comum para colaboradores, o app mostra o campo **Senha atual**: digite a senha com que você entra. Um e-mail com um link chega ao seu e-mail **de hoje**, nunca ao novo.
 2. **Abra o link e digite o código.** Na página do link, toque em **Enviar código ao novo e-mail**. Um código de 6 dígitos chega ao novo e-mail. Digite o código e toque em **Confirmar a troca**.
 
-**Antes de trocar:** se você ainda não tem aplicativo autenticador nem passkey, cadastre um em **Meu Perfil** antes de pedir a troca. Se não puder cadastrar, peça ao gestor da sua organização que troque o seu e-mail de acesso.
+**Antes de trocar:** não precisa cadastrar aplicativo autenticador nem passkey. Sem eles, basta saber a sua senha atual. Se você não lembra a senha, peça ao gestor da sua organização que troque o seu e-mail de acesso.
 
 **Quando vale:** a partir da confirmação, você entra com o e-mail novo, e o antigo deixa de entrar. As suas organizações, os seus papéis e os seus dados e a sua formação ficam como estavam. Os outros aparelhos em que você estava entrando são desconectados.
 
 **Se não foi você quem pediu:** ignore o e-mail com o link. O pedido vence sozinho em 48 horas e nada muda.
 
-**Armadilha:** o código vale 15 minutos. Cinco códigos errados cancelam o pedido, e você precisa pedir a troca outra vez.
+**Armadilha:** o código vale 15 minutos. Cinco códigos errados cancelam o pedido, e você precisa pedir a troca outra vez. A senha atual errada várias vezes seguidas bloqueia novas tentativas por um tempo, e o app avisa quando isso acontece.
 
 **Se você perdeu o acesso ao e-mail antigo:** sem ele, não há como abrir o link. Peça à administração da organização para trocar o seu e-mail de acesso. Se você participa de mais de uma organização, a administração orienta a procurar o suporte da plataforma.
 

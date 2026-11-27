@@ -1,10 +1,10 @@
 ---
-title: Manual do Usuário Katatu
+title: Manual
 nav_order: 1
 permalink: /
 ---
 
-# Manual do Usuário — Katatu
+# Manual
 
 Bem-vindo ao guia operacional oficial do **Katatu** (`https://app.katatu.com.br`), a plataforma da V3RTECH para desenho situado de funções, avaliação determinística de aderência (*Katatu Fit*), plano vivo de compensação dos primeiros 90 dias (*Katatu Gap*), governança de certidões legais (*Cofre de Conformidade*) e leitura de sucessão e riscos estruturais (*Katatu Mapa*).
 
